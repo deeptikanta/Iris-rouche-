@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>table {width:100%;}table, th, td {border: 1px solid black;border-collapse: collapse;}th, td {padding: 5px;text-align: left;}table.names tr:nth-child(even) { background-color: #ffffff; } table.names tr:nth-child(odd) { background-color:#ffffff; } table.names th	{ background-color: #c1c1c1; }.Mytbl {width:100%;background-color: #3D85C6;} .Mytblfooter {width:100%;background-color: #ffffff;} </style>
+
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+th, td {
+    padding: 5px;
+}
+</style>
+</HEAD> 
+<BODY>
+<P>&nbsp;</P>
+<TABLE class="Mytbl">
+  <TBODY>
+  <TR>
+    <TD colspan="2"><h2>Project Summary</h2><I><div id="modulelist_div">Module List</div></TD>
+    <TD rowspan="8" width="30%"><div id="chart_div">"chart"</div></TD></TR>
+  <TR>
+    <TD width="30%" >Start Time</TD>
+    <TD id="Stime"></TD></TR>
+  <TR>
+    <TD>End Time</TD>
+    <TD id="Etime"></TD></TR>
+  <TR>
+    <TD >Total Tested</TD>
+    <TD id="TT">0</TD></TR>
+  <TR>
+    <TD>Passed</TD>
+    <TD id="PassedTC">0</TD></TR>
+  <TR>
+    <TD>Failed</TD>
+    <TD id="FailedTC">0</TD></TR>
+  <TR>
+    <TD>Not Completed</TD>
+    <TD id="NotCompletedTC">0</TD></TR>
+  <TR>
+    <TD>Not Scheduled</TD>
+    <TD id="NotScheduledTC">0</TD></TR>
+</TBODY>
+</TABLE>
+</body>
+<!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+	<!--script-->
+var Pcount=0,Fcount=0;Ncount=0;
+DiffrentFile=false;
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.open("GET","TestSuite-Summary.xml",false);
+xmlhttp.send();
+xmlDoc=xmlhttp.responseXML; 
+
+document.write("<table><tr><th>Module</th><th>UID</th><th>TestName</th><th>Run</th><th>ExecutionStatus</th></tr>");
+var x=xmlDoc.getElementsByTagName("record");
+var totalCountExecuted=0;
+var Nscount=0;
+var moduleList = [];
+var moduleName = "";
+//moduleList[0] = "ABC";
+//moduleList[1] = "CytoPrep";
+//moduleList[2] = "SurePath";
+//"CytoPrep", "ThinPrep", "SurePath"
+
+for (i=1;i<x.length;i++)
+  { 
+  document.write("<tr><td>");
+  document.write(x[i].getElementsByTagName("Module")[0].childNodes[0].nodeValue);
+  document.write("</td><td>");
+  document.write(x[i].getElementsByTagName("UID")[0].childNodes[0].nodeValue);  
+  document.write("</td><td>");
+  document.write(x[i].getElementsByTagName("TestName")[0].childNodes[0].nodeValue);
+  document.write("</td><td>");
+  document.write(x[i].getElementsByTagName("Run")[0].childNodes[0].nodeValue); 
+  if(x[i].getElementsByTagName("Run")[0].childNodes[0].nodeValue=="Yes"){
+	totalCountExecuted+=1;
+	moduleName = x[i].getElementsByTagName("Module")[0].childNodes[0].nodeValue;
+	isExist = false;
+	for(m=0;m<moduleList.length;m++){
+		if(moduleList[m] == moduleName){
+			isExist = true;//moduleList[m+1] = moduleName;			
+		}
+	}
+	if(!isExist){
+		moduleList[m] = moduleName;
+	}
+	
+  }else{
+	Nscount+=1;
+  }
+  if(x[i].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue=="FAIL")
+  {
+  document.write("</td ><td bgcolor='red'>");
+  document.write(x[i].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue);
+  Fcount+=1;
+  }
+  else if(x[i].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue=="Not Completed")
+  {
+  document.write("</td ><td bgcolor='#F9CB9C'>");
+  document.write(x[i].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue);
+  Ncount+=1;
+  }
+  //else if(x[i].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue=="Not Scheduled")
+  //{
+  //document.write("</td ><td>");
+  //document.write(x[i].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue);
+  //Nscount+=1;
+  //}
+  else if(x[i].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue=="PASS")
+  {
+  document.write("</td ><td bgcolor='#6AA84F'>");
+  document.write(x[i].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue);
+  Pcount+=1;
+  }
+  else{
+  document.write("</td ><td>");
+  document.write(x[i].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue);  	
+  }
+  document.write("</td></tr>");
+  }
+document.write("</table>");
+
+document.getElementById('TT').innerHTML = totalCountExecuted;
+document.getElementById('PassedTC').innerHTML = Pcount;
+document.getElementById('FailedTC').innerHTML = Fcount;
+document.getElementById('NotCompletedTC').innerHTML = Ncount;
+document.getElementById('NotScheduledTC').innerHTML = Nscount;
+document.getElementById('modulelist_div').innerHTML = moduleList.join(", ");
+
+document.getElementById('Stime').innerHTML = x[0].getElementsByTagName("Run")[0].childNodes[0].nodeValue;
+document.getElementById('Etime').innerHTML = x[0].getElementsByTagName("ExecutionStatus")[0].childNodes[0].nodeValue;
+
+
+//Pie Chart
+// Load the Visualization API and the piechart package.
+      google.load('visualization', '1.0', {'packages':['corechart']});
+
+      // Set a callback to run when the Google Visualization API is loaded.
+      google.setOnLoadCallback(drawChart);
+
+      // Callback that creates and populates a data table,
+      // instantiates the pie chart, passes in the data and
+      // draws it.
+      function drawChart() {
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Status');
+        data.addColumn('number', 'Count');
+        data.addRows([
+          ['PASS', Pcount],
+          ['FAIL', Fcount],
+          ['NotCompleted', Ncount]
+        ]);
+
+        // Set chart options
+        var options = {'title':'Project execution summary',
+                       'width':400,
+                       'height':250};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+
+</script>
+
+</HTML>

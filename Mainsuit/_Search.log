@@ -1,0 +1,896 @@
+------------------TempExprtFoldr : ScriptTestLog_begin_begin : Wed Jun 8 01:30:24 PDT 2016------------------
+Row 1 Time : 6/8/2016 12:54:39 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/8/2016 12:54:40 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/8/2016 12:54:40 AM Message Return TestReporting: HTML
+Row 4 Time : 6/8/2016 12:54:40 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/8/2016 12:54:40 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/8/2016 12:54:40 AM Message Return Browser: iexplore
+Row 7 Time : 6/8/2016 12:54:40 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/8/2016 12:54:40 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/8/2016 12:54:40 AM Message Return LanVersion: EN
+Row 10 Time : 6/8/2016 12:54:40 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/8/2016 12:54:41 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/8/2016 12:54:41 AM Message Return ServerIP: 10.23.197.204
+Row 13 Time : 6/8/2016 12:54:41 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/8/2016 12:54:41 AM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 15 Time : 6/8/2016 12:54:41 AM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 16 Time : 6/8/2016 12:54:41 AM Message Microsoft Internet Explorer was launched.
+Row 17 Time : 6/8/2016 12:54:42 AM Event The 'Blank Page - Windows Internet Explorer' window was minimized.
+Row 18 Time : 6/8/2016 12:54:42 AM Message report file message
+------------------TempExprtFoldr : ScriptTestLogUID1674_SEARCH_Find_Case_ButtonUID1674 : Wed Jun 8 01:30:29 PDT 2016------------------
+Row 1 Time : 6/8/2016 1:20:31 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/8/2016 1:20:31 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/8/2016 1:20:31 AM Message Return Description: Virtuoso
+Row 4 Time : 6/8/2016 1:20:31 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/8/2016 1:20:31 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/8/2016 1:20:31 AM Message Return TestReporting: HTML
+Row 7 Time : 6/8/2016 1:20:31 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/8/2016 1:20:31 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/8/2016 1:20:31 AM Message Return Browser: iexplore
+Row 10 Time : 6/8/2016 1:20:31 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/8/2016 1:20:32 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/8/2016 1:20:32 AM Message Return LanVersion: EN
+Row 13 Time : 6/8/2016 1:20:32 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/8/2016 1:20:32 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/8/2016 1:20:32 AM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/8/2016 1:20:32 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/8/2016 1:20:33 AM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/8/2016 1:20:33 AM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/8/2016 1:20:34 AM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/8/2016 1:20:34 AM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1674_SEARCH_SortResults_Search
+Row 21 Time : 6/8/2016 1:20:34 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/8/2016 1:20:34 AM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/8/2016 1:20:34 AM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/8/2016 1:20:34 AM Message  User Already logged in...
+Row 25 Time : 6/8/2016 1:20:38 AM Message Process "iexplore" stayed in the system after the close command was used.
+Row 26 Time : 6/8/2016 1:20:50 AM Message Microsoft Internet Explorer was launched.
+Row 27 Time : 6/8/2016 1:20:53 AM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 28 Time : 6/8/2016 1:20:55 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 29 Time : 6/8/2016 1:20:55 AM Message .ext-el-mask-msg exists: false
+Row 30 Time : 6/8/2016 1:20:55 AM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 31 Time : 6/8/2016 1:20:56 AM Message Now come to the Login page ...
+Row 32 Time : 6/8/2016 1:20:57 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 33 Time : 6/8/2016 1:20:59 AM Event The window was clicked with the left mouse button.
+Row 34 Time : 6/8/2016 1:21:04 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 35 Time : 6/8/2016 1:21:04 AM Message .ext-el-mask-msg exists: false
+Row 36 Time : 6/8/2016 1:21:04 AM Message No Alert window in login page.
+Row 37 Time : 6/8/2016 1:21:04 AM Message Login Virtuoso/SLIS home page
+Row 38 Time : 6/8/2016 1:21:04 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 39 Time : 6/8/2016 1:21:04 AM Message Element: *Logout* Found.
+Row 40 Time : 6/8/2016 1:21:04 AM Event The mouse pointer hovered over the window.
+Row 41 Time : 6/8/2016 1:21:05 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1674_SEARCH_SortResults_Search\UID1674_Step1.jpeg has been saved
+Row 42 Time : 6/8/2016 1:21:25 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 43 Time : 6/8/2016 1:21:25 AM Message Clicking Panel Find Cases...
+Row 44 Time : 6/8/2016 1:21:25 AM Event The window was clicked with the left mouse button.
+Row 45 Time : 6/8/2016 1:21:28 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 46 Time : 6/8/2016 1:21:28 AM Message .ext-el-mask-msg exists: false
+Row 47 Time : 6/8/2016 1:21:30 AM Image ScreenShot for click Find Cases
+Row 48 Time : 6/8/2016 1:21:35 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_565").Panel("x_auto_568").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 1).Panel("startDate")
+Row 49 Time : 6/8/2016 1:21:36 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1674_SEARCH_SortResults_Search\UID1674_Step2.jpeg has been saved
+Row 50 Time : 6/8/2016 1:21:36 AM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:01:05
+Row 51 Time : 6/8/2016 1:21:38 AM Message 1674:PASS
+Row 52 Time : 6/8/2016 1:21:39 AM Message ---------------- Automation TC# : UID1674_SEARCH_SortResults_Search PASS! ---------------- 
+Row 53 Time : 6/8/2016 1:21:39 AM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID1677_SEARCH_Invalid_SearchUID1677 : Wed Jun 8 01:30:30 PDT 2016------------------
+Row 1 Time : 6/8/2016 1:21:39 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/8/2016 1:21:39 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/8/2016 1:21:39 AM Message Return Description: Virtuoso
+Row 4 Time : 6/8/2016 1:21:39 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/8/2016 1:21:40 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/8/2016 1:21:40 AM Message Return TestReporting: HTML
+Row 7 Time : 6/8/2016 1:21:40 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/8/2016 1:21:40 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/8/2016 1:21:40 AM Message Return Browser: iexplore
+Row 10 Time : 6/8/2016 1:21:40 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/8/2016 1:21:40 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/8/2016 1:21:40 AM Message Return LanVersion: EN
+Row 13 Time : 6/8/2016 1:21:40 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/8/2016 1:21:40 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/8/2016 1:21:40 AM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/8/2016 1:21:40 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/8/2016 1:21:41 AM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/8/2016 1:21:41 AM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/8/2016 1:21:42 AM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/8/2016 1:21:42 AM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1677_SEARCH_Invalid_Search
+Row 21 Time : 6/8/2016 1:21:42 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/8/2016 1:21:42 AM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/8/2016 1:21:42 AM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/8/2016 1:21:42 AM Message  User Already logged in...
+Row 25 Time : 6/8/2016 1:21:47 AM Message Process "iexplore" stayed in the system after the close command was used.
+Row 26 Time : 6/8/2016 1:21:47 AM Message iexplore process has been terminated successfully!
+Row 27 Time : 6/8/2016 1:21:49 AM Message Microsoft Internet Explorer was launched.
+Row 28 Time : 6/8/2016 1:21:52 AM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 29 Time : 6/8/2016 1:21:55 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 30 Time : 6/8/2016 1:21:55 AM Message .ext-el-mask-msg exists: false
+Row 31 Time : 6/8/2016 1:21:55 AM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 32 Time : 6/8/2016 1:21:56 AM Message Now come to the Login page ...
+Row 33 Time : 6/8/2016 1:21:56 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 34 Time : 6/8/2016 1:21:58 AM Event The window was clicked with the left mouse button.
+Row 35 Time : 6/8/2016 1:22:04 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 36 Time : 6/8/2016 1:22:04 AM Message .ext-el-mask-msg exists: false
+Row 37 Time : 6/8/2016 1:22:05 AM Message No Alert window in login page.
+Row 38 Time : 6/8/2016 1:22:05 AM Message Login Virtuoso/SLIS home page
+Row 39 Time : 6/8/2016 1:22:05 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 40 Time : 6/8/2016 1:22:05 AM Message Element: *Logout* Found.
+Row 41 Time : 6/8/2016 1:22:05 AM Event The mouse pointer hovered over the window.
+Row 42 Time : 6/8/2016 1:22:06 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1677_SEARCH_Invalid_Search\UID1677_Step1.jpeg has been saved
+Row 43 Time : 6/8/2016 1:22:25 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 44 Time : 6/8/2016 1:22:25 AM Message Clicking Panel Find Cases...
+Row 45 Time : 6/8/2016 1:22:26 AM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/8/2016 1:22:29 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 47 Time : 6/8/2016 1:22:29 AM Message .ext-el-mask-msg exists: false
+Row 48 Time : 6/8/2016 1:22:30 AM Image ScreenShot for click Find Cases
+Row 49 Time : 6/8/2016 1:22:36 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_565").Panel("x_auto_568").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 1).Panel("startDate")
+Row 50 Time : 6/8/2016 1:22:37 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1677_SEARCH_Invalid_Search\UID1677_Step2.jpeg has been saved
+Row 51 Time : 6/8/2016 1:22:43 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 52 Time : 6/8/2016 1:22:43 AM Message Clicking Panel Find Cases...
+Row 53 Time : 6/8/2016 1:22:43 AM Event The window was clicked with the left mouse button.
+Row 54 Time : 6/8/2016 1:22:47 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 55 Time : 6/8/2016 1:22:47 AM Message .ext-el-mask-msg exists: false
+Row 56 Time : 6/8/2016 1:22:47 AM Image ScreenShot for click Find Cases
+Row 57 Time : 6/8/2016 1:22:52 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_690").Panel("x_auto_693").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_689").Textbox("x_auto_689_input")
+Row 58 Time : 6/8/2016 1:22:53 AM Event The window was clicked with the left mouse button.
+Row 59 Time : 6/8/2016 1:22:56 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 60 Time : 6/8/2016 1:22:56 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 61 Time : 6/8/2016 1:23:04 AM Image Screenshot for searching results!
+Row 62 Time : 6/8/2016 1:23:04 AM Warning The property value "Displaying 1 - 25 of 31" does not equal the baseline value "No data to display".
+Row 63 Time : 6/8/2016 1:23:04 AM Message Total number of found record: 31
+Row 64 Time : 6/8/2016 1:23:15 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_815").Panel("x_auto_837").Panel(0).Panel(0).Panel("x_auto_843").Panel(0).Panel(0).Panel("x_auto_871").Panel("x_auto_892").Panel(0).Panel(1).Panel("x_auto_893").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_893_x_auto_990")
+Row 65 Time : 6/8/2016 1:23:34 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_815").Panel("x_auto_837").Panel(0).Panel(0).Panel("x_auto_843").Panel(0).Panel(0).Panel("x_auto_871").Panel("x_auto_892").Panel(0).Panel(1).Panel("x_auto_893").Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("x_auto_912").Cell(0, 2).Panel("x_auto_899")
+Row 66 Time : 6/8/2016 1:23:34 AM Event The mouse pointer hovered over the window.
+Row 67 Time : 6/8/2016 1:23:53 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_815").Panel("x_auto_837").Panel(0).Panel(0).Panel("x_auto_843").Panel(0).Panel(0).Panel("x_auto_871").Panel("x_auto_892").Panel(0).Panel(1).Panel("x_auto_893").Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("x_auto_912").Cell(0, 2).Panel("x_auto_899").Link(0)
+Row 68 Time : 6/8/2016 1:23:53 AM Event The window was clicked with the left mouse button.
+Row 69 Time : 6/8/2016 1:24:13 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_899_menu").Panel(0).Panel("x_menu_el_x_auto_1398")
+Row 70 Time : 6/8/2016 1:24:13 AM Event The window was clicked with the left mouse button.
+Row 71 Time : 6/8/2016 1:24:40 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_815").Panel("x_auto_837").Panel(0).Panel(0).Panel("x_auto_840").Panel(0).Panel(0).Panel("x_auto_846").Panel(0).Panel("x_auto_847").Panel("x_auto_855").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 72 Time : 6/8/2016 1:24:40 AM Message Clicking Panel Find Cases...
+Row 73 Time : 6/8/2016 1:24:40 AM Event The window was clicked with the left mouse button.
+Row 74 Time : 6/8/2016 1:24:44 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 75 Time : 6/8/2016 1:24:44 AM Message .ext-el-mask-msg exists: false
+Row 76 Time : 6/8/2016 1:24:44 AM Image ScreenShot for click Find Cases
+Row 77 Time : 6/8/2016 1:25:00 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_815").Panel("x_auto_837").Panel(0).Panel(0).Panel("x_auto_843").Panel(0).Panel(0).Panel("x_auto_1827").Panel("x_auto_1830").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_1826").Textbox("x_auto_1826_input")
+Row 78 Time : 6/8/2016 1:25:02 AM Event The window was clicked with the left mouse button.
+Row 79 Time : 6/8/2016 1:25:05 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 80 Time : 6/8/2016 1:25:05 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 81 Time : 6/8/2016 1:25:09 AM Image Screenshot for searching results!
+Row 82 Time : 6/8/2016 1:25:09 AM Message The property value "No data to display" equals the baseline value "No data to display".
+Row 83 Time : 6/8/2016 1:25:09 AM Message No result found! Please check if precondition is met
+Row 84 Time : 6/8/2016 1:25:10 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1677_SEARCH_Invalid_Search\UID1677_Step3.jpeg has been saved
+Row 85 Time : 6/8/2016 1:25:10 AM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:03:31
+Row 86 Time : 6/8/2016 1:25:12 AM Message 1677:PASS
+Row 87 Time : 6/8/2016 1:25:13 AM Message ---------------- Automation TC# : UID1677_SEARCH_Invalid_Search PASS! ---------------- 
+Row 88 Time : 6/8/2016 1:25:13 AM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID1672_SEARCH_Criteria_Specific_SearchUID1672 : Wed Jun 8 01:30:29 PDT 2016------------------
+Row 1 Time : 6/8/2016 12:59:42 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/8/2016 12:59:42 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/8/2016 12:59:42 AM Message Return Description: Virtuoso
+Row 4 Time : 6/8/2016 12:59:42 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/8/2016 12:59:42 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/8/2016 12:59:42 AM Message Return TestReporting: HTML
+Row 7 Time : 6/8/2016 12:59:42 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/8/2016 12:59:43 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/8/2016 12:59:43 AM Message Return Browser: iexplore
+Row 10 Time : 6/8/2016 12:59:43 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/8/2016 12:59:43 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/8/2016 12:59:43 AM Message Return LanVersion: EN
+Row 13 Time : 6/8/2016 12:59:43 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/8/2016 12:59:43 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/8/2016 12:59:43 AM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/8/2016 12:59:43 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/8/2016 12:59:44 AM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/8/2016 12:59:44 AM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/8/2016 12:59:45 AM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/8/2016 12:59:45 AM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search
+Row 21 Time : 6/8/2016 12:59:45 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/8/2016 12:59:45 AM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/8/2016 12:59:45 AM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/8/2016 12:59:45 AM Message  User Already logged in...
+Row 25 Time : 6/8/2016 12:59:49 AM Message Process "iexplore" stayed in the system after the close command was used.
+Row 26 Time : 6/8/2016 12:59:49 AM Message iexplore process has been terminated successfully!
+Row 27 Time : 6/8/2016 12:59:54 AM Message Microsoft Internet Explorer was launched.
+Row 28 Time : 6/8/2016 12:59:57 AM Event Navigating to the http://10.23.197.204/slis/ page.
+Row 29 Time : 6/8/2016 12:59:59 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 30 Time : 6/8/2016 12:59:59 AM Message .ext-el-mask-msg exists: false
+Row 31 Time : 6/8/2016 12:59:59 AM Event The 'http://10.23.197.204/slis/ - Windows Internet Explorer' window was maximized.
+Row 32 Time : 6/8/2016 1:00:00 AM Message Now come to the Login page ...
+Row 33 Time : 6/8/2016 1:00:01 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/").Panel("v_app_center").Panel("x_auto_0").Panel("x_auto_1").Panel("x_auto_6").Panel("x_auto_10").Panel("x_auto_13").Panel(0).Panel(0).Form(0).Panel(0).Panel("x_form_el_x_auto_14").Panel("x_auto_14").Textbox("x_auto_14_input")
+Row 34 Time : 6/8/2016 1:00:03 AM Event The window was clicked with the left mouse button.
+Row 35 Time : 6/8/2016 1:00:12 AM Message Found 1 elements matching the CSS selector: .ext-el-mask-msg
+Row 36 Time : 6/8/2016 1:00:12 AM Message .ext-el-mask-msg exists: true
+Row 37 Time : 6/8/2016 1:00:12 AM Message .ext-el-mask-msg VisibleOnScreen false
+Row 38 Time : 6/8/2016 1:00:13 AM Message No Alert window in login page.
+Row 39 Time : 6/8/2016 1:00:13 AM Message Login Virtuoso/SLIS home page
+Row 40 Time : 6/8/2016 1:00:13 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center")
+Row 41 Time : 6/8/2016 1:00:13 AM Message Element: *Logout* Found.
+Row 42 Time : 6/8/2016 1:00:13 AM Event The mouse pointer hovered over the window.
+Row 43 Time : 6/8/2016 1:00:15 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 44 Time : 6/8/2016 1:00:15 AM Message .ext-el-mask-msg exists: false
+Row 45 Time : 6/8/2016 1:00:15 AM Message Is New activated? true
+Row 46 Time : 6/8/2016 1:00:16 AM Message Clicking button *New ...
+Row 47 Time : 6/8/2016 1:00:25 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(0).Panel("x_auto_70").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("NEW").Cell(1, 1).Button(0)
+Row 48 Time : 6/8/2016 1:00:25 AM Event The window was clicked with the left mouse button.
+Row 49 Time : 6/8/2016 1:00:28 AM Image ScreenShot for click button:*New
+Row 50 Time : 6/8/2016 1:00:29 AM Message Input case information...
+Row 51 Time : 6/8/2016 1:00:35 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("CaseInfoWidget").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 1).Panel("accessionNumber").Textbox("accessionNumber_input")
+Row 52 Time : 6/8/2016 1:00:35 AM Message Textbox Input element: accessionNumber-input Found.
+Row 53 Time : 6/8/2016 1:00:35 AM Event The mouse pointer hovered over the window.
+Row 54 Time : 6/8/2016 1:00:35 AM Event The window was clicked with the left mouse button.
+Row 55 Time : 6/8/2016 1:00:36 AM Event Keyboard input.
+Row 56 Time : 6/8/2016 1:00:36 AM Event Keyboard input.
+Row 57 Time : 6/8/2016 1:00:41 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("PatientInfoWidget").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_627").TextNode(0)
+Row 58 Time : 6/8/2016 1:00:41 AM Message TextNode element: 'Name:' Found.
+Row 59 Time : 6/8/2016 1:00:41 AM Event The mouse pointer hovered over the window.
+Row 60 Time : 6/8/2016 1:00:42 AM Message Textbox found,id:746
+Row 61 Time : 6/8/2016 1:00:42 AM Event The window was clicked with the left mouse button.
+Row 62 Time : 6/8/2016 1:00:45 AM Event Keyboard input.
+Row 63 Time : 6/8/2016 1:00:47 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 64 Time : 6/8/2016 1:00:47 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 65 Time : 6/8/2016 1:00:50 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 66 Time : 6/8/2016 1:00:50 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 67 Time : 6/8/2016 1:00:50 AM Message Found 1 elements matching the CSS selector: .x-combo-list-item.x-view-highlightrow.x-combo-selected
+Row 68 Time : 6/8/2016 1:00:50 AM Event The window was clicked with the left mouse button.
+Row 69 Time : 6/8/2016 1:00:58 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("PatientInfoWidget").Panel(0).Panel(0).Form(0).Table(0).Cell(1, 1).Panel("externalPatientId").Textbox("externalPatientId_input")
+Row 70 Time : 6/8/2016 1:00:58 AM Message 1771047
+Row 71 Time : 6/8/2016 1:01:03 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("WorkflowInfoWidget").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_638").TextNode(0)
+Row 72 Time : 6/8/2016 1:01:03 AM Message TextNode element: 'Case Workflow:' Found.
+Row 73 Time : 6/8/2016 1:01:04 AM Event The mouse pointer hovered over the window.
+Row 74 Time : 6/8/2016 1:01:04 AM Message Textbox found,id:829
+Row 75 Time : 6/8/2016 1:01:04 AM Event The window was clicked with the left mouse button.
+Row 76 Time : 6/8/2016 1:01:05 AM Message Found 1 elements matching the CSS selector: .x-combo-list.x-ignore.x-component.x-border
+Row 77 Time : 6/8/2016 1:01:05 AM Event The window was clicked with the left mouse button.
+Row 78 Time : 6/8/2016 1:01:12 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("WorkflowInfoWidget").Panel(0).Panel(0).Form(0).Table(0).Cell(1, 0).Panel("x_auto_639").TextNode(0)
+Row 79 Time : 6/8/2016 1:01:12 AM Message TextNode element: 'Client Name:' Found.
+Row 80 Time : 6/8/2016 1:01:12 AM Event The mouse pointer hovered over the window.
+Row 81 Time : 6/8/2016 1:01:13 AM Message Textbox found,id:838
+Row 82 Time : 6/8/2016 1:01:13 AM Event The window was clicked with the left mouse button.
+Row 83 Time : 6/8/2016 1:01:15 AM Event Keyboard input.
+Row 84 Time : 6/8/2016 1:01:18 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 85 Time : 6/8/2016 1:01:18 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 86 Time : 6/8/2016 1:01:20 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 87 Time : 6/8/2016 1:01:20 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 88 Time : 6/8/2016 1:01:20 AM Message Found 1 elements matching the CSS selector: .x-combo-list-item.x-view-highlightrow.x-combo-selected
+Row 89 Time : 6/8/2016 1:01:20 AM Event The window was clicked with the left mouse button.
+Row 90 Time : 6/8/2016 1:01:24 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("WorkflowInfoWidget").Panel(0).Panel(0).Form(0).Table(0).Cell(4, 0).Panel("x_auto_642").TextNode(0)
+Row 91 Time : 6/8/2016 1:01:24 AM Message TextNode element: 'Assigned Pathologist:' Found.
+Row 92 Time : 6/8/2016 1:01:24 AM Event The mouse pointer hovered over the window.
+Row 93 Time : 6/8/2016 1:01:25 AM Message Textbox found,id:963
+Row 94 Time : 6/8/2016 1:01:25 AM Event The window was clicked with the left mouse button.
+Row 95 Time : 6/8/2016 1:01:28 AM Event Keyboard input.
+Row 96 Time : 6/8/2016 1:01:30 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 97 Time : 6/8/2016 1:01:30 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 98 Time : 6/8/2016 1:01:32 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 99 Time : 6/8/2016 1:01:32 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 100 Time : 6/8/2016 1:01:32 AM Message Found 1 elements matching the CSS selector: .x-combo-list-item.x-view-highlightrow.x-combo-selected
+Row 101 Time : 6/8/2016 1:01:33 AM Event The window was clicked with the left mouse button.
+Row 102 Time : 6/8/2016 1:01:33 AM Message The Full Name is RefLN0608010133, RefFN0608010133 
+Row 103 Time : 6/8/2016 1:01:35 AM Event The window was clicked with the left mouse button.
+Row 104 Time : 6/8/2016 1:01:50 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1025").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1026").Panel("usersvitals").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 1).Panel("userid").Textbox("userid_input")
+Row 105 Time : 6/8/2016 1:01:53 AM Event Keyboard input.
+Row 106 Time : 6/8/2016 1:02:06 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1025").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1026").Panel("usersvitals").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 4).Panel("password").PasswordBox("password_input")
+Row 107 Time : 6/8/2016 1:02:07 AM Event Keyboard input.
+Row 108 Time : 6/8/2016 1:02:20 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1025").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1026").Panel("usersvitals").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 7).Panel("confirmPassword").PasswordBox("confirmPassword_input")
+Row 109 Time : 6/8/2016 1:02:21 AM Event Keyboard input.
+Row 110 Time : 6/8/2016 1:02:32 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1025").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1026").Panel("usersvitals").Panel(0).Panel(0).Form(0).Table(0).Cell(1, 1).Panel("fName").Textbox("fName_input")
+Row 111 Time : 6/8/2016 1:02:36 AM Event Keyboard input.
+Row 112 Time : 6/8/2016 1:02:48 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1025").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1026").Panel("usersvitals").Panel(0).Panel(0).Form(0).Table(0).Cell(1, 7).Panel("lName").Textbox("lName_input")
+Row 113 Time : 6/8/2016 1:02:52 AM Event Keyboard input.
+Row 114 Time : 6/8/2016 1:02:53 AM Event The mouse wheel was rotated.
+Row 115 Time : 6/8/2016 1:03:04 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1025").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1026").Panel("contactinfo").Panel(0).Panel(0).Form(0).Table(0).Cell(6, 1).Panel("email").Textbox("email_input")
+Row 116 Time : 6/8/2016 1:03:07 AM Event Keyboard input.
+Row 117 Time : 6/8/2016 1:03:07 AM Message Clicking button *Create User* ...
+Row 118 Time : 6/8/2016 1:03:19 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1025").Panel(1).Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1021").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 2).Table("x_auto_1024").Cell(1, 1).Button(0)
+Row 119 Time : 6/8/2016 1:03:20 AM Event The window was clicked with the left mouse button.
+Row 120 Time : 6/8/2016 1:03:22 AM Image ScreenShot for click button:*Create User*
+Row 121 Time : 6/8/2016 1:03:32 AM Message Could not found error messagebox!
+Row 122 Time : 6/8/2016 1:03:33 AM Image Verify error messagebox.
+Row 123 Time : 6/8/2016 1:03:38 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("WorkflowInfoWidget").Panel(0).Panel(0).Form(0).Table(0).Cell(2, 0).Panel("x_auto_640").TextNode(0)
+Row 124 Time : 6/8/2016 1:03:38 AM Message TextNode element: 'Referring Physician:' Found.
+Row 125 Time : 6/8/2016 1:03:38 AM Event The mouse pointer hovered over the window.
+Row 126 Time : 6/8/2016 1:03:38 AM Message Textbox found,id:872
+Row 127 Time : 6/8/2016 1:03:38 AM Message Referring Physician Found
+Row 128 Time : 6/8/2016 1:03:38 AM Checkpoint The property checkpoint passed (the Text equals "RefLN0608010133, RefFN0608010133 ").
+Row 129 Time : 6/8/2016 1:03:38 AM Message User is able to create a new Referring physician while accessioning the case
+Row 130 Time : 6/8/2016 1:03:38 AM Message The Full Name is TreatLN0608010338, TreatFN0608010338 
+Row 131 Time : 6/8/2016 1:03:40 AM Event The window was clicked with the left mouse button.
+Row 132 Time : 6/8/2016 1:03:54 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1180").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1181").Panel("patientvitals").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 1).Panel("fName").Textbox("fName_input")
+Row 133 Time : 6/8/2016 1:03:57 AM Event Keyboard input.
+Row 134 Time : 6/8/2016 1:04:09 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1180").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1181").Panel("patientvitals").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 5).Panel("lName").Textbox("lName_input")
+Row 135 Time : 6/8/2016 1:04:12 AM Event Keyboard input.
+Row 136 Time : 6/8/2016 1:04:15 AM Message Clicking button *Create Physician* ...
+Row 137 Time : 6/8/2016 1:04:28 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1180").Panel(1).Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1176").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 2).Table("x_auto_1179").Cell(1, 1).Button(0)
+Row 138 Time : 6/8/2016 1:04:28 AM Event The window was clicked with the left mouse button.
+Row 139 Time : 6/8/2016 1:04:30 AM Image ScreenShot for click button:*Create Physician*
+Row 140 Time : 6/8/2016 1:04:40 AM Message Could not found error messagebox!
+Row 141 Time : 6/8/2016 1:04:40 AM Image Verify error messagebox.
+Row 142 Time : 6/8/2016 1:04:44 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("WorkflowInfoWidget").Panel(0).Panel(0).Form(0).Table(0).Cell(3, 0).Panel("x_auto_641").TextNode(0)
+Row 143 Time : 6/8/2016 1:04:44 AM Message TextNode element: 'Treating Physician:' Found.
+Row 144 Time : 6/8/2016 1:04:45 AM Event The mouse pointer hovered over the window.
+Row 145 Time : 6/8/2016 1:04:45 AM Message Textbox found,id:929
+Row 146 Time : 6/8/2016 1:04:45 AM Message Treating Physician Found
+Row 147 Time : 6/8/2016 1:04:45 AM Checkpoint The property checkpoint passed (the Text equals "TreatLN0608010338, TreatFN0608010338 ").
+Row 148 Time : 6/8/2016 1:04:45 AM Message User is able to create a new Treating physician while accessioning the case
+Row 149 Time : 6/8/2016 1:04:45 AM Event The mouse wheel was rotated.
+Row 150 Time : 6/8/2016 1:04:46 AM Event The mouse wheel was rotated.
+Row 151 Time : 6/8/2016 1:04:48 AM Event The window was clicked with the left mouse button.
+Row 152 Time : 6/8/2016 1:04:51 AM Message Found 1 elements matching the CSS selector: .x-grid3-cell-inner.x-grid3-col-imageFieldLabel
+Row 153 Time : 6/8/2016 1:04:51 AM Message 
+Row 154 Time : 6/8/2016 1:04:52 AM Event The window was double-clicked by the left mouse button.
+Row 155 Time : 6/8/2016 1:04:52 AM Event Keyboard input.
+Row 156 Time : 6/8/2016 1:04:59 AM Event The window was clicked with the left mouse button.
+Row 157 Time : 6/8/2016 1:05:08 AM Message Found 1 elements matching the CSS selector: #startDate-input
+Row 158 Time : 6/8/2016 1:05:08 AM Message Found 1 elements matching the CSS selector: #endDate-input
+Row 159 Time : 6/8/2016 1:05:08 AM Event The text '' was entered in the text editor.
+Row 160 Time : 6/8/2016 1:05:08 AM Event Keyboard input.
+Row 161 Time : 6/8/2016 1:05:08 AM Event The text '' was entered in the text editor.
+Row 162 Time : 6/8/2016 1:05:08 AM Event Keyboard input.
+Row 163 Time : 6/8/2016 1:05:22 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1262").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1268").Panel(0).Panel(1).Panel("images_view").Panel(0).Panel(0).Panel("x_auto_1274").Table(0).Cell(0, 0).Table(0).Cell(0, 4).Panel("x_auto_1289").Panel(0).Panel(0).Panel(0).Panel("x_auto_1288").TextNode("x_auto_1288_label")
+Row 164 Time : 6/8/2016 1:05:22 AM Message TextNode element: '*Search For:*' Found.
+Row 165 Time : 6/8/2016 1:05:22 AM Event The mouse pointer hovered over the window.
+Row 166 Time : 6/8/2016 1:05:27 AM Message Find_object_by_id() error1781
+Row 167 Time : 6/8/2016 1:05:31 AM Message Find_object_by_id() error1782
+Row 168 Time : 6/8/2016 1:05:31 AM Message Textbox found,id:1785
+Row 169 Time : 6/8/2016 1:05:32 AM Event The text 'Default_Bif' was entered in the text editor.
+Row 170 Time : 6/8/2016 1:05:33 AM Event Keyboard input.
+Row 171 Time : 6/8/2016 1:05:35 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 172 Time : 6/8/2016 1:05:35 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 173 Time : 6/8/2016 1:06:01 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1262").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1268").Panel(0).Panel(1).Panel("images_view").Panel(0).Panel(1).Panel("x_auto_1334").Panel(0).Panel(0).Panel(1)
+Row 174 Time : 6/8/2016 1:06:03 AM Event The drag operation was performed with the left mouse button.
+Row 175 Time : 6/8/2016 1:06:16 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1262").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1268").Panel(0).Panel(1).Panel("x_auto_1271").Panel(0).Panel(0).Panel("x_auto_1309").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_1309_x_auto_1336").Table(0).Cell(0, 5).Panel(0).Panel("x_auto_1357").TextNode(0)
+Row 176 Time : 6/8/2016 1:06:31 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1262").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_1268").Panel(0).Panel(0).Panel("x_auto_1265").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_1266").Cell(1, 1).Button(0)
+Row 177 Time : 6/8/2016 1:06:31 AM Message Element: *Apply Found.
+Row 178 Time : 6/8/2016 1:06:31 AM Event The mouse pointer hovered over the window.
+Row 179 Time : 6/8/2016 1:06:31 AM Event The window was clicked with the left mouse button.
+Row 180 Time : 6/8/2016 1:06:32 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("x_auto_667").Panel(0).Panel(0).Panel("SpecimenTabWidget").Panel(1).Panel("x_auto_834").Panel("SpecimenWidget").Panel(0).Panel(1).Panel("SpecimenSlideWidget").Panel(0).Panel(1).Panel("x_auto_845").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_845_x_auto_1358").Table(0).Cell(0, 8).Panel(0).Panel("x_auto_1370").TextNode(0)
+Row 181 Time : 6/8/2016 1:06:38 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("x_auto_667").Panel(0).Panel(0).Panel("SpecimenTabWidget").Panel(1).Panel("x_auto_834").Panel("SpecimenWidget").Panel(0).Panel(1).Panel("SpecimenSlideWidget").Panel(0).Panel(1).Panel("x_auto_845").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_845_x_auto_1358").Table(0).Cell(0, 0)
+Row 182 Time : 6/8/2016 1:06:38 AM Event The window was double-clicked by the left mouse button.
+Row 183 Time : 6/8/2016 1:06:41 AM Event Keyboard input.
+Row 184 Time : 6/8/2016 1:06:42 AM Event Keyboard input.
+Row 185 Time : 6/8/2016 1:06:42 AM Event Keyboard input.
+Row 186 Time : 6/8/2016 1:06:46 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("x_auto_1427")
+Row 187 Time : 6/8/2016 1:06:47 AM Event The window was clicked with the left mouse button.
+Row 188 Time : 6/8/2016 1:06:52 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_93").Panel(0).Panel(0).Panel("x_auto_103").Panel("x_auto_657").Panel("x_auto_667").Panel(0).Panel(0).Panel("SpecimenTabWidget").Panel(1).Panel("x_auto_834").Panel("SpecimenWidget").Panel(0).Panel(1).Panel("SpecimenSlideWidget").Panel(0).Panel(1).Panel("x_auto_845").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_845_x_auto_1414").Table(0).Cell(0, 0)
+Row 189 Time : 6/8/2016 1:06:52 AM Message Clicking button *Save ...
+Row 190 Time : 6/8/2016 1:07:03 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(0).Panel("x_auto_70").Table(0).Cell(0, 0).Table(0).Cell(0, 1).Table("SAVE").Cell(1, 1).Button(0)
+Row 191 Time : 6/8/2016 1:07:04 AM Event The window was clicked with the left mouse button.
+Row 192 Time : 6/8/2016 1:07:07 AM Image ScreenShot for click button:*Save
+Row 193 Time : 6/8/2016 1:07:10 AM Event The window was clicked with the left mouse button.
+Row 194 Time : 6/8/2016 1:07:10 AM Event Keyboard input.
+Row 195 Time : 6/8/2016 1:07:10 AM Event Keyboard input.
+Row 196 Time : 6/8/2016 1:07:12 AM Event Keyboard input.
+Row 197 Time : 6/8/2016 1:07:23 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_32").Panel("x_auto_71").Panel(0).Panel(1).Panel("x_auto_90").Panel(0).Panel(1).Panel("x_auto_96").Panel("listTable").Panel(0).Panel(0).Panel(1)
+Row 198 Time : 6/8/2016 1:07:23 AM Message Found  UID1672-0608005945 from left-side list
+Row 199 Time : 6/8/2016 1:07:23 AM Event The window was clicked with the left mouse button.
+Row 200 Time : 6/8/2016 1:07:25 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 201 Time : 6/8/2016 1:07:25 AM Message .ext-el-mask-msg exists: false
+Row 202 Time : 6/8/2016 1:07:25 AM Checkpoint The property checkpoint passed (the contentText equals "UID1672-0608005945").
+Row 203 Time : 6/8/2016 1:07:25 AM Message createCaseWithSingleSlide() accession: UID1672-0608005945
+Row 204 Time : 6/8/2016 1:07:25 AM Message Case created :UID1672-0608005945
+Row 205 Time : 6/8/2016 1:07:34 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/slis/Home.seam?conversationId=2450").Panel("v_app_center").Panel("x_auto_1").Panel("x_auto_2").Panel("x_auto_3").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 8).Panel("x_auto_15")
+Row 206 Time : 6/8/2016 1:07:34 AM Message Clicking Logout...
+Row 207 Time : 6/8/2016 1:07:35 AM Event The window was clicked with the left mouse button.
+Row 208 Time : 6/8/2016 1:07:37 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 209 Time : 6/8/2016 1:07:37 AM Message .ext-el-mask-msg exists: false
+Row 210 Time : 6/8/2016 1:07:38 AM Image ScreenShot after logout.
+Row 211 Time : 6/8/2016 1:07:38 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 212 Time : 6/8/2016 1:07:38 AM Message UID: 'SLIS' found in records row ID: 1
+Row 213 Time : 6/8/2016 1:07:38 AM Message Return ServerIP: 10.23.197.204
+Row 214 Time : 6/8/2016 1:07:43 AM Message Process "iexplore" stayed in the system after the close command was used.
+Row 215 Time : 6/8/2016 1:07:43 AM Message iexplore process has been terminated successfully!
+Row 216 Time : 6/8/2016 1:07:45 AM Message Microsoft Internet Explorer was launched.
+Row 217 Time : 6/8/2016 1:07:49 AM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 218 Time : 6/8/2016 1:07:51 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 219 Time : 6/8/2016 1:07:51 AM Message .ext-el-mask-msg exists: false
+Row 220 Time : 6/8/2016 1:07:51 AM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 221 Time : 6/8/2016 1:07:52 AM Message Now come to the Login page ...
+Row 222 Time : 6/8/2016 1:07:53 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 223 Time : 6/8/2016 1:07:55 AM Event The window was clicked with the left mouse button.
+Row 224 Time : 6/8/2016 1:08:00 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 225 Time : 6/8/2016 1:08:00 AM Message .ext-el-mask-msg exists: false
+Row 226 Time : 6/8/2016 1:08:02 AM Message No Alert window in login page.
+Row 227 Time : 6/8/2016 1:08:02 AM Message Login Virtuoso/SLIS home page
+Row 228 Time : 6/8/2016 1:08:02 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 229 Time : 6/8/2016 1:08:02 AM Message Element: *Logout* Found.
+Row 230 Time : 6/8/2016 1:08:02 AM Event The mouse pointer hovered over the window.
+Row 231 Time : 6/8/2016 1:08:03 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step1.jpeg has been saved
+Row 232 Time : 6/8/2016 1:08:23 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 233 Time : 6/8/2016 1:08:23 AM Message Clicking Panel Find Cases...
+Row 234 Time : 6/8/2016 1:08:23 AM Event The window was clicked with the left mouse button.
+Row 235 Time : 6/8/2016 1:08:27 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 236 Time : 6/8/2016 1:08:27 AM Message .ext-el-mask-msg exists: false
+Row 237 Time : 6/8/2016 1:08:27 AM Image ScreenShot for click Find Cases
+Row 238 Time : 6/8/2016 1:08:28 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step2.jpeg has been saved
+Row 239 Time : 6/8/2016 1:08:33 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 240 Time : 6/8/2016 1:08:33 AM Message Clicking Panel Find Cases...
+Row 241 Time : 6/8/2016 1:08:33 AM Event The window was clicked with the left mouse button.
+Row 242 Time : 6/8/2016 1:08:37 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 243 Time : 6/8/2016 1:08:37 AM Message .ext-el-mask-msg exists: false
+Row 244 Time : 6/8/2016 1:08:37 AM Image ScreenShot for click Find Cases
+Row 245 Time : 6/8/2016 1:08:42 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_690").Panel("x_auto_693").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_689").Textbox("x_auto_689_input")
+Row 246 Time : 6/8/2016 1:08:44 AM Event The window was clicked with the left mouse button.
+Row 247 Time : 6/8/2016 1:08:48 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 248 Time : 6/8/2016 1:08:48 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 249 Time : 6/8/2016 1:08:55 AM Image Screenshot for searching results!
+Row 250 Time : 6/8/2016 1:08:55 AM Warning The property value "Displaying 1 - 25 of 26" does not equal the baseline value "No data to display".
+Row 251 Time : 6/8/2016 1:08:55 AM Message Total number of found record: 26
+Row 252 Time : 6/8/2016 1:09:06 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_815").Panel("x_auto_837").Panel(0).Panel(0).Panel("x_auto_843").Panel(0).Panel(0).Panel("x_auto_871").Panel("x_auto_892").Panel(0).Panel(1).Panel("x_auto_893").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_893_x_auto_990")
+Row 253 Time : 6/8/2016 1:09:06 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step3.jpeg has been saved
+Row 254 Time : 6/8/2016 1:09:25 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_815").Panel("x_auto_837").Panel(0).Panel(0).Panel("x_auto_840").Panel(0).Panel(0).Panel("x_auto_846").Panel(0).Panel("x_auto_847").Panel("x_auto_855").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 255 Time : 6/8/2016 1:09:25 AM Message Clicking Panel Find Cases...
+Row 256 Time : 6/8/2016 1:09:26 AM Event The window was clicked with the left mouse button.
+Row 257 Time : 6/8/2016 1:09:29 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 258 Time : 6/8/2016 1:09:29 AM Message .ext-el-mask-msg exists: false
+Row 259 Time : 6/8/2016 1:09:30 AM Image ScreenShot for click Find Cases
+Row 260 Time : 6/8/2016 1:09:48 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_815").Panel("x_auto_837").Panel(0).Panel(0).Panel("x_auto_843").Panel(0).Panel(0).Panel("x_auto_1410").Panel("x_auto_1413").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_1409").Textbox("x_auto_1409_input")
+Row 261 Time : 6/8/2016 1:09:49 AM Event The window was clicked with the left mouse button.
+Row 262 Time : 6/8/2016 1:09:54 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 263 Time : 6/8/2016 1:09:54 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 264 Time : 6/8/2016 1:10:02 AM Image Screenshot for searching results!
+Row 265 Time : 6/8/2016 1:10:02 AM Warning The property value "Displaying 1 - 25 of 31" does not equal the baseline value "No data to display".
+Row 266 Time : 6/8/2016 1:10:02 AM Message Total number of found record: 31
+Row 267 Time : 6/8/2016 1:10:12 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_1947").Panel("x_auto_1969").Panel(0).Panel(0).Panel("x_auto_1975").Panel(0).Panel(0).Panel("x_auto_2003").Panel("x_auto_2024").Panel(0).Panel(1).Panel("x_auto_2025").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_2025_x_auto_2122")
+Row 268 Time : 6/8/2016 1:10:13 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step4.jpeg has been saved
+Row 269 Time : 6/8/2016 1:10:33 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_1947").Panel("x_auto_1969").Panel(0).Panel(0).Panel("x_auto_1972").Panel(0).Panel(0).Panel("x_auto_1978").Panel(0).Panel("x_auto_1979").Panel("x_auto_1987").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 270 Time : 6/8/2016 1:10:33 AM Message Clicking Panel Find Cases...
+Row 271 Time : 6/8/2016 1:10:33 AM Event The window was clicked with the left mouse button.
+Row 272 Time : 6/8/2016 1:10:36 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 273 Time : 6/8/2016 1:10:36 AM Message .ext-el-mask-msg exists: false
+Row 274 Time : 6/8/2016 1:10:37 AM Image ScreenShot for click Find Cases
+Row 275 Time : 6/8/2016 1:10:55 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_1947").Panel("x_auto_1969").Panel(0).Panel(0).Panel("x_auto_1975").Panel(0).Panel(0).Panel("x_auto_2542").Panel("x_auto_2545").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_2541").Textbox("x_auto_2541_input")
+Row 276 Time : 6/8/2016 1:10:57 AM Event The window was clicked with the left mouse button.
+Row 277 Time : 6/8/2016 1:11:00 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 278 Time : 6/8/2016 1:11:00 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 279 Time : 6/8/2016 1:11:08 AM Image Screenshot for searching results!
+Row 280 Time : 6/8/2016 1:11:08 AM Warning The property value "Displaying 1 - 25 of 31" does not equal the baseline value "No data to display".
+Row 281 Time : 6/8/2016 1:11:08 AM Message Total number of found record: 31
+Row 282 Time : 6/8/2016 1:11:19 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_3079").Panel("x_auto_3101").Panel(0).Panel(0).Panel("x_auto_3107").Panel(0).Panel(0).Panel("x_auto_3135").Panel("x_auto_3156").Panel(0).Panel(1).Panel("x_auto_3157").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_3157_x_auto_3256")
+Row 283 Time : 6/8/2016 1:11:20 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step5.jpeg has been saved
+Row 284 Time : 6/8/2016 1:11:39 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_3079").Panel("x_auto_3101").Panel(0).Panel(0).Panel("x_auto_3104").Panel(0).Panel(0).Panel("x_auto_3110").Panel(0).Panel("x_auto_3111").Panel("x_auto_3119").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 285 Time : 6/8/2016 1:11:39 AM Message Clicking Panel Find Cases...
+Row 286 Time : 6/8/2016 1:11:39 AM Event The window was clicked with the left mouse button.
+Row 287 Time : 6/8/2016 1:11:42 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 288 Time : 6/8/2016 1:11:42 AM Message .ext-el-mask-msg exists: false
+Row 289 Time : 6/8/2016 1:11:43 AM Image ScreenShot for click Find Cases
+Row 290 Time : 6/8/2016 1:12:01 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_3079").Panel("x_auto_3101").Panel(0).Panel(0).Panel("x_auto_3107").Panel(0).Panel(0).Panel("x_auto_3674").Panel("x_auto_3677").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_3673").Textbox("x_auto_3673_input")
+Row 291 Time : 6/8/2016 1:12:03 AM Event The window was clicked with the left mouse button.
+Row 292 Time : 6/8/2016 1:12:07 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 293 Time : 6/8/2016 1:12:07 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 294 Time : 6/8/2016 1:12:15 AM Image Screenshot for searching results!
+Row 295 Time : 6/8/2016 1:12:15 AM Warning The property value "Displaying 1 - 25 of 26" does not equal the baseline value "No data to display".
+Row 296 Time : 6/8/2016 1:12:15 AM Message Total number of found record: 26
+Row 297 Time : 6/8/2016 1:12:26 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_4211").Panel("x_auto_4233").Panel(0).Panel(0).Panel("x_auto_4239").Panel(0).Panel(0).Panel("x_auto_4267").Panel("x_auto_4288").Panel(0).Panel(1).Panel("x_auto_4289").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_4289_x_auto_4386")
+Row 298 Time : 6/8/2016 1:12:26 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step6.jpeg has been saved
+Row 299 Time : 6/8/2016 1:12:44 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_4211").Panel("x_auto_4233").Panel(0).Panel(0).Panel("x_auto_4236").Panel(0).Panel(0).Panel("x_auto_4242").Panel(0).Panel("x_auto_4243").Panel("x_auto_4251").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 300 Time : 6/8/2016 1:12:44 AM Message Clicking Panel Find Cases...
+Row 301 Time : 6/8/2016 1:12:44 AM Event The window was clicked with the left mouse button.
+Row 302 Time : 6/8/2016 1:12:48 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 303 Time : 6/8/2016 1:12:48 AM Message .ext-el-mask-msg exists: false
+Row 304 Time : 6/8/2016 1:12:49 AM Image ScreenShot for click Find Cases
+Row 305 Time : 6/8/2016 1:13:06 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_4211").Panel("x_auto_4233").Panel(0).Panel(0).Panel("x_auto_4239").Panel(0).Panel(0).Panel("x_auto_4806").Panel("x_auto_4809").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_4805").Textbox("x_auto_4805_input")
+Row 306 Time : 6/8/2016 1:13:08 AM Event The window was clicked with the left mouse button.
+Row 307 Time : 6/8/2016 1:13:12 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 308 Time : 6/8/2016 1:13:12 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 309 Time : 6/8/2016 1:13:20 AM Image Screenshot for searching results!
+Row 310 Time : 6/8/2016 1:13:20 AM Warning The property value "Displaying 1 - 25 of 26" does not equal the baseline value "No data to display".
+Row 311 Time : 6/8/2016 1:13:20 AM Message Total number of found record: 26
+Row 312 Time : 6/8/2016 1:13:31 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_5343").Panel("x_auto_5365").Panel(0).Panel(0).Panel("x_auto_5371").Panel(0).Panel(0).Panel("x_auto_5399").Panel("x_auto_5420").Panel(0).Panel(1).Panel("x_auto_5421").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_5421_x_auto_5518")
+Row 313 Time : 6/8/2016 1:13:32 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step7.jpeg has been saved
+Row 314 Time : 6/8/2016 1:13:51 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_5343").Panel("x_auto_5365").Panel(0).Panel(0).Panel("x_auto_5368").Panel(0).Panel(0).Panel("x_auto_5374").Panel(0).Panel("x_auto_5375").Panel("x_auto_5383").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 315 Time : 6/8/2016 1:13:51 AM Message Clicking Panel Find Cases...
+Row 316 Time : 6/8/2016 1:13:51 AM Event The window was clicked with the left mouse button.
+Row 317 Time : 6/8/2016 1:13:55 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 318 Time : 6/8/2016 1:13:55 AM Message .ext-el-mask-msg exists: false
+Row 319 Time : 6/8/2016 1:13:56 AM Image ScreenShot for click Find Cases
+Row 320 Time : 6/8/2016 1:14:13 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_5343").Panel("x_auto_5365").Panel(0).Panel(0).Panel("x_auto_5371").Panel(0).Panel(0).Panel("x_auto_5938").Panel("x_auto_5941").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_5937").Textbox("x_auto_5937_input")
+Row 321 Time : 6/8/2016 1:14:15 AM Event The window was clicked with the left mouse button.
+Row 322 Time : 6/8/2016 1:14:20 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 323 Time : 6/8/2016 1:14:20 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 324 Time : 6/8/2016 1:14:25 AM Image Screenshot for searching results!
+Row 325 Time : 6/8/2016 1:14:25 AM Warning The property value "Displaying 1 - 4 of 4" does not equal the baseline value "No data to display".
+Row 326 Time : 6/8/2016 1:14:25 AM Message Total number of found record: 4
+Row 327 Time : 6/8/2016 1:14:36 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_6475").Panel("x_auto_6497").Panel(0).Panel(0).Panel("x_auto_6503").Panel(0).Panel(0).Panel("x_auto_6531").Panel("x_auto_6552").Panel(0).Panel(1).Panel("x_auto_6553").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_6553_x_auto_6650")
+Row 328 Time : 6/8/2016 1:14:37 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step8.jpeg has been saved
+Row 329 Time : 6/8/2016 1:14:49 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_6475").Panel("x_auto_6497").Panel(0).Panel(0).Panel("x_auto_6500").Panel(0).Panel(0).Panel("x_auto_6506").Panel(0).Panel("x_auto_6507").Panel("x_auto_6515").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 330 Time : 6/8/2016 1:14:49 AM Message Clicking Panel Find Cases...
+Row 331 Time : 6/8/2016 1:14:50 AM Event The window was clicked with the left mouse button.
+Row 332 Time : 6/8/2016 1:14:53 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 333 Time : 6/8/2016 1:14:53 AM Message .ext-el-mask-msg exists: false
+Row 334 Time : 6/8/2016 1:14:54 AM Image ScreenShot for click Find Cases
+Row 335 Time : 6/8/2016 1:15:05 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_6475").Panel("x_auto_6497").Panel(0).Panel(0).Panel("x_auto_6503").Panel(0).Panel(0).Panel("x_auto_6839").Panel("x_auto_6842").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_6838").Textbox("x_auto_6838_input")
+Row 336 Time : 6/8/2016 1:15:06 AM Event The window was clicked with the left mouse button.
+Row 337 Time : 6/8/2016 1:15:11 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 338 Time : 6/8/2016 1:15:11 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 339 Time : 6/8/2016 1:15:18 AM Image Screenshot for searching results!
+Row 340 Time : 6/8/2016 1:15:18 AM Warning The property value "Displaying 1 - 25 of 26" does not equal the baseline value "No data to display".
+Row 341 Time : 6/8/2016 1:15:18 AM Message Total number of found record: 26
+Row 342 Time : 6/8/2016 1:15:29 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_7145").Panel("x_auto_7167").Panel(0).Panel(0).Panel("x_auto_7173").Panel(0).Panel(0).Panel("x_auto_7201").Panel("x_auto_7222").Panel(0).Panel(1).Panel("x_auto_7223").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_7223_x_auto_7450")
+Row 343 Time : 6/8/2016 1:15:32 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step9.jpeg has been saved
+Row 344 Time : 6/8/2016 1:15:51 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_7145").Panel("x_auto_7167").Panel(0).Panel(0).Panel("x_auto_7170").Panel(0).Panel(0).Panel("x_auto_7176").Panel(0).Panel("x_auto_7177").Panel("x_auto_7185").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 345 Time : 6/8/2016 1:15:51 AM Message Clicking Panel Find Cases...
+Row 346 Time : 6/8/2016 1:15:52 AM Event The window was clicked with the left mouse button.
+Row 347 Time : 6/8/2016 1:15:55 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 348 Time : 6/8/2016 1:15:55 AM Message .ext-el-mask-msg exists: false
+Row 349 Time : 6/8/2016 1:15:56 AM Image ScreenShot for click Find Cases
+Row 350 Time : 6/8/2016 1:16:13 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_7145").Panel("x_auto_7167").Panel(0).Panel(0).Panel("x_auto_7173").Panel(0).Panel(0).Panel("x_auto_7740").Panel("x_auto_7743").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_7739").Textbox("x_auto_7739_input")
+Row 351 Time : 6/8/2016 1:16:15 AM Event The window was clicked with the left mouse button.
+Row 352 Time : 6/8/2016 1:16:19 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 353 Time : 6/8/2016 1:16:19 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 354 Time : 6/8/2016 1:16:23 AM Image Screenshot for searching results!
+Row 355 Time : 6/8/2016 1:16:23 AM Warning The property value "Displaying 1 - 1 of 1" does not equal the baseline value "No data to display".
+Row 356 Time : 6/8/2016 1:16:23 AM Message Total number of found record: 1
+Row 357 Time : 6/8/2016 1:16:34 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_8277").Panel("x_auto_8299").Panel(0).Panel(0).Panel("x_auto_8305").Panel(0).Panel(0).Panel("x_auto_8333").Panel("x_auto_8354").Panel(0).Panel(1).Panel("x_auto_8355").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_8355_x_auto_8454")
+Row 358 Time : 6/8/2016 1:16:35 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step10.jpeg has been saved
+Row 359 Time : 6/8/2016 1:16:46 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_8277").Panel("x_auto_8299").Panel(0).Panel(0).Panel("x_auto_8302").Panel(0).Panel(0).Panel("x_auto_8308").Panel(0).Panel("x_auto_8309").Panel("x_auto_8317").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 360 Time : 6/8/2016 1:16:46 AM Message Clicking Panel Find Cases...
+Row 361 Time : 6/8/2016 1:16:46 AM Event The window was clicked with the left mouse button.
+Row 362 Time : 6/8/2016 1:16:50 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 363 Time : 6/8/2016 1:16:50 AM Message .ext-el-mask-msg exists: false
+Row 364 Time : 6/8/2016 1:16:51 AM Image ScreenShot for click Find Cases
+Row 365 Time : 6/8/2016 1:17:02 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_8277").Panel("x_auto_8299").Panel(0).Panel(0).Panel("x_auto_8305").Panel(0).Panel(0).Panel("x_auto_8607").Panel("x_auto_8610").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_8606").Textbox("x_auto_8606_input")
+Row 366 Time : 6/8/2016 1:17:04 AM Event The window was clicked with the left mouse button.
+Row 367 Time : 6/8/2016 1:17:07 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 368 Time : 6/8/2016 1:17:07 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 369 Time : 6/8/2016 1:17:11 AM Image Screenshot for searching results!
+Row 370 Time : 6/8/2016 1:17:11 AM Message The property value "No data to display" equals the baseline value "No data to display".
+Row 371 Time : 6/8/2016 1:17:11 AM Message No result found! Please check if precondition is met
+Row 372 Time : 6/8/2016 1:17:12 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step11.jpeg has been saved
+Row 373 Time : 6/8/2016 1:17:18 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_8879").Panel("x_auto_8901").Panel(0).Panel(0).Panel("x_auto_8904").Panel(0).Panel(0).Panel("x_auto_8910").Panel(0).Panel("x_auto_8911").Panel("x_auto_8919").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 374 Time : 6/8/2016 1:17:18 AM Message Clicking Panel Find Cases...
+Row 375 Time : 6/8/2016 1:17:18 AM Event The window was clicked with the left mouse button.
+Row 376 Time : 6/8/2016 1:17:22 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 377 Time : 6/8/2016 1:17:22 AM Message .ext-el-mask-msg exists: false
+Row 378 Time : 6/8/2016 1:17:22 AM Image ScreenShot for click Find Cases
+Row 379 Time : 6/8/2016 1:17:27 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_8879").Panel("x_auto_8901").Panel(0).Panel(0).Panel("x_auto_8907").Panel(0).Panel(0).Panel("x_auto_9062").Panel("x_auto_9065").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_9061").Textbox("x_auto_9061_input")
+Row 380 Time : 6/8/2016 1:17:32 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_8879").Panel("x_auto_8901").Panel(0).Panel(0).Panel("x_auto_8907").Panel(0).Panel(0).Panel("x_auto_9062").Panel("x_auto_9065").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 1).Panel("startDate").Textbox("startDate_input")
+Row 381 Time : 6/8/2016 1:17:32 AM Message Textbox Input element: startDate-input Found.
+Row 382 Time : 6/8/2016 1:17:32 AM Event The mouse pointer hovered over the window.
+Row 383 Time : 6/8/2016 1:17:33 AM Event Keyboard input.
+Row 384 Time : 6/8/2016 1:17:33 AM Event Keyboard input.
+Row 385 Time : 6/8/2016 1:17:39 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_8879").Panel("x_auto_8901").Panel(0).Panel(0).Panel("x_auto_8907").Panel(0).Panel(0).Panel("x_auto_9062").Panel("x_auto_9065").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 2).Panel("endDate").Textbox("endDate_input")
+Row 386 Time : 6/8/2016 1:17:39 AM Message Textbox Input element: endDate-input Found.
+Row 387 Time : 6/8/2016 1:17:39 AM Event The mouse pointer hovered over the window.
+Row 388 Time : 6/8/2016 1:17:39 AM Event Keyboard input.
+Row 389 Time : 6/8/2016 1:17:40 AM Event Keyboard input.
+Row 390 Time : 6/8/2016 1:17:41 AM Event The window was clicked with the left mouse button.
+Row 391 Time : 6/8/2016 1:18:13 AM Image Screenshot for searching results!
+Row 392 Time : 6/8/2016 1:18:13 AM Warning The property value "Displaying 1 - 25 of 31" does not equal the baseline value "No data to display".
+Row 393 Time : 6/8/2016 1:18:13 AM Message Total number of found record: 31
+Row 394 Time : 6/8/2016 1:18:23 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_9191").Panel("x_auto_9213").Panel(0).Panel(0).Panel("x_auto_9219").Panel(0).Panel(0).Panel("x_auto_9247").Panel("x_auto_9268").Panel(0).Panel(1).Panel("x_auto_9269").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_9269_x_auto_9538")
+Row 395 Time : 6/8/2016 1:18:24 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step12.jpeg has been saved
+Row 396 Time : 6/8/2016 1:18:42 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_9191").Panel("x_auto_9213").Panel(0).Panel(0).Panel("x_auto_9216").Panel(0).Panel(0).Panel("x_auto_9222").Panel(0).Panel("x_auto_9223").Panel("x_auto_9231").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 397 Time : 6/8/2016 1:18:42 AM Message Clicking Panel Find Cases...
+Row 398 Time : 6/8/2016 1:18:43 AM Event The window was clicked with the left mouse button.
+Row 399 Time : 6/8/2016 1:18:46 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 400 Time : 6/8/2016 1:18:46 AM Message .ext-el-mask-msg exists: false
+Row 401 Time : 6/8/2016 1:18:46 AM Image ScreenShot for click Find Cases
+Row 402 Time : 6/8/2016 1:19:04 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_9191").Panel("x_auto_9213").Panel(0).Panel(0).Panel("x_auto_9219").Panel(0).Panel(0).Panel("x_auto_9786").Panel("x_auto_9789").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_9785").Textbox("x_auto_9785_input")
+Row 403 Time : 6/8/2016 1:19:22 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_9191").Panel("x_auto_9213").Panel(0).Panel(0).Panel("x_auto_9219").Panel(0).Panel(0).Panel("x_auto_9786").Panel("x_auto_9789").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 1).Panel("startDate").Textbox("startDate_input")
+Row 404 Time : 6/8/2016 1:19:22 AM Message Textbox Input element: startDate-input Found.
+Row 405 Time : 6/8/2016 1:19:22 AM Event The mouse pointer hovered over the window.
+Row 406 Time : 6/8/2016 1:19:23 AM Event Keyboard input.
+Row 407 Time : 6/8/2016 1:19:41 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_9191").Panel("x_auto_9213").Panel(0).Panel(0).Panel("x_auto_9219").Panel(0).Panel(0).Panel("x_auto_9786").Panel("x_auto_9789").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 2).Panel("endDate").Textbox("endDate_input")
+Row 408 Time : 6/8/2016 1:19:41 AM Message Textbox Input element: endDate-input Found.
+Row 409 Time : 6/8/2016 1:19:41 AM Event The mouse pointer hovered over the window.
+Row 410 Time : 6/8/2016 1:19:41 AM Event Keyboard input.
+Row 411 Time : 6/8/2016 1:19:43 AM Event The window was clicked with the left mouse button.
+Row 412 Time : 6/8/2016 1:20:16 AM Image Screenshot for searching results!
+Row 413 Time : 6/8/2016 1:20:16 AM Warning The property value "Displaying 1 - 25 of 26" does not equal the baseline value "No data to display".
+Row 414 Time : 6/8/2016 1:20:16 AM Message Total number of found record: 26
+Row 415 Time : 6/8/2016 1:20:27 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_10327").Panel("x_auto_10349").Panel(0).Panel(0).Panel("x_auto_10355").Panel(0).Panel(0).Panel("x_auto_10383").Panel("x_auto_10404").Panel(0).Panel(1).Panel("x_auto_10405").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_10405_x_auto_10634")
+Row 416 Time : 6/8/2016 1:20:27 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1672_SEARCH_Criteria_Specific_Search\UID1672_Step13.jpeg has been saved
+Row 417 Time : 6/8/2016 1:20:27 AM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:20:45
+Row 418 Time : 6/8/2016 1:20:29 AM Message 1672:FAIL
+Row 419 Time : 6/8/2016 1:20:30 AM Error ---------------- Automation TC# : UID1672_SEARCH_Criteria_Specific_Search FAIL! ---------------- 
+Row 420 Time : 6/8/2016 1:20:30 AM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID1679_SEARCH_TimeFrame_SearchUID1679 : Wed Jun 8 01:30:31 PDT 2016------------------
+Row 1 Time : 6/8/2016 1:28:50 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/8/2016 1:28:50 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/8/2016 1:28:50 AM Message Return Description: Virtuoso
+Row 4 Time : 6/8/2016 1:28:50 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/8/2016 1:28:51 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/8/2016 1:28:51 AM Message Return TestReporting: HTML
+Row 7 Time : 6/8/2016 1:28:51 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/8/2016 1:28:51 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/8/2016 1:28:51 AM Message Return Browser: iexplore
+Row 10 Time : 6/8/2016 1:28:51 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/8/2016 1:28:51 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/8/2016 1:28:51 AM Message Return LanVersion: EN
+Row 13 Time : 6/8/2016 1:28:51 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/8/2016 1:28:51 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/8/2016 1:28:51 AM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/8/2016 1:28:51 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/8/2016 1:28:51 AM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/8/2016 1:28:51 AM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/8/2016 1:28:52 AM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/8/2016 1:28:52 AM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1679_SEARCH_TimeFrame_Search
+Row 21 Time : 6/8/2016 1:28:52 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/8/2016 1:28:52 AM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/8/2016 1:28:52 AM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/8/2016 1:28:53 AM Message  User Already logged in...
+Row 25 Time : 6/8/2016 1:28:57 AM Message Process "iexplore" stayed in the system after the close command was used.
+Row 26 Time : 6/8/2016 1:28:57 AM Message iexplore process has been terminated successfully!
+Row 27 Time : 6/8/2016 1:29:00 AM Message Microsoft Internet Explorer was launched.
+Row 28 Time : 6/8/2016 1:29:04 AM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 29 Time : 6/8/2016 1:29:06 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 30 Time : 6/8/2016 1:29:06 AM Message .ext-el-mask-msg exists: false
+Row 31 Time : 6/8/2016 1:29:06 AM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 32 Time : 6/8/2016 1:29:08 AM Message Now come to the Login page ...
+Row 33 Time : 6/8/2016 1:29:08 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 34 Time : 6/8/2016 1:29:10 AM Event The window was clicked with the left mouse button.
+Row 35 Time : 6/8/2016 1:29:15 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 36 Time : 6/8/2016 1:29:15 AM Message .ext-el-mask-msg exists: false
+Row 37 Time : 6/8/2016 1:29:17 AM Message No Alert window in login page.
+Row 38 Time : 6/8/2016 1:29:17 AM Message Login Virtuoso/SLIS home page
+Row 39 Time : 6/8/2016 1:29:17 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 40 Time : 6/8/2016 1:29:17 AM Message Element: *Logout* Found.
+Row 41 Time : 6/8/2016 1:29:17 AM Event The mouse pointer hovered over the window.
+Row 42 Time : 6/8/2016 1:29:18 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1679_SEARCH_TimeFrame_Search\UID1679_Step1.jpeg has been saved
+Row 43 Time : 6/8/2016 1:29:38 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 44 Time : 6/8/2016 1:29:38 AM Message Clicking Panel Find Cases...
+Row 45 Time : 6/8/2016 1:29:38 AM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/8/2016 1:29:42 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 47 Time : 6/8/2016 1:29:42 AM Message .ext-el-mask-msg exists: false
+Row 48 Time : 6/8/2016 1:29:43 AM Image ScreenShot for click Find Cases
+Row 49 Time : 6/8/2016 1:29:43 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1679_SEARCH_TimeFrame_Search\UID1679_Step2.jpeg has been saved
+Row 50 Time : 6/8/2016 1:29:49 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_565").Panel("x_auto_568").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_564").Textbox("x_auto_564_input")
+Row 51 Time : 6/8/2016 1:29:49 AM Event Keyboard input.
+Row 52 Time : 6/8/2016 1:29:55 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_565").Panel("x_auto_568").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 1).Panel("startDate").Textbox("startDate_input")
+Row 53 Time : 6/8/2016 1:29:55 AM Message Textbox Input element: startDate-input Found.
+Row 54 Time : 6/8/2016 1:29:55 AM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/8/2016 1:29:56 AM Event Keyboard input.
+Row 56 Time : 6/8/2016 1:30:01 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_565").Panel("x_auto_568").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 2).Panel("endDate").Textbox("endDate_input")
+Row 57 Time : 6/8/2016 1:30:01 AM Message Textbox Input element: endDate-input Found.
+Row 58 Time : 6/8/2016 1:30:01 AM Event The mouse pointer hovered over the window.
+Row 59 Time : 6/8/2016 1:30:01 AM Event Keyboard input.
+Row 60 Time : 6/8/2016 1:30:02 AM Event The window was clicked with the left mouse button.
+Row 61 Time : 6/8/2016 1:30:13 AM Image Screenshot for searching results!
+Row 62 Time : 6/8/2016 1:30:13 AM Message Found Displaying 1 - 25 of 26
+Row 63 Time : 6/8/2016 1:30:13 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1679_SEARCH_TimeFrame_Search\UID1679_Step3.jpeg has been saved
+Row 64 Time : 6/8/2016 1:30:18 AM Message Process "iexplore" stayed in the system after the close command was used.
+Row 65 Time : 6/8/2016 1:30:18 AM Message iexplore process has been terminated successfully!
+Row 66 Time : 6/8/2016 1:30:20 AM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:01:30
+Row 67 Time : 6/8/2016 1:30:22 AM Message 1679:PASS
+Row 68 Time : 6/8/2016 1:30:23 AM Message ---------------- Automation TC# : UID1679_SEARCH_TimeFrame_Search PASS! ---------------- 
+Row 69 Time : 6/8/2016 1:30:23 AM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLog_end_end : Wed Jun 8 01:30:31 PDT 2016------------------
+Row 1 Time : 6/8/2016 1:30:23 AM Message Project End time updated in XML Test Suite Summary Wed Jun 8 01:30:23 PDT 2016
+------------------TempExprtFoldr : ScriptTestLogUID1678_SEARCH_SortResults_SearchUID1678 : Wed Jun 8 01:30:31 PDT 2016------------------
+Row 1 Time : 6/8/2016 1:25:13 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/8/2016 1:25:14 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/8/2016 1:25:14 AM Message Return Description: Virtuoso
+Row 4 Time : 6/8/2016 1:25:14 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/8/2016 1:25:14 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/8/2016 1:25:14 AM Message Return TestReporting: HTML
+Row 7 Time : 6/8/2016 1:25:14 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/8/2016 1:25:14 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/8/2016 1:25:14 AM Message Return Browser: iexplore
+Row 10 Time : 6/8/2016 1:25:14 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/8/2016 1:25:14 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/8/2016 1:25:14 AM Message Return LanVersion: EN
+Row 13 Time : 6/8/2016 1:25:14 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/8/2016 1:25:15 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/8/2016 1:25:15 AM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/8/2016 1:25:15 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/8/2016 1:25:15 AM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/8/2016 1:25:15 AM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/8/2016 1:25:16 AM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/8/2016 1:25:16 AM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1678_SEARCH_SortResults_Search
+Row 21 Time : 6/8/2016 1:25:16 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/8/2016 1:25:17 AM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/8/2016 1:25:17 AM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/8/2016 1:25:17 AM Message  User Already logged in...
+Row 25 Time : 6/8/2016 1:25:21 AM Message Process "iexplore" stayed in the system after the close command was used.
+Row 26 Time : 6/8/2016 1:25:21 AM Message iexplore process has been terminated successfully!
+Row 27 Time : 6/8/2016 1:25:24 AM Message Microsoft Internet Explorer was launched.
+Row 28 Time : 6/8/2016 1:25:27 AM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 29 Time : 6/8/2016 1:25:29 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 30 Time : 6/8/2016 1:25:29 AM Message .ext-el-mask-msg exists: false
+Row 31 Time : 6/8/2016 1:25:29 AM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 32 Time : 6/8/2016 1:25:30 AM Message Now come to the Login page ...
+Row 33 Time : 6/8/2016 1:25:31 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 34 Time : 6/8/2016 1:25:33 AM Event The window was clicked with the left mouse button.
+Row 35 Time : 6/8/2016 1:25:38 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 36 Time : 6/8/2016 1:25:38 AM Message .ext-el-mask-msg exists: false
+Row 37 Time : 6/8/2016 1:25:39 AM Message No Alert window in login page.
+Row 38 Time : 6/8/2016 1:25:39 AM Message Login Virtuoso/SLIS home page
+Row 39 Time : 6/8/2016 1:25:40 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 40 Time : 6/8/2016 1:25:40 AM Message Element: *Logout* Found.
+Row 41 Time : 6/8/2016 1:25:40 AM Event The mouse pointer hovered over the window.
+Row 42 Time : 6/8/2016 1:25:41 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1678_SEARCH_SortResults_Search\UID1678_Step1.jpeg has been saved
+Row 43 Time : 6/8/2016 1:26:01 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("ALL_CASES").Cell(1, 1).Button(0)
+Row 44 Time : 6/8/2016 1:26:01 AM Message Clicking Panel All Cases...
+Row 45 Time : 6/8/2016 1:26:02 AM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/8/2016 1:26:05 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 47 Time : 6/8/2016 1:26:05 AM Message .ext-el-mask-msg exists: false
+Row 48 Time : 6/8/2016 1:26:06 AM Image ScreenShot for click All Cases
+Row 49 Time : 6/8/2016 1:26:16 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_561").Panel("x_auto_579").Panel(0).Panel(2).Panel("x_auto_555").Table(0).Cell(0, 1)
+Row 50 Time : 6/8/2016 1:26:36 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 51 Time : 6/8/2016 1:26:36 AM Message Clicking Panel Find Cases...
+Row 52 Time : 6/8/2016 1:26:36 AM Event The window was clicked with the left mouse button.
+Row 53 Time : 6/8/2016 1:26:40 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 54 Time : 6/8/2016 1:26:40 AM Message .ext-el-mask-msg exists: false
+Row 55 Time : 6/8/2016 1:26:40 AM Image ScreenShot for click Find Cases
+Row 56 Time : 6/8/2016 1:26:41 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1678_SEARCH_SortResults_Search\UID1678_Step2.jpeg has been saved
+Row 57 Time : 6/8/2016 1:26:48 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 58 Time : 6/8/2016 1:26:48 AM Message Clicking Panel Find Cases...
+Row 59 Time : 6/8/2016 1:26:48 AM Event The window was clicked with the left mouse button.
+Row 60 Time : 6/8/2016 1:26:51 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 61 Time : 6/8/2016 1:26:51 AM Message .ext-el-mask-msg exists: false
+Row 62 Time : 6/8/2016 1:26:52 AM Image ScreenShot for click Find Cases
+Row 63 Time : 6/8/2016 1:26:57 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_1243").Panel("x_auto_1246").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_1242").Textbox("x_auto_1242_input")
+Row 64 Time : 6/8/2016 1:26:58 AM Event The window was clicked with the left mouse button.
+Row 65 Time : 6/8/2016 1:27:02 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 66 Time : 6/8/2016 1:27:02 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 67 Time : 6/8/2016 1:27:10 AM Image Screenshot for searching results!
+Row 68 Time : 6/8/2016 1:27:10 AM Warning The property value "Displaying 1 - 25 of 31" does not equal the baseline value "No data to display".
+Row 69 Time : 6/8/2016 1:27:10 AM Message Total number of found record: 31
+Row 70 Time : 6/8/2016 1:27:20 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_1368").Panel("x_auto_1390").Panel(0).Panel(0).Panel("x_auto_1396").Panel(0).Panel(0).Panel("x_auto_1424").Panel("x_auto_1445").Panel(0).Panel(1).Panel("x_auto_1446").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_1446_x_auto_1723")
+Row 71 Time : 6/8/2016 1:27:29 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_1368").Panel("x_auto_1390").Panel(0).Panel(0).Panel("x_auto_1396").Panel(0).Panel(0).Panel("x_auto_1424").Panel("x_auto_1445").Panel(0).Panel(2).Panel("x_auto_1414").Table(0).Cell(0, 1)
+Row 72 Time : 6/8/2016 1:27:30 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1678_SEARCH_SortResults_Search\UID1678_Step3.jpeg has been saved
+Row 73 Time : 6/8/2016 1:27:45 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_1368").Panel("x_auto_1390").Panel(0).Panel(0).Panel("x_auto_1396").Panel(0).Panel(0).Panel("x_auto_1424").Panel("x_auto_1445").Panel(0).Panel(1).Panel("x_auto_1446").Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("x_auto_1465").Cell(0, 0)
+Row 74 Time : 6/8/2016 1:27:45 AM Event The mouse pointer hovered over the window.
+Row 75 Time : 6/8/2016 1:28:03 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_1368").Panel("x_auto_1390").Panel(0).Panel(0).Panel("x_auto_1396").Panel(0).Panel(0).Panel("x_auto_1424").Panel("x_auto_1445").Panel(0).Panel(1).Panel("x_auto_1446").Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("x_auto_1465").Cell(0, 0).Panel("x_auto_1448").Link(0)
+Row 76 Time : 6/8/2016 1:28:04 AM Event The window was clicked with the left mouse button.
+Row 77 Time : 6/8/2016 1:28:24 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_1448_menu").Panel(0).Panel("x_menu_el_x_auto_1951")
+Row 78 Time : 6/8/2016 1:28:24 AM Event The window was clicked with the left mouse button.
+Row 79 Time : 6/8/2016 1:28:47 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1678_SEARCH_SortResults_Search\UID1678_Step4.jpeg has been saved
+Row 80 Time : 6/8/2016 1:28:47 AM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:03:34
+Row 81 Time : 6/8/2016 1:28:50 AM Message 1678:PASS
+Row 82 Time : 6/8/2016 1:28:50 AM Message ---------------- Automation TC# : UID1678_SEARCH_SortResults_Search PASS! ---------------- 
+Row 83 Time : 6/8/2016 1:28:50 AM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID1671_SEARCH_Alphanumeric_SearchUID1671 : Wed Jun 8 01:30:25 PDT 2016------------------
+Row 1 Time : 6/8/2016 12:56:05 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/8/2016 12:56:05 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/8/2016 12:56:05 AM Message Return Description: Virtuoso
+Row 4 Time : 6/8/2016 12:56:05 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/8/2016 12:56:05 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/8/2016 12:56:05 AM Message Return TestReporting: HTML
+Row 7 Time : 6/8/2016 12:56:05 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/8/2016 12:56:05 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/8/2016 12:56:05 AM Message Return Browser: iexplore
+Row 10 Time : 6/8/2016 12:56:05 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/8/2016 12:56:06 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/8/2016 12:56:06 AM Message Return LanVersion: EN
+Row 13 Time : 6/8/2016 12:56:06 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/8/2016 12:56:06 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/8/2016 12:56:06 AM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/8/2016 12:56:06 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/8/2016 12:56:06 AM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/8/2016 12:56:06 AM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/8/2016 12:56:07 AM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/8/2016 12:56:08 AM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1671_SEARCH_Alphanumeric_Search
+Row 21 Time : 6/8/2016 12:56:08 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/8/2016 12:56:08 AM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/8/2016 12:56:08 AM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/8/2016 12:56:08 AM Message  User Already logged in...
+Row 25 Time : 6/8/2016 12:56:12 AM Message Process "iexplore" stayed in the system after the close command was used.
+Row 26 Time : 6/8/2016 12:56:13 AM Message iexplore process has been terminated successfully!
+Row 27 Time : 6/8/2016 12:56:15 AM Message Microsoft Internet Explorer was launched.
+Row 28 Time : 6/8/2016 12:56:17 AM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 29 Time : 6/8/2016 12:56:19 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 30 Time : 6/8/2016 12:56:19 AM Message .ext-el-mask-msg exists: false
+Row 31 Time : 6/8/2016 12:56:20 AM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 32 Time : 6/8/2016 12:56:21 AM Message Now come to the Login page ...
+Row 33 Time : 6/8/2016 12:56:21 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 34 Time : 6/8/2016 12:56:23 AM Event The window was clicked with the left mouse button.
+Row 35 Time : 6/8/2016 12:56:30 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 36 Time : 6/8/2016 12:56:30 AM Message .ext-el-mask-msg exists: false
+Row 37 Time : 6/8/2016 12:56:31 AM Message No Alert window in login page.
+Row 38 Time : 6/8/2016 12:56:31 AM Message Login Virtuoso/SLIS home page
+Row 39 Time : 6/8/2016 12:56:31 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 40 Time : 6/8/2016 12:56:31 AM Message Element: *Logout* Found.
+Row 41 Time : 6/8/2016 12:56:31 AM Event The mouse pointer hovered over the window.
+Row 42 Time : 6/8/2016 12:56:32 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1671_SEARCH_Alphanumeric_Search\UID1671_Step1.jpeg has been saved
+Row 43 Time : 6/8/2016 12:56:51 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("ALL_CASES").Cell(1, 1).Button(0)
+Row 44 Time : 6/8/2016 12:56:51 AM Message Clicking Panel All Cases...
+Row 45 Time : 6/8/2016 12:56:52 AM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/8/2016 12:56:55 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 47 Time : 6/8/2016 12:56:55 AM Message .ext-el-mask-msg exists: false
+Row 48 Time : 6/8/2016 12:56:56 AM Image ScreenShot for click All Cases
+Row 49 Time : 6/8/2016 12:57:17 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_546").Panel("x_auto_564").Panel(0).Panel(1).Panel("x_auto_565").Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("x_auto_586").Cell(0, 0).Panel("x_auto_567")
+Row 50 Time : 6/8/2016 12:57:18 AM Event The mouse pointer hovered over the window.
+Row 51 Time : 6/8/2016 12:57:36 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_546").Panel("x_auto_564").Panel(0).Panel(1).Panel("x_auto_565").Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("x_auto_586").Cell(0, 0).Panel("x_auto_567").Link(0)
+Row 52 Time : 6/8/2016 12:57:37 AM Event The window was clicked with the left mouse button.
+Row 53 Time : 6/8/2016 12:57:57 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_567_menu").Panel(0).Panel("x_menu_el_x_auto_1088")
+Row 54 Time : 6/8/2016 12:57:57 AM Event The window was clicked with the left mouse button.
+Row 55 Time : 6/8/2016 12:58:30 AM Message getValidCaseId(), case is: UID2689-0607211746
+Row 56 Time : 6/8/2016 12:58:51 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 57 Time : 6/8/2016 12:58:51 AM Message Clicking Panel Find Cases...
+Row 58 Time : 6/8/2016 12:58:51 AM Event The window was clicked with the left mouse button.
+Row 59 Time : 6/8/2016 12:58:54 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 60 Time : 6/8/2016 12:58:54 AM Message .ext-el-mask-msg exists: false
+Row 61 Time : 6/8/2016 12:58:55 AM Image ScreenShot for click Find Cases
+Row 62 Time : 6/8/2016 12:59:01 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_1537").Panel("x_auto_1540").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 1).Panel("startDate")
+Row 63 Time : 6/8/2016 12:59:02 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1671_SEARCH_Alphanumeric_Search\UID1671_Step2.jpeg has been saved
+Row 64 Time : 6/8/2016 12:59:07 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 65 Time : 6/8/2016 12:59:07 AM Message Clicking Panel Find Cases...
+Row 66 Time : 6/8/2016 12:59:07 AM Event The window was clicked with the left mouse button.
+Row 67 Time : 6/8/2016 12:59:11 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 68 Time : 6/8/2016 12:59:11 AM Message .ext-el-mask-msg exists: false
+Row 69 Time : 6/8/2016 12:59:11 AM Image ScreenShot for click Find Cases
+Row 70 Time : 6/8/2016 12:59:16 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_1662").Panel("x_auto_1665").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_1661").Textbox("x_auto_1661_input")
+Row 71 Time : 6/8/2016 12:59:17 AM Event The window was clicked with the left mouse button.
+Row 72 Time : 6/8/2016 12:59:21 AM Message Did not find any elements matching the CSS selector: .x-panel-bwrap .loading-indicator
+Row 73 Time : 6/8/2016 12:59:21 AM Message .x-panel-bwrap .loading-indicator exists: false
+Row 74 Time : 6/8/2016 12:59:26 AM Image Screenshot for searching results!
+Row 75 Time : 6/8/2016 12:59:26 AM Warning The property value "Displaying 1 - 1 of 1" does not equal the baseline value "No data to display".
+Row 76 Time : 6/8/2016 12:59:26 AM Message Total number of found record: 1
+Row 77 Time : 6/8/2016 12:59:37 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_1787").Panel("x_auto_1809").Panel(0).Panel(0).Panel("x_auto_1815").Panel(0).Panel(0).Panel("x_auto_1843").Panel("x_auto_1864").Panel(0).Panel(1).Panel("x_auto_1865").Panel(0).Panel(0).Panel(1).Panel(0).Panel("x_auto_1865_x_auto_1962")
+Row 78 Time : 6/8/2016 12:59:38 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1671_SEARCH_Alphanumeric_Search\UID1671_Step3.jpeg has been saved
+Row 79 Time : 6/8/2016 12:59:39 AM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:03:34
+Row 80 Time : 6/8/2016 12:59:41 AM Message 1671:PASS
+Row 81 Time : 6/8/2016 12:59:42 AM Message ---------------- Automation TC# : UID1671_SEARCH_Alphanumeric_Search PASS! ---------------- 
+Row 82 Time : 6/8/2016 12:59:42 AM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID1670_SEARCH_20Char_Validation_SearchUID1670 : Wed Jun 8 01:30:24 PDT 2016------------------
+Row 1 Time : 6/8/2016 12:54:42 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/8/2016 12:54:42 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/8/2016 12:54:42 AM Message Return Description: Virtuoso
+Row 4 Time : 6/8/2016 12:54:43 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/8/2016 12:54:43 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/8/2016 12:54:43 AM Message Return TestReporting: HTML
+Row 7 Time : 6/8/2016 12:54:43 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/8/2016 12:54:43 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/8/2016 12:54:43 AM Message Return Browser: iexplore
+Row 10 Time : 6/8/2016 12:54:43 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/8/2016 12:54:43 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/8/2016 12:54:43 AM Message Return LanVersion: EN
+Row 13 Time : 6/8/2016 12:54:43 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/8/2016 12:54:44 AM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/8/2016 12:54:44 AM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/8/2016 12:54:44 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/8/2016 12:54:44 AM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/8/2016 12:54:44 AM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/8/2016 12:54:45 AM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/8/2016 12:54:45 AM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1670_SEARCH_20Char_Validation_Search
+Row 21 Time : 6/8/2016 12:54:45 AM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/8/2016 12:54:45 AM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/8/2016 12:54:45 AM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/8/2016 12:54:50 AM Message Process "iexplore" stayed in the system after the close command was used.
+Row 25 Time : 6/8/2016 12:54:50 AM Message iexplore process has been terminated successfully!
+Row 26 Time : 6/8/2016 12:54:52 AM Message Microsoft Internet Explorer was launched.
+Row 27 Time : 6/8/2016 12:54:55 AM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 28 Time : 6/8/2016 12:54:57 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 29 Time : 6/8/2016 12:54:57 AM Message .ext-el-mask-msg exists: false
+Row 30 Time : 6/8/2016 12:54:58 AM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 31 Time : 6/8/2016 12:54:59 AM Message Now come to the Login page ...
+Row 32 Time : 6/8/2016 12:54:59 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 33 Time : 6/8/2016 12:55:01 AM Event The window was clicked with the left mouse button.
+Row 34 Time : 6/8/2016 12:55:08 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 35 Time : 6/8/2016 12:55:08 AM Message .ext-el-mask-msg exists: false
+Row 36 Time : 6/8/2016 12:55:09 AM Message No Alert window in login page.
+Row 37 Time : 6/8/2016 12:55:09 AM Message Login Virtuoso/SLIS home page
+Row 38 Time : 6/8/2016 12:55:09 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 39 Time : 6/8/2016 12:55:09 AM Message Element: *Logout* Found.
+Row 40 Time : 6/8/2016 12:55:09 AM Event The mouse pointer hovered over the window.
+Row 41 Time : 6/8/2016 12:55:10 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1670_SEARCH_20Char_Validation_Search\UID1670_Step1.jpeg has been saved
+Row 42 Time : 6/8/2016 12:55:29 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_40").Panel(0).Panel(0).Panel("x_auto_46").Panel(0).Panel("x_auto_47").Panel("x_auto_55").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(0).Table("FIND_CASES").Cell(1, 1).Button(0)
+Row 43 Time : 6/8/2016 12:55:29 AM Message Clicking Panel Find Cases...
+Row 44 Time : 6/8/2016 12:55:29 AM Event The window was clicked with the left mouse button.
+Row 45 Time : 6/8/2016 12:55:33 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 46 Time : 6/8/2016 12:55:33 AM Message .ext-el-mask-msg exists: false
+Row 47 Time : 6/8/2016 12:55:34 AM Image ScreenShot for click Find Cases
+Row 48 Time : 6/8/2016 12:55:34 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1670_SEARCH_20Char_Validation_Search\UID1670_Step2.jpeg has been saved
+Row 49 Time : 6/8/2016 12:55:35 AM Message searchString is length: 51
+Row 50 Time : 6/8/2016 12:55:40 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_550").Panel("x_auto_553").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Panel("x_auto_549").Textbox("x_auto_549_input")
+Row 51 Time : 6/8/2016 12:55:41 AM Event The window was clicked with the left mouse button.
+Row 52 Time : 6/8/2016 12:55:49 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_666").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(1).TextNode("x_auto_666_content")
+Row 53 Time : 6/8/2016 12:55:49 AM Message TextNode element: 'The highlighted fields are invalid, please make sure you enter in a value that is valid.' Found.
+Row 54 Time : 6/8/2016 12:55:49 AM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/8/2016 12:55:49 AM Message Error message is found.
+Row 56 Time : 6/8/2016 12:55:49 AM Image Correct error message
+Row 57 Time : 6/8/2016 12:55:50 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1670_SEARCH_20Char_Validation_Search\UID1670_Step3.jpeg has been saved
+Row 58 Time : 6/8/2016 12:55:50 AM Message Clicking button OK ...
+Row 59 Time : 6/8/2016 12:55:51 AM Message found 1 elements.
+Row 60 Time : 6/8/2016 12:55:51 AM Event The mouse pointer hovered over the window.
+Row 61 Time : 6/8/2016 12:55:53 AM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 62 Time : 6/8/2016 12:55:53 AM Message .ext-el-mask-msg exists: false
+Row 63 Time : 6/8/2016 12:55:54 AM Image ScreenShot for click button:OK
+Row 64 Time : 6/8/2016 12:55:54 AM Event The window was clicked with the left mouse button.
+Row 65 Time : 6/8/2016 12:55:59 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0).Panel("x_auto_550").Panel("x_auto_553").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Image("x_auto_660")
+Row 66 Time : 6/8/2016 12:55:59 AM Event The mouse pointer hovered over the window.
+Row 67 Time : 6/8/2016 12:56:00 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1670_SEARCH_20Char_Validation_Search\UID1670_Step4.jpeg has been saved
+Row 68 Time : 6/8/2016 12:56:01 AM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_37").Panel(0).Panel(0).Panel("x_auto_43").Panel(0).Panel(0)
+Row 69 Time : 6/8/2016 12:56:01 AM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Search\Screenshots\UID1670_SEARCH_20Char_Validation_Search\UID1670_Step5.jpeg has been saved
+Row 70 Time : 6/8/2016 12:56:01 AM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:01:19
+Row 71 Time : 6/8/2016 12:56:04 AM Message 1670:PASS
+Row 72 Time : 6/8/2016 12:56:05 AM Message ---------------- Automation TC# : UID1670_SEARCH_20Char_Validation_Search PASS! ---------------- 
+Row 73 Time : 6/8/2016 12:56:05 AM Message Test Step Result posted in to HTML Report!

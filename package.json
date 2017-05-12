@@ -1,0 +1,13 @@
+{
+"devDependencies": {
+"http-server": "^0.6.1",
+ "express": "^4.13.3"
+},
+"dependencies": {
+   "child_process": "^1.0.2"
+   },
+"scripts": {
+"prestart": "npm install",
+"start": "http-server -a 127.0.0.1 -p 8007 -c-1"
+}
+}

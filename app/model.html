@@ -1,0 +1,5 @@
+
+<div style="text-align: center" ng-repeat="y in user track by $index">
+    <input style="width:450px;padding:5px" type="text"  ng-model="y"  ng-change="submit(y,$index)" placeholder="enter">      
+</div>
+<button style="text-align:center;margin-left: 258px;" class="btn btn-info"  type="submit" ng-click="close()">update</button>

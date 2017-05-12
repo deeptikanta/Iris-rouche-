@@ -1,0 +1,144 @@
+#b0 { display: none; }
+
+.header img {
+  float: left;
+  width: 200px;
+  height: 55px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 8px;
+  left: 175px;
+  font-size: 25px;
+ color: slategray;
+}
+.divider{
+    width:5px;
+    height:2px;
+    display:inline-block;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+
+}
+
+/* Style the tab */
+div.tab {
+    overflow: auto;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+	
+	  font-size: 0;
+  position: left;
+ 
+
+  margin:-6px;
+  top: 25px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+	border-radius: 7px;
+    background-color: inherit;
+    float: left;
+    border: solid;
+	border-width: 1px;
+	border-color: black;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: green;
+	color:white;
+	font-weight: bold;
+	
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: green;
+	color:white;
+	font-weight: bold;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+	height: 35%;
+    padding: 6px 20px;
+    border: 1px solid #ccc;
+    border-top: none;
+	background-color: white;
+} #sampleContainer ol {
+            padding: 0px 0px 0px 15px;
+            margin: 0;
+        }
+
+        #sampleContainer input {
+            margin: 10px 0;
+        }
+        #result {
+            display: none;
+            color: red;
+        }
+#grid1_UID{
+width:60px;
+    text-align: -webkit-left;
+	}
+#grid1_TestName{
+    width: 50%;
+    text-align: -webkit-left;
+}
+#grid1_Module{
+width:140px;
+    text-align: -webkit-left;
+}
+#grid1_Run{
+width:60px;
+    text-align: -webkit-left;
+}
+#grid1_Exucution-status{
+    text-align: -webkit-left;
+width:140px;
+height:60px;
+
+}
+#grid1_Execution{
+width:150px;
+    text-align: -webkit-left;
+}
+#grid1_Comment{
+    width: 100px;
+	text-align: -webkit-left;
+}
+#grid1{
+    width: 1691px;
+    table-layout: fixed;
+
+}
+#grid1 tbody tr td {
+ 
+ padding-top:10px;
+}
+table, th , td  {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+table tr:nth-child(even) {
+  background-color: #ffffff;
+}

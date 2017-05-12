@@ -1,0 +1,1055 @@
+------------------TempExprtFoldr : ScriptTestLog_begin_begin : Tue Jun 7 22:11:52 PDT 2016------------------
+Row 1 Time : 6/7/2016 9:37:47 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 9:37:48 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 9:37:48 PM Message Return TestReporting: HTML
+Row 4 Time : 6/7/2016 9:37:48 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 9:37:48 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 9:37:48 PM Message Return Browser: iexplore
+Row 7 Time : 6/7/2016 9:37:48 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 9:37:48 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 9:37:48 PM Message Return LanVersion: EN
+Row 10 Time : 6/7/2016 9:37:48 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 9:37:49 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 9:37:49 PM Message Return ServerIP: 10.23.197.204
+Row 13 Time : 6/7/2016 9:37:49 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 9:37:49 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 15 Time : 6/7/2016 9:37:49 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 16 Time : 6/7/2016 9:37:49 PM Message Microsoft Internet Explorer was launched.
+Row 17 Time : 6/7/2016 9:37:50 PM Event The 'Blank Page - Windows Internet Explorer' window was minimized.
+Row 18 Time : 6/7/2016 9:37:50 PM Message report file message
+------------------TempExprtFoldr : ScriptTestLogUID2046_Collaboration_Host_End_MeetingUID2046 : Tue Jun 7 22:11:55 PDT 2016------------------
+Row 1 Time : 6/7/2016 9:50:56 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 9:50:56 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 9:50:56 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 9:50:56 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 9:50:56 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 9:50:56 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 9:50:56 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 9:50:57 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 9:50:57 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 9:50:57 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 9:50:57 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 9:50:57 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 9:50:57 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 9:50:57 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 9:50:57 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 9:50:57 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 9:50:58 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 9:50:58 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 9:50:58 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 9:50:58 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2046_Collaboration_Host_End_Meeting
+Row 21 Time : 6/7/2016 9:50:58 PM Message WebEx is alreay configured.
+Row 22 Time : 6/7/2016 9:50:58 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 23 Time : 6/7/2016 9:50:58 PM Message UID: 'SLIS' found in records row ID: 1
+Row 24 Time : 6/7/2016 9:50:58 PM Message Return ServerIP: 10.23.197.204
+Row 25 Time : 6/7/2016 9:50:58 PM Message  User Already logged in...
+Row 26 Time : 6/7/2016 9:51:03 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 27 Time : 6/7/2016 9:51:03 PM Message iexplore process has been terminated successfully!
+Row 28 Time : 6/7/2016 9:51:05 PM Message Microsoft Internet Explorer was launched.
+Row 29 Time : 6/7/2016 9:51:08 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 30 Time : 6/7/2016 9:51:13 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 31 Time : 6/7/2016 9:51:13 PM Message .ext-el-mask-msg exists: false
+Row 32 Time : 6/7/2016 9:51:13 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 33 Time : 6/7/2016 9:51:15 PM Message Now come to the Login page ...
+Row 34 Time : 6/7/2016 9:51:15 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 35 Time : 6/7/2016 9:51:17 PM Event The window was clicked with the left mouse button.
+Row 36 Time : 6/7/2016 9:51:23 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 37 Time : 6/7/2016 9:51:23 PM Message .ext-el-mask-msg exists: false
+Row 38 Time : 6/7/2016 9:51:24 PM Message No Alert window in login page.
+Row 39 Time : 6/7/2016 9:51:24 PM Message Login Virtuoso adminstrator's home page
+Row 40 Time : 6/7/2016 9:51:26 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_52").Panel(0).Panel(0).Panel("x_auto_58").Panel(0).Panel(1).Panel("x_auto_68").Panel(0).Panel(0).Panel("x_auto_77").Panel(1).Panel("x_auto_78").Panel("x_auto_87").Panel(0).Panel(0).Panel("x_auto_82").Table(0).Cell(0, 0).Table(0).Cell(0, 3).Panel("x_auto_86")
+Row 41 Time : 6/7/2016 9:51:26 PM Message Element: Permission Found.
+Row 42 Time : 6/7/2016 9:51:26 PM Event The mouse pointer hovered over the window.
+Row 43 Time : 6/7/2016 9:51:27 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2046_Collaboration_Host_End_Meeting\UID2046_Step1.jpeg has been saved
+Row 44 Time : 6/7/2016 9:51:35 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_25").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_30")
+Row 45 Time : 6/7/2016 9:51:36 PM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/7/2016 9:51:46 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_133").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_136").Panel(0).Panel(0).Form(0).Panel("x_auto_137").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 47 Time : 6/7/2016 9:51:46 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 48 Time : 6/7/2016 9:51:46 PM Event The mouse pointer hovered over the window.
+Row 49 Time : 6/7/2016 9:51:48 PM Message Textbox found,id:1290
+Row 50 Time : 6/7/2016 9:51:49 PM Event Keyboard input.
+Row 51 Time : 6/7/2016 9:51:50 PM Event Keyboard input.
+Row 52 Time : 6/7/2016 9:52:00 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_133").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_129").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_130").Cell(1, 1).Button(0)
+Row 53 Time : 6/7/2016 9:52:01 PM Event The window was clicked with the left mouse button.
+Row 54 Time : 6/7/2016 9:52:11 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 9:52:11 PM Event The window was clicked with the left mouse button.
+Row 56 Time : 6/7/2016 9:52:18 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_186").Link("x_auto_186")
+Row 57 Time : 6/7/2016 9:52:18 PM Message Link Start Meeting Found.
+Row 58 Time : 6/7/2016 9:52:18 PM Event The mouse pointer hovered over the window.
+Row 59 Time : 6/7/2016 9:52:23 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_187").Link("x_auto_187")
+Row 60 Time : 6/7/2016 9:52:23 PM Message Link Join Meeting Found.
+Row 61 Time : 6/7/2016 9:52:24 PM Event The mouse pointer hovered over the window.
+Row 62 Time : 6/7/2016 9:52:25 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2046_Collaboration_Host_End_Meeting\UID2046_Step2.jpeg has been saved
+Row 63 Time : 6/7/2016 9:52:30 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_186").Link("x_auto_186")
+Row 64 Time : 6/7/2016 9:52:30 PM Message Link Start Meeting Found.
+Row 65 Time : 6/7/2016 9:52:30 PM Event The mouse pointer hovered over the window.
+Row 66 Time : 6/7/2016 9:52:30 PM Event The window was clicked with the left mouse button.
+Row 67 Time : 6/7/2016 9:52:36 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_196").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_199").Panel(0).Panel(0).Form(0).Panel("x_auto_200").Table(0).Cell(0, 0).Panel("x_auto_209").TextNode(0)
+Row 68 Time : 6/7/2016 9:52:36 PM Message TextNode element: 'Meeting Name*:' Found.
+Row 69 Time : 6/7/2016 9:52:36 PM Event The mouse pointer hovered over the window.
+Row 70 Time : 6/7/2016 9:52:38 PM Message Textbox found,id:1170
+Row 71 Time : 6/7/2016 9:52:39 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2046_Collaboration_Host_End_Meeting\UID2046_Step3.jpeg has been saved
+Row 72 Time : 6/7/2016 9:52:39 PM Event Keyboard input.
+Row 73 Time : 6/7/2016 9:52:41 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2046_Collaboration_Host_End_Meeting\UID2046_Step4.jpeg has been saved
+Row 74 Time : 6/7/2016 9:52:41 PM Event Keyboard input.
+Row 75 Time : 6/7/2016 9:52:42 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2046_Collaboration_Host_End_Meeting\UID2046_Step5.jpeg has been saved
+Row 76 Time : 6/7/2016 9:52:42 PM Message Clicking button *Launch Meeting ...
+Row 77 Time : 6/7/2016 9:52:44 PM Message found 1 elements.
+Row 78 Time : 6/7/2016 9:52:44 PM Event The mouse pointer hovered over the window.
+Row 79 Time : 6/7/2016 9:52:47 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 80 Time : 6/7/2016 9:52:47 PM Message .ext-el-mask-msg exists: false
+Row 81 Time : 6/7/2016 9:52:47 PM Image ScreenShot for click button:*Launch Meeting
+Row 82 Time : 6/7/2016 9:52:48 PM Event The window was clicked with the left mouse button.
+Row 83 Time : 6/7/2016 9:52:48 PM Message Meeting is starting...
+Row 84 Time : 6/7/2016 9:52:51 PM Message Clicking button No ...
+Row 85 Time : 6/7/2016 9:52:52 PM Message found 1 elements.
+Row 86 Time : 6/7/2016 9:52:52 PM Event The mouse pointer hovered over the window.
+Row 87 Time : 6/7/2016 9:52:55 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 88 Time : 6/7/2016 9:52:55 PM Message .ext-el-mask-msg exists: false
+Row 89 Time : 6/7/2016 9:52:56 PM Image ScreenShot for click button:No
+Row 90 Time : 6/7/2016 9:52:56 PM Event The window was clicked with the left mouse button.
+Row 91 Time : 6/7/2016 9:53:20 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2046_Collaboration_Host_End_Meeting\UID2046_Step6.jpeg has been saved
+Row 92 Time : 6/7/2016 9:53:21 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2046_Collaboration_Host_End_Meeting\UID2046_Step7.jpeg has been saved
+Row 93 Time : 6/7/2016 9:53:21 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:02:25
+Row 94 Time : 6/7/2016 9:53:22 PM Message 2046:FAIL
+Row 95 Time : 6/7/2016 9:53:23 PM Error ---------------- Automation TC# : UID2046_Collaboration_Host_End_Meeting FAIL! ---------------- 
+Row 96 Time : 6/7/2016 9:53:23 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID2047_Collaboration_Pathologist_Name_AutofilledUID2047 : Tue Jun 7 22:11:55 PDT 2016------------------
+Row 1 Time : 6/7/2016 9:53:23 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 9:53:23 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 9:53:23 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 9:53:23 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 9:53:23 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 9:53:23 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 9:53:23 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 9:53:24 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 9:53:24 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 9:53:24 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 9:53:24 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 9:53:24 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 9:53:24 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 9:53:24 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 9:53:24 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 9:53:24 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 9:53:24 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 9:53:24 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 9:53:25 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 9:53:25 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2047_Collaboration_Pathologist_Name_Autofilled
+Row 21 Time : 6/7/2016 9:53:25 PM Message WebEx is alreay configured.
+Row 22 Time : 6/7/2016 9:53:25 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 23 Time : 6/7/2016 9:53:25 PM Message UID: 'SLIS' found in records row ID: 1
+Row 24 Time : 6/7/2016 9:53:25 PM Message Return ServerIP: 10.23.197.204
+Row 25 Time : 6/7/2016 9:53:25 PM Message  User Already logged in...
+Row 26 Time : 6/7/2016 9:53:30 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 27 Time : 6/7/2016 9:53:30 PM Message iexplore process has been terminated successfully!
+Row 28 Time : 6/7/2016 9:53:32 PM Message Microsoft Internet Explorer was launched.
+Row 29 Time : 6/7/2016 9:53:36 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 30 Time : 6/7/2016 9:53:41 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 31 Time : 6/7/2016 9:53:41 PM Message .ext-el-mask-msg exists: false
+Row 32 Time : 6/7/2016 9:53:41 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 33 Time : 6/7/2016 9:53:42 PM Message Now come to the Login page ...
+Row 34 Time : 6/7/2016 9:53:43 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 35 Time : 6/7/2016 9:53:45 PM Event The window was clicked with the left mouse button.
+Row 36 Time : 6/7/2016 9:53:51 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 37 Time : 6/7/2016 9:53:51 PM Message .ext-el-mask-msg exists: false
+Row 38 Time : 6/7/2016 9:53:52 PM Message No Alert window in login page.
+Row 39 Time : 6/7/2016 9:53:52 PM Message Login Virtuoso/SLIS home page
+Row 40 Time : 6/7/2016 9:53:53 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 41 Time : 6/7/2016 9:53:53 PM Message Element: *Logout* Found.
+Row 42 Time : 6/7/2016 9:53:53 PM Event The mouse pointer hovered over the window.
+Row 43 Time : 6/7/2016 9:53:54 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2047_Collaboration_Pathologist_Name_Autofilled\UID2047_Step1.jpeg has been saved
+Row 44 Time : 6/7/2016 9:54:08 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_16").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_21")
+Row 45 Time : 6/7/2016 9:54:09 PM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/7/2016 9:54:25 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_389").Panel(0).Panel(0).Form(0).Panel("x_auto_390").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 47 Time : 6/7/2016 9:54:25 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 48 Time : 6/7/2016 9:54:25 PM Event The mouse pointer hovered over the window.
+Row 49 Time : 6/7/2016 9:54:26 PM Message Textbox found,id:2136
+Row 50 Time : 6/7/2016 9:54:27 PM Event Keyboard input.
+Row 51 Time : 6/7/2016 9:54:28 PM Event Keyboard input.
+Row 52 Time : 6/7/2016 9:54:45 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_382").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_383").Cell(1, 1).Button(0)
+Row 53 Time : 6/7/2016 9:54:45 PM Event The window was clicked with the left mouse button.
+Row 54 Time : 6/7/2016 9:55:04 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 9:55:05 PM Event The window was clicked with the left mouse button.
+Row 56 Time : 6/7/2016 9:55:15 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_818").Link("x_auto_818")
+Row 57 Time : 6/7/2016 9:55:15 PM Message Link Start Meeting Found.
+Row 58 Time : 6/7/2016 9:55:15 PM Event The mouse pointer hovered over the window.
+Row 59 Time : 6/7/2016 9:55:24 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_819").Link("x_auto_819")
+Row 60 Time : 6/7/2016 9:55:24 PM Message Link Join Meeting Found.
+Row 61 Time : 6/7/2016 9:55:25 PM Event The mouse pointer hovered over the window.
+Row 62 Time : 6/7/2016 9:55:26 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2047_Collaboration_Pathologist_Name_Autofilled\UID2047_Step2.jpeg has been saved
+Row 63 Time : 6/7/2016 9:55:35 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_818").Link("x_auto_818")
+Row 64 Time : 6/7/2016 9:55:35 PM Message Link Start Meeting Found.
+Row 65 Time : 6/7/2016 9:55:35 PM Event The mouse pointer hovered over the window.
+Row 66 Time : 6/7/2016 9:55:43 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_819").Link("x_auto_819")
+Row 67 Time : 6/7/2016 9:55:43 PM Message Link Join Meeting Found.
+Row 68 Time : 6/7/2016 9:55:43 PM Event The mouse pointer hovered over the window.
+Row 69 Time : 6/7/2016 9:55:43 PM Event The window was clicked with the left mouse button.
+Row 70 Time : 6/7/2016 9:55:55 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(0, 0).Panel("x_auto_841").TextNode(0)
+Row 71 Time : 6/7/2016 9:55:55 PM Message TextNode element: 'First Name*:' Found.
+Row 72 Time : 6/7/2016 9:55:55 PM Event The mouse pointer hovered over the window.
+Row 73 Time : 6/7/2016 9:55:57 PM Message Textbox found,id:2017
+Row 74 Time : 6/7/2016 9:56:07 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(1, 0).Panel("x_auto_842").TextNode(0)
+Row 75 Time : 6/7/2016 9:56:07 PM Message TextNode element: 'Last Name*:' Found.
+Row 76 Time : 6/7/2016 9:56:07 PM Event The mouse pointer hovered over the window.
+Row 77 Time : 6/7/2016 9:56:09 PM Message Textbox found,id:2025
+Row 78 Time : 6/7/2016 9:56:10 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2047_Collaboration_Pathologist_Name_Autofilled\UID2047_Step3.jpeg has been saved
+Row 79 Time : 6/7/2016 9:56:10 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:02:47
+Row 80 Time : 6/7/2016 9:56:11 PM Message 2047:PASS
+Row 81 Time : 6/7/2016 9:56:12 PM Message ---------------- Automation TC# : UID2047_Collaboration_Pathologist_Name_Autofilled PASS! ---------------- 
+Row 82 Time : 6/7/2016 9:56:12 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID2048_Collaboration_Mandatory_Meeting_NumberUID2048 : Tue Jun 7 22:11:56 PDT 2016------------------
+Row 1 Time : 6/7/2016 9:56:12 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 9:56:12 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 9:56:12 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 9:56:12 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 9:56:13 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 9:56:13 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 9:56:13 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 9:56:13 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 9:56:13 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 9:56:13 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 9:56:13 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 9:56:13 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 9:56:13 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 9:56:14 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 9:56:14 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 9:56:14 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 9:56:14 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 9:56:14 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 9:56:14 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 9:56:14 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2048_Collaboration_Mandatory_Meeting_Number
+Row 21 Time : 6/7/2016 9:56:14 PM Message WebEx is alreay configured.
+Row 22 Time : 6/7/2016 9:56:14 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 23 Time : 6/7/2016 9:56:15 PM Message UID: 'SLIS' found in records row ID: 1
+Row 24 Time : 6/7/2016 9:56:15 PM Message Return ServerIP: 10.23.197.204
+Row 25 Time : 6/7/2016 9:56:15 PM Message  User Already logged in...
+Row 26 Time : 6/7/2016 9:56:20 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 27 Time : 6/7/2016 9:56:20 PM Message iexplore process has been terminated successfully!
+Row 28 Time : 6/7/2016 9:56:23 PM Message Microsoft Internet Explorer was launched.
+Row 29 Time : 6/7/2016 9:56:30 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 30 Time : 6/7/2016 9:56:35 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 31 Time : 6/7/2016 9:56:35 PM Message .ext-el-mask-msg exists: false
+Row 32 Time : 6/7/2016 9:56:35 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 33 Time : 6/7/2016 9:56:37 PM Message Now come to the Login page ...
+Row 34 Time : 6/7/2016 9:56:38 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 35 Time : 6/7/2016 9:56:40 PM Event The window was clicked with the left mouse button.
+Row 36 Time : 6/7/2016 9:56:45 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 37 Time : 6/7/2016 9:56:45 PM Message .ext-el-mask-msg exists: false
+Row 38 Time : 6/7/2016 9:56:47 PM Message No Alert window in login page.
+Row 39 Time : 6/7/2016 9:56:47 PM Message Login Virtuoso/SLIS home page
+Row 40 Time : 6/7/2016 9:56:47 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 41 Time : 6/7/2016 9:56:47 PM Message Element: *Logout* Found.
+Row 42 Time : 6/7/2016 9:56:47 PM Event The mouse pointer hovered over the window.
+Row 43 Time : 6/7/2016 9:56:49 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2048_Collaboration_Mandatory_Meeting_Number\UID2048_Step1.jpeg has been saved
+Row 44 Time : 6/7/2016 9:57:03 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_16").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_21")
+Row 45 Time : 6/7/2016 9:57:04 PM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/7/2016 9:57:18 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_389").Panel(0).Panel(0).Form(0).Panel("x_auto_390").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 47 Time : 6/7/2016 9:57:18 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 48 Time : 6/7/2016 9:57:18 PM Event The mouse pointer hovered over the window.
+Row 49 Time : 6/7/2016 9:57:20 PM Message Textbox found,id:2136
+Row 50 Time : 6/7/2016 9:57:21 PM Event Keyboard input.
+Row 51 Time : 6/7/2016 9:57:22 PM Event Keyboard input.
+Row 52 Time : 6/7/2016 9:57:39 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_382").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_383").Cell(1, 1).Button(0)
+Row 53 Time : 6/7/2016 9:57:39 PM Event The window was clicked with the left mouse button.
+Row 54 Time : 6/7/2016 9:57:58 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 9:57:59 PM Event The window was clicked with the left mouse button.
+Row 56 Time : 6/7/2016 9:58:11 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_818").Link("x_auto_818")
+Row 57 Time : 6/7/2016 9:58:11 PM Message Link Start Meeting Found.
+Row 58 Time : 6/7/2016 9:58:11 PM Event The mouse pointer hovered over the window.
+Row 59 Time : 6/7/2016 9:58:20 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_819").Link("x_auto_819")
+Row 60 Time : 6/7/2016 9:58:20 PM Message Link Join Meeting Found.
+Row 61 Time : 6/7/2016 9:58:20 PM Event The mouse pointer hovered over the window.
+Row 62 Time : 6/7/2016 9:58:22 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2048_Collaboration_Mandatory_Meeting_Number\UID2048_Step2.jpeg has been saved
+Row 63 Time : 6/7/2016 9:58:30 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_819").Link("x_auto_819")
+Row 64 Time : 6/7/2016 9:58:30 PM Message Link Join Meeting Found.
+Row 65 Time : 6/7/2016 9:58:30 PM Event The mouse pointer hovered over the window.
+Row 66 Time : 6/7/2016 9:58:30 PM Event The window was clicked with the left mouse button.
+Row 67 Time : 6/7/2016 9:58:42 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(0, 0).Panel("x_auto_841").TextNode(0)
+Row 68 Time : 6/7/2016 9:58:42 PM Message TextNode element: 'First Name*:' Found.
+Row 69 Time : 6/7/2016 9:58:42 PM Event The mouse pointer hovered over the window.
+Row 70 Time : 6/7/2016 9:58:52 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(1, 0).Panel("x_auto_842").TextNode(0)
+Row 71 Time : 6/7/2016 9:58:52 PM Message TextNode element: 'Last Name*:' Found.
+Row 72 Time : 6/7/2016 9:58:53 PM Event The mouse pointer hovered over the window.
+Row 73 Time : 6/7/2016 9:59:03 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(2, 0).Panel("x_auto_843").TextNode(0)
+Row 74 Time : 6/7/2016 9:59:03 PM Message TextNode element: 'Meeting Number*:' Found.
+Row 75 Time : 6/7/2016 9:59:03 PM Event The mouse pointer hovered over the window.
+Row 76 Time : 6/7/2016 9:59:13 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(3, 0).Panel("x_auto_844").TextNode(0)
+Row 77 Time : 6/7/2016 9:59:13 PM Message TextNode element: 'Password:' Found.
+Row 78 Time : 6/7/2016 9:59:13 PM Event The mouse pointer hovered over the window.
+Row 79 Time : 6/7/2016 9:59:15 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2048_Collaboration_Mandatory_Meeting_Number\UID2048_Step3.jpeg has been saved
+Row 80 Time : 6/7/2016 9:59:23 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(2, 0).Panel("x_auto_843").TextNode(0)
+Row 81 Time : 6/7/2016 9:59:23 PM Message TextNode element: 'Meeting Number*:' Found.
+Row 82 Time : 6/7/2016 9:59:23 PM Event The mouse pointer hovered over the window.
+Row 83 Time : 6/7/2016 9:59:25 PM Message Textbox found,id:2033
+Row 84 Time : 6/7/2016 9:59:25 PM Event Keyboard input.
+Row 85 Time : 6/7/2016 9:59:25 PM Event Keyboard input.
+Row 86 Time : 6/7/2016 9:59:26 PM Event Keyboard input.
+Row 87 Time : 6/7/2016 9:59:26 PM Message Clicking button *Join Meeting ...
+Row 88 Time : 6/7/2016 9:59:28 PM Message found 1 elements.
+Row 89 Time : 6/7/2016 9:59:28 PM Event The mouse pointer hovered over the window.
+Row 90 Time : 6/7/2016 9:59:31 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 91 Time : 6/7/2016 9:59:31 PM Message .ext-el-mask-msg exists: false
+Row 92 Time : 6/7/2016 9:59:32 PM Image ScreenShot for click button:*Join Meeting
+Row 93 Time : 6/7/2016 9:59:32 PM Event The window was clicked with the left mouse button.
+Row 94 Time : 6/7/2016 9:59:37 PM Event The mouse pointer hovered over the window.
+Row 95 Time : 6/7/2016 9:59:38 PM Checkpoint The property checkpoint passed (the innerText equals "Error").
+Row 96 Time : 6/7/2016 9:59:48 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_850").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(1).TextNode("x_auto_850_content")
+Row 97 Time : 6/7/2016 9:59:48 PM Message TextNode element: 'The highlighted fields are invalid, please make sure you enter in a value that is valid.' Found.
+Row 98 Time : 6/7/2016 9:59:48 PM Event The mouse pointer hovered over the window.
+Row 99 Time : 6/7/2016 9:59:48 PM Message Error message is found.
+Row 100 Time : 6/7/2016 9:59:49 PM Image Correct error message
+Row 101 Time : 6/7/2016 9:59:50 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2048_Collaboration_Mandatory_Meeting_Number\UID2048_Step4.jpeg has been saved
+Row 102 Time : 6/7/2016 9:59:50 PM Message Clicking button OK ...
+Row 103 Time : 6/7/2016 9:59:52 PM Message found 1 elements.
+Row 104 Time : 6/7/2016 9:59:52 PM Event The mouse pointer hovered over the window.
+Row 105 Time : 6/7/2016 9:59:55 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 106 Time : 6/7/2016 9:59:55 PM Message .ext-el-mask-msg exists: false
+Row 107 Time : 6/7/2016 9:59:56 PM Image ScreenShot for click button:OK
+Row 108 Time : 6/7/2016 9:59:56 PM Event The window was clicked with the left mouse button.
+Row 109 Time : 6/7/2016 10:00:05 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(2, 0).Panel("x_auto_843").TextNode(0)
+Row 110 Time : 6/7/2016 10:00:05 PM Message TextNode element: 'Meeting Number*:' Found.
+Row 111 Time : 6/7/2016 10:00:05 PM Event The mouse pointer hovered over the window.
+Row 112 Time : 6/7/2016 10:00:07 PM Message Textbox found,id:2033
+Row 113 Time : 6/7/2016 10:00:08 PM Event Keyboard input.
+Row 114 Time : 6/7/2016 10:00:08 PM Event Keyboard input.
+Row 115 Time : 6/7/2016 10:00:08 PM Event Keyboard input.
+Row 116 Time : 6/7/2016 10:00:08 PM Message Clicking button *Join Meeting ...
+Row 117 Time : 6/7/2016 10:00:10 PM Message found 1 elements.
+Row 118 Time : 6/7/2016 10:00:10 PM Event The mouse pointer hovered over the window.
+Row 119 Time : 6/7/2016 10:00:14 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 120 Time : 6/7/2016 10:00:14 PM Message .ext-el-mask-msg exists: false
+Row 121 Time : 6/7/2016 10:00:14 PM Image ScreenShot for click button:*Join Meeting
+Row 122 Time : 6/7/2016 10:00:14 PM Event The window was clicked with the left mouse button.
+Row 123 Time : 6/7/2016 10:00:16 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:04:04
+Row 124 Time : 6/7/2016 10:00:17 PM Message 2048:PASS
+Row 125 Time : 6/7/2016 10:00:18 PM Message ---------------- Automation TC# : UID2048_Collaboration_Mandatory_Meeting_Number PASS! ---------------- 
+Row 126 Time : 6/7/2016 10:00:18 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID2049_Collaboration_Invalid_Meeting_Number_PasswordUID2049 : Tue Jun 7 22:11:56 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:00:18 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 10:00:18 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 10:00:18 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 10:00:18 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 10:00:18 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 10:00:18 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 10:00:18 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 10:00:19 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 10:00:19 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 10:00:19 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 10:00:19 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 10:00:19 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 10:00:19 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 10:00:19 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 10:00:19 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 10:00:20 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 10:00:20 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 10:00:20 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 10:00:20 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 10:00:21 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2049_Collaboration_Invalid_Meeting_Number_Password
+Row 21 Time : 6/7/2016 10:00:21 PM Message WebEx is alreay configured.
+Row 22 Time : 6/7/2016 10:00:21 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 23 Time : 6/7/2016 10:00:21 PM Message UID: 'SLIS' found in records row ID: 1
+Row 24 Time : 6/7/2016 10:00:21 PM Message Return ServerIP: 10.23.197.204
+Row 25 Time : 6/7/2016 10:00:21 PM Message  User Already logged in...
+Row 26 Time : 6/7/2016 10:00:29 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 27 Time : 6/7/2016 10:00:29 PM Message iexplore process has been terminated successfully!
+Row 28 Time : 6/7/2016 10:00:32 PM Message Microsoft Internet Explorer was launched.
+Row 29 Time : 6/7/2016 10:00:39 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 30 Time : 6/7/2016 10:00:44 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 31 Time : 6/7/2016 10:00:44 PM Message .ext-el-mask-msg exists: false
+Row 32 Time : 6/7/2016 10:00:44 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 33 Time : 6/7/2016 10:00:46 PM Message Now come to the Login page ...
+Row 34 Time : 6/7/2016 10:00:47 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 35 Time : 6/7/2016 10:00:49 PM Event The window was clicked with the left mouse button.
+Row 36 Time : 6/7/2016 10:00:56 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 37 Time : 6/7/2016 10:00:56 PM Message .ext-el-mask-msg exists: false
+Row 38 Time : 6/7/2016 10:00:57 PM Message No Alert window in login page.
+Row 39 Time : 6/7/2016 10:00:57 PM Message Login Virtuoso/SLIS home page
+Row 40 Time : 6/7/2016 10:00:58 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 41 Time : 6/7/2016 10:00:58 PM Message Element: *Logout* Found.
+Row 42 Time : 6/7/2016 10:00:58 PM Event The mouse pointer hovered over the window.
+Row 43 Time : 6/7/2016 10:00:59 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2049_Collaboration_Invalid_Meeting_Number_Password\UID2049_Step1.jpeg has been saved
+Row 44 Time : 6/7/2016 10:01:14 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_16").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_21")
+Row 45 Time : 6/7/2016 10:01:14 PM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/7/2016 10:01:28 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_389").Panel(0).Panel(0).Form(0).Panel("x_auto_390").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 47 Time : 6/7/2016 10:01:28 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 48 Time : 6/7/2016 10:01:29 PM Event The mouse pointer hovered over the window.
+Row 49 Time : 6/7/2016 10:01:30 PM Message Textbox found,id:2136
+Row 50 Time : 6/7/2016 10:01:31 PM Event Keyboard input.
+Row 51 Time : 6/7/2016 10:01:32 PM Event Keyboard input.
+Row 52 Time : 6/7/2016 10:01:49 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_382").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_383").Cell(1, 1).Button(0)
+Row 53 Time : 6/7/2016 10:01:50 PM Event The window was clicked with the left mouse button.
+Row 54 Time : 6/7/2016 10:02:09 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 10:02:10 PM Event The window was clicked with the left mouse button.
+Row 56 Time : 6/7/2016 10:02:22 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_818").Link("x_auto_818")
+Row 57 Time : 6/7/2016 10:02:22 PM Message Link Start Meeting Found.
+Row 58 Time : 6/7/2016 10:02:22 PM Event The mouse pointer hovered over the window.
+Row 59 Time : 6/7/2016 10:02:31 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_819").Link("x_auto_819")
+Row 60 Time : 6/7/2016 10:02:31 PM Message Link Join Meeting Found.
+Row 61 Time : 6/7/2016 10:02:31 PM Event The mouse pointer hovered over the window.
+Row 62 Time : 6/7/2016 10:02:32 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2049_Collaboration_Invalid_Meeting_Number_Password\UID2049_Step2.jpeg has been saved
+Row 63 Time : 6/7/2016 10:02:41 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_817").Panel(0).Panel("x_menu_el_x_auto_819").Link("x_auto_819")
+Row 64 Time : 6/7/2016 10:02:41 PM Message Link Join Meeting Found.
+Row 65 Time : 6/7/2016 10:02:41 PM Event The mouse pointer hovered over the window.
+Row 66 Time : 6/7/2016 10:02:41 PM Event The window was clicked with the left mouse button.
+Row 67 Time : 6/7/2016 10:02:52 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(0, 0).Panel("x_auto_841").TextNode(0)
+Row 68 Time : 6/7/2016 10:02:52 PM Message TextNode element: 'First Name*:' Found.
+Row 69 Time : 6/7/2016 10:02:53 PM Event The mouse pointer hovered over the window.
+Row 70 Time : 6/7/2016 10:03:03 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(1, 0).Panel("x_auto_842").TextNode(0)
+Row 71 Time : 6/7/2016 10:03:03 PM Message TextNode element: 'Last Name*:' Found.
+Row 72 Time : 6/7/2016 10:03:03 PM Event The mouse pointer hovered over the window.
+Row 73 Time : 6/7/2016 10:03:14 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(2, 0).Panel("x_auto_843").TextNode(0)
+Row 74 Time : 6/7/2016 10:03:14 PM Message TextNode element: 'Meeting Number*:' Found.
+Row 75 Time : 6/7/2016 10:03:14 PM Event The mouse pointer hovered over the window.
+Row 76 Time : 6/7/2016 10:03:22 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(3, 0).Panel("x_auto_844").TextNode(0)
+Row 77 Time : 6/7/2016 10:03:22 PM Message TextNode element: 'Password:' Found.
+Row 78 Time : 6/7/2016 10:03:22 PM Event The mouse pointer hovered over the window.
+Row 79 Time : 6/7/2016 10:03:23 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2049_Collaboration_Invalid_Meeting_Number_Password\UID2049_Step3.jpeg has been saved
+Row 80 Time : 6/7/2016 10:03:33 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_828").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_831").Panel(0).Panel(0).Form(0).Panel("x_auto_832").Table(0).Cell(2, 0).Panel("x_auto_843").TextNode(0)
+Row 81 Time : 6/7/2016 10:03:33 PM Message TextNode element: 'Meeting Number*:' Found.
+Row 82 Time : 6/7/2016 10:03:33 PM Event The mouse pointer hovered over the window.
+Row 83 Time : 6/7/2016 10:03:35 PM Message Textbox found,id:2033
+Row 84 Time : 6/7/2016 10:03:36 PM Event Keyboard input.
+Row 85 Time : 6/7/2016 10:03:36 PM Event Keyboard input.
+Row 86 Time : 6/7/2016 10:03:36 PM Message Clicking button *Join Meeting ...
+Row 87 Time : 6/7/2016 10:03:39 PM Message found 1 elements.
+Row 88 Time : 6/7/2016 10:03:39 PM Event The mouse pointer hovered over the window.
+Row 89 Time : 6/7/2016 10:03:42 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 90 Time : 6/7/2016 10:03:42 PM Message .ext-el-mask-msg exists: false
+Row 91 Time : 6/7/2016 10:03:42 PM Image ScreenShot for click button:*Join Meeting
+Row 92 Time : 6/7/2016 10:03:42 PM Event The window was clicked with the left mouse button.
+Row 93 Time : 6/7/2016 10:03:42 PM Message Joining the meeting...
+Row 94 Time : 6/7/2016 10:03:54 PM Message Could not found error messagebox!
+Row 95 Time : 6/7/2016 10:03:55 PM Image Verify error messagebox.
+Row 96 Time : 6/7/2016 10:03:56 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2049_Collaboration_Invalid_Meeting_Number_Password\UID2049_Step4.jpeg has been saved
+Row 97 Time : 6/7/2016 10:03:56 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:03:38
+Row 98 Time : 6/7/2016 10:03:58 PM Message 2049:FAIL
+Row 99 Time : 6/7/2016 10:03:58 PM Error ---------------- Automation TC# : UID2049_Collaboration_Invalid_Meeting_Number_Password FAIL! ---------------- 
+Row 100 Time : 6/7/2016 10:03:58 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLog_end_end : Tue Jun 7 22:11:57 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:11:51 PM Message Project End time updated in XML Test Suite Summary Tue Jun 7 22:11:51 PDT 2016
+------------------TempExprtFoldr : ScriptTestLogUID2051_Collaboration_Create_Session_Analysis_ViewUID2051 : Tue Jun 7 22:11:57 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:03:58 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 10:03:59 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 10:03:59 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 10:03:59 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 10:03:59 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 10:03:59 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 10:03:59 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 10:03:59 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 10:03:59 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 10:03:59 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 10:04:00 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 10:04:00 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 10:04:00 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 10:04:00 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 10:04:00 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 10:04:00 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 10:04:00 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 10:04:00 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 10:04:01 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 10:04:01 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2051_Collaboration_Create_Session_Analysis_View
+Row 21 Time : 6/7/2016 10:04:01 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/7/2016 10:04:01 PM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/7/2016 10:04:01 PM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/7/2016 10:04:01 PM Message  User Already logged in...
+Row 25 Time : 6/7/2016 10:04:06 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 26 Time : 6/7/2016 10:04:17 PM Message Microsoft Internet Explorer was launched.
+Row 27 Time : 6/7/2016 10:04:22 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 28 Time : 6/7/2016 10:04:26 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 29 Time : 6/7/2016 10:04:26 PM Message .ext-el-mask-msg exists: false
+Row 30 Time : 6/7/2016 10:04:26 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 31 Time : 6/7/2016 10:04:27 PM Message Now come to the Login page ...
+Row 32 Time : 6/7/2016 10:04:28 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 33 Time : 6/7/2016 10:04:30 PM Event The window was clicked with the left mouse button.
+Row 34 Time : 6/7/2016 10:04:35 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 35 Time : 6/7/2016 10:04:35 PM Message .ext-el-mask-msg exists: false
+Row 36 Time : 6/7/2016 10:04:36 PM Message No Alert window in login page.
+Row 37 Time : 6/7/2016 10:04:36 PM Message Login Virtuoso/SLIS home page
+Row 38 Time : 6/7/2016 10:04:37 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 39 Time : 6/7/2016 10:04:37 PM Message Element: *Logout* Found.
+Row 40 Time : 6/7/2016 10:04:37 PM Event The mouse pointer hovered over the window.
+Row 41 Time : 6/7/2016 10:04:38 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2051_Collaboration_Create_Session_Analysis_View\UID2051_Step1.jpeg has been saved
+Row 42 Time : 6/7/2016 10:04:53 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_16").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_21")
+Row 43 Time : 6/7/2016 10:04:54 PM Event The window was clicked with the left mouse button.
+Row 44 Time : 6/7/2016 10:05:10 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_389").Panel(0).Panel(0).Form(0).Panel("x_auto_390").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 45 Time : 6/7/2016 10:05:10 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 46 Time : 6/7/2016 10:05:10 PM Event The mouse pointer hovered over the window.
+Row 47 Time : 6/7/2016 10:05:12 PM Message Textbox found,id:2136
+Row 48 Time : 6/7/2016 10:05:14 PM Event Keyboard input.
+Row 49 Time : 6/7/2016 10:05:14 PM Event Keyboard input.
+Row 50 Time : 6/7/2016 10:05:30 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_382").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_383").Cell(1, 1).Button(0)
+Row 51 Time : 6/7/2016 10:05:30 PM Event The window was clicked with the left mouse button.
+Row 52 Time : 6/7/2016 10:05:35 PM Message Clicking button View Specimen ...
+Row 53 Time : 6/7/2016 10:05:51 PM Message found 1 elements.
+Row 54 Time : 6/7/2016 10:05:51 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 10:05:54 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 56 Time : 6/7/2016 10:05:54 PM Message .ext-el-mask-msg exists: false
+Row 57 Time : 6/7/2016 10:05:54 PM Image ScreenShot for click button:View Specimen
+Row 58 Time : 6/7/2016 10:05:55 PM Event The window was clicked with the left mouse button.
+Row 59 Time : 6/7/2016 10:06:09 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2051_Collaboration_Create_Session_Analysis_View\UID2051_Step2.jpeg has been saved
+Row 60 Time : 6/7/2016 10:06:23 PM Event The mouse pointer hovered over the window.
+Row 61 Time : 6/7/2016 10:06:23 PM Event The window was double-clicked by the left mouse button.
+Row 62 Time : 6/7/2016 10:06:39 PM Error The page '*#goToAnalysisView?goToAnalysisView' was not found.
+Row 63 Time : 6/7/2016 10:07:46 PM Message 67 seconds already, Panel,Report / Sign-out object still could not found, timeout!
+Row 64 Time : 6/7/2016 10:07:46 PM Message Find_object_with_timeout(): PropArray: ObjectType,textContentValuesArray: Panel,Report / Sign-out
+Row 65 Time : 6/7/2016 10:07:46 PM Error Microsoft JScript runtime error.
+Row 66 Time : 6/7/2016 10:07:46 PM Error Script execution was interrupted.
+------------------TempExprtFoldr : ScriptTestLogUID2054_Collaboration_Save_Third_Party_CredentialsUID2054 : Tue Jun 7 22:11:57 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:07:46 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 10:07:47 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 10:07:47 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 10:07:47 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 10:07:47 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 10:07:47 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 10:07:47 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 10:07:47 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 10:07:47 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 10:07:47 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 10:07:47 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 10:07:47 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 10:07:48 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 10:07:48 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 10:07:48 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 10:07:48 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 10:07:48 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 10:07:48 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 10:07:49 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 10:07:49 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2054_Collaboration_Save_Third_Party_Credentials
+Row 21 Time : 6/7/2016 10:07:49 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/7/2016 10:07:49 PM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/7/2016 10:07:49 PM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/7/2016 10:07:49 PM Message  User Already logged in...
+Row 25 Time : 6/7/2016 10:07:53 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 26 Time : 6/7/2016 10:07:54 PM Message iexplore process has been terminated successfully!
+Row 27 Time : 6/7/2016 10:07:57 PM Message Microsoft Internet Explorer was launched.
+Row 28 Time : 6/7/2016 10:08:01 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 29 Time : 6/7/2016 10:08:05 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 30 Time : 6/7/2016 10:08:05 PM Message .ext-el-mask-msg exists: false
+Row 31 Time : 6/7/2016 10:08:05 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 32 Time : 6/7/2016 10:08:07 PM Message Now come to the Login page ...
+Row 33 Time : 6/7/2016 10:08:08 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 34 Time : 6/7/2016 10:08:09 PM Event The window was clicked with the left mouse button.
+Row 35 Time : 6/7/2016 10:08:15 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 36 Time : 6/7/2016 10:08:15 PM Message .ext-el-mask-msg exists: false
+Row 37 Time : 6/7/2016 10:08:17 PM Message No Alert window in login page.
+Row 38 Time : 6/7/2016 10:08:17 PM Message Login Virtuoso adminstrator's home page
+Row 39 Time : 6/7/2016 10:08:19 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_52").Panel(0).Panel(0).Panel("x_auto_58").Panel(0).Panel(1).Panel("x_auto_68").Panel(0).Panel(0).Panel("x_auto_77").Panel(1).Panel("x_auto_78").Panel("x_auto_87").Panel(0).Panel(0).Panel("x_auto_82").Table(0).Cell(0, 0).Table(0).Cell(0, 3).Panel("x_auto_86")
+Row 40 Time : 6/7/2016 10:08:19 PM Message Element: Permission Found.
+Row 41 Time : 6/7/2016 10:08:19 PM Event The mouse pointer hovered over the window.
+Row 42 Time : 6/7/2016 10:08:20 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2054_Collaboration_Save_Third_Party_Credentials\UID2054_Step1.jpeg has been saved
+Row 43 Time : 6/7/2016 10:08:28 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_49").Panel(0).Panel(0).Panel("x_auto_93").Panel(0).Panel("x_auto_94").Panel("x_auto_98").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Table("GENERALCONFIG").Cell(1, 1).Button(0)
+Row 44 Time : 6/7/2016 10:08:28 PM Message Clicking Panel General Configuration...
+Row 45 Time : 6/7/2016 10:08:28 PM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/7/2016 10:08:32 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 47 Time : 6/7/2016 10:08:32 PM Message .ext-el-mask-msg exists: false
+Row 48 Time : 6/7/2016 10:08:33 PM Image ScreenShot for click General Configuration
+Row 49 Time : 6/7/2016 10:08:44 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_160").Panel(0).Panel(0).Panel(0).Panel("x_auto_156").TextNode("x_auto_156_label")
+Row 50 Time : 6/7/2016 10:08:44 PM Message TextNode element: 'General Configuration' Found.
+Row 51 Time : 6/7/2016 10:08:44 PM Event The mouse pointer hovered over the window.
+Row 52 Time : 6/7/2016 10:08:45 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2054_Collaboration_Save_Third_Party_Credentials\UID2054_Step2.jpeg has been saved
+Row 53 Time : 6/7/2016 10:08:55 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_160").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_163").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Fieldset("x_auto_164").Panel(0).Table(0).Cell(3, 0).Panel("x_auto_130").TextNode(0)
+Row 54 Time : 6/7/2016 10:08:55 PM Message TextNode element: 'WebEx Site ID:' Found.
+Row 55 Time : 6/7/2016 10:08:55 PM Event The mouse pointer hovered over the window.
+Row 56 Time : 6/7/2016 10:08:56 PM Message Textbox found,id:1213
+Row 57 Time : 6/7/2016 10:08:57 PM Event Keyboard input.
+Row 58 Time : 6/7/2016 10:09:07 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_160").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_163").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Fieldset("x_auto_164").Panel(0).Table(0).Cell(4, 0).Panel("x_auto_131").TextNode(0)
+Row 59 Time : 6/7/2016 10:09:07 PM Message TextNode element: 'WebEx Service URL:' Found.
+Row 60 Time : 6/7/2016 10:09:07 PM Event The mouse pointer hovered over the window.
+Row 61 Time : 6/7/2016 10:09:09 PM Message Textbox found,id:1220
+Row 62 Time : 6/7/2016 10:09:11 PM Event Keyboard input.
+Row 63 Time : 6/7/2016 10:09:21 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_160").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_163").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Fieldset("x_auto_164").Panel(0).Table(0).Cell(5, 0).Panel("x_auto_132").TextNode(0)
+Row 64 Time : 6/7/2016 10:09:21 PM Message TextNode element: 'WebEx Xml Url:' Found.
+Row 65 Time : 6/7/2016 10:09:21 PM Event The mouse pointer hovered over the window.
+Row 66 Time : 6/7/2016 10:09:23 PM Message Textbox found,id:1227
+Row 67 Time : 6/7/2016 10:09:26 PM Event Keyboard input.
+Row 68 Time : 6/7/2016 10:09:36 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_160").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_157").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_158").Cell(1, 1).Button(0)
+Row 69 Time : 6/7/2016 10:09:36 PM Event The window was clicked with the left mouse button.
+Row 70 Time : 6/7/2016 10:09:44 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_49").Panel(0).Panel(0).Panel("x_auto_93").Panel(0).Panel("x_auto_94").Panel("x_auto_98").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Table("GENERALCONFIG").Cell(1, 1).Button(0)
+Row 71 Time : 6/7/2016 10:09:44 PM Message Clicking Panel General Configuration...
+Row 72 Time : 6/7/2016 10:09:44 PM Event The window was clicked with the left mouse button.
+Row 73 Time : 6/7/2016 10:09:48 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 74 Time : 6/7/2016 10:09:48 PM Message .ext-el-mask-msg exists: false
+Row 75 Time : 6/7/2016 10:09:49 PM Image ScreenShot for click General Configuration
+Row 76 Time : 6/7/2016 10:09:59 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_252").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_255").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Fieldset("x_auto_256").Panel(0).Table(0).Cell(3, 0).Panel("x_auto_222").TextNode(0)
+Row 77 Time : 6/7/2016 10:09:59 PM Message TextNode element: 'WebEx Site ID:' Found.
+Row 78 Time : 6/7/2016 10:09:59 PM Event The mouse pointer hovered over the window.
+Row 79 Time : 6/7/2016 10:10:00 PM Message Textbox found,id:1213
+Row 80 Time : 6/7/2016 10:10:10 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_252").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_255").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Fieldset("x_auto_256").Panel(0).Table(0).Cell(4, 0).Panel("x_auto_223").TextNode(0)
+Row 81 Time : 6/7/2016 10:10:10 PM Message TextNode element: 'WebEx Service URL:' Found.
+Row 82 Time : 6/7/2016 10:10:10 PM Event The mouse pointer hovered over the window.
+Row 83 Time : 6/7/2016 10:10:12 PM Message Textbox found,id:1220
+Row 84 Time : 6/7/2016 10:10:21 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_252").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_255").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Fieldset("x_auto_256").Panel(0).Table(0).Cell(5, 0).Panel("x_auto_224").TextNode(0)
+Row 85 Time : 6/7/2016 10:10:21 PM Message TextNode element: 'WebEx Xml Url:' Found.
+Row 86 Time : 6/7/2016 10:10:22 PM Event The mouse pointer hovered over the window.
+Row 87 Time : 6/7/2016 10:10:23 PM Message Textbox found,id:1227
+Row 88 Time : 6/7/2016 10:10:24 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2054_Collaboration_Save_Third_Party_Credentials\UID2054_Step3.jpeg has been saved
+Row 89 Time : 6/7/2016 10:10:34 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_252").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_249").Table(0).Cell(0, 0).Table(0).Cell(0, 1).Table("x_auto_251").Cell(1, 1).Button(0)
+Row 90 Time : 6/7/2016 10:10:35 PM Event The window was clicked with the left mouse button.
+Row 91 Time : 6/7/2016 10:10:43 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_25").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_30")
+Row 92 Time : 6/7/2016 10:10:43 PM Event The window was clicked with the left mouse button.
+Row 93 Time : 6/7/2016 10:10:54 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_316").Panel(0).Panel(0).Panel(0).Panel("x_auto_311").TextNode("x_auto_311_label")
+Row 94 Time : 6/7/2016 10:10:54 PM Message Element: User Preferences Found.
+Row 95 Time : 6/7/2016 10:10:54 PM Event The mouse pointer hovered over the window.
+Row 96 Time : 6/7/2016 10:10:55 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2054_Collaboration_Save_Third_Party_Credentials\UID2054_Step4.jpeg has been saved
+Row 97 Time : 6/7/2016 10:11:03 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_316").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_319").Panel(0).Panel(0).Form(0).Panel("x_auto_320").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 98 Time : 6/7/2016 10:11:03 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 99 Time : 6/7/2016 10:11:04 PM Event The mouse pointer hovered over the window.
+Row 100 Time : 6/7/2016 10:11:05 PM Message Textbox found,id:1290
+Row 101 Time : 6/7/2016 10:11:06 PM Event Keyboard input.
+Row 102 Time : 6/7/2016 10:11:07 PM Event Keyboard input.
+Row 103 Time : 6/7/2016 10:11:17 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_316").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_312").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_313").Cell(1, 1).Button(0)
+Row 104 Time : 6/7/2016 10:11:17 PM Event The window was clicked with the left mouse button.
+Row 105 Time : 6/7/2016 10:11:28 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_25").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_30")
+Row 106 Time : 6/7/2016 10:11:28 PM Event The window was clicked with the left mouse button.
+Row 107 Time : 6/7/2016 10:11:37 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_316").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_319").Panel(0).Panel(0).Form(0).Panel("x_auto_320").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 108 Time : 6/7/2016 10:11:37 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 109 Time : 6/7/2016 10:11:37 PM Event The mouse pointer hovered over the window.
+Row 110 Time : 6/7/2016 10:11:38 PM Message Textbox found,id:1290
+Row 111 Time : 6/7/2016 10:11:48 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_316").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_312").Table(0).Cell(0, 0).Table(0).Cell(0, 2).Table("x_auto_315").Cell(1, 1).Button(0)
+Row 112 Time : 6/7/2016 10:11:48 PM Event The window was clicked with the left mouse button.
+Row 113 Time : 6/7/2016 10:11:50 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2054_Collaboration_Save_Third_Party_Credentials\UID2054_Step5.jpeg has been saved
+Row 114 Time : 6/7/2016 10:11:50 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:04:04
+Row 115 Time : 6/7/2016 10:11:51 PM Message 2054:PASS
+Row 116 Time : 6/7/2016 10:11:51 PM Message ---------------- Automation TC# : UID2054_Collaboration_Save_Third_Party_Credentials PASS! ---------------- 
+Row 117 Time : 6/7/2016 10:11:51 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID2042_Collaboration_Invalid_Third_Party_CredentialsUID2042 : Tue Jun 7 22:11:52 PDT 2016------------------
+Row 1 Time : 6/7/2016 9:37:50 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 9:37:51 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 9:37:51 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 9:37:51 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 9:37:51 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 9:37:51 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 9:37:51 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 9:37:51 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 9:37:51 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 9:37:51 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 9:37:51 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 9:37:51 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 9:37:51 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 9:37:52 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 9:37:52 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 9:37:52 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 9:37:52 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 9:37:52 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 9:37:52 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 9:37:53 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2042_Collaboration_Invalid_Third_Party_Credentials
+Row 21 Time : 6/7/2016 9:37:53 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 22 Time : 6/7/2016 9:37:53 PM Message UID: 'SLIS' found in records row ID: 1
+Row 23 Time : 6/7/2016 9:37:53 PM Message Return ServerIP: 10.23.197.204
+Row 24 Time : 6/7/2016 9:37:57 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 25 Time : 6/7/2016 9:37:57 PM Message iexplore process has been terminated successfully!
+Row 26 Time : 6/7/2016 9:37:59 PM Message Microsoft Internet Explorer was launched.
+Row 27 Time : 6/7/2016 9:38:03 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 28 Time : 6/7/2016 9:38:07 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 29 Time : 6/7/2016 9:38:07 PM Message .ext-el-mask-msg exists: false
+Row 30 Time : 6/7/2016 9:38:07 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 31 Time : 6/7/2016 9:38:08 PM Message Now come to the Login page ...
+Row 32 Time : 6/7/2016 9:38:09 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 33 Time : 6/7/2016 9:38:11 PM Event The window was clicked with the left mouse button.
+Row 34 Time : 6/7/2016 9:38:17 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 35 Time : 6/7/2016 9:38:17 PM Message .ext-el-mask-msg exists: false
+Row 36 Time : 6/7/2016 9:38:18 PM Message No Alert window in login page.
+Row 37 Time : 6/7/2016 9:38:18 PM Message Login Virtuoso adminstrator's home page
+Row 38 Time : 6/7/2016 9:38:20 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_52").Panel(0).Panel(0).Panel("x_auto_58").Panel(0).Panel(1).Panel("x_auto_68").Panel(0).Panel(0).Panel("x_auto_77").Panel(1).Panel("x_auto_78").Panel("x_auto_87").Panel(0).Panel(0).Panel("x_auto_82").Table(0).Cell(0, 0).Table(0).Cell(0, 3).Panel("x_auto_86")
+Row 39 Time : 6/7/2016 9:38:20 PM Message Element: Permission Found.
+Row 40 Time : 6/7/2016 9:38:20 PM Event The mouse pointer hovered over the window.
+Row 41 Time : 6/7/2016 9:38:27 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_49").Panel(0).Panel(0).Panel("x_auto_93").Panel(0).Panel("x_auto_94").Panel("x_auto_98").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Table("GENERALCONFIG").Cell(1, 1).Button(0)
+Row 42 Time : 6/7/2016 9:38:27 PM Message Clicking Panel General Configuration...
+Row 43 Time : 6/7/2016 9:38:28 PM Event The window was clicked with the left mouse button.
+Row 44 Time : 6/7/2016 9:38:32 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 45 Time : 6/7/2016 9:38:32 PM Message .ext-el-mask-msg exists: false
+Row 46 Time : 6/7/2016 9:38:33 PM Image ScreenShot for click General Configuration
+Row 47 Time : 6/7/2016 9:38:43 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_160").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_163").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Fieldset("x_auto_164").Panel(0).Table(0).Cell(3, 0).Panel("x_auto_130").TextNode(0)
+Row 48 Time : 6/7/2016 9:38:43 PM Message TextNode element: 'WebEx Site ID:' Found.
+Row 49 Time : 6/7/2016 9:38:43 PM Event The mouse pointer hovered over the window.
+Row 50 Time : 6/7/2016 9:38:45 PM Message Textbox found,id:1213
+Row 51 Time : 6/7/2016 9:38:46 PM Event Keyboard input.
+Row 52 Time : 6/7/2016 9:38:53 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_160").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_163").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Fieldset("x_auto_164").Panel(0).Table(0).Cell(4, 0).Panel("x_auto_131").TextNode(0)
+Row 53 Time : 6/7/2016 9:38:53 PM Message TextNode element: 'WebEx Service URL:' Found.
+Row 54 Time : 6/7/2016 9:38:53 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 9:38:55 PM Message Textbox found,id:1220
+Row 56 Time : 6/7/2016 9:38:57 PM Event Keyboard input.
+Row 57 Time : 6/7/2016 9:39:07 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_160").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_163").Panel(0).Panel(0).Form(0).Table(0).Cell(0, 0).Fieldset("x_auto_164").Panel(0).Table(0).Cell(5, 0).Panel("x_auto_132").TextNode(0)
+Row 58 Time : 6/7/2016 9:39:07 PM Message TextNode element: 'WebEx Xml Url:' Found.
+Row 59 Time : 6/7/2016 9:39:07 PM Event The mouse pointer hovered over the window.
+Row 60 Time : 6/7/2016 9:39:09 PM Message Textbox found,id:1227
+Row 61 Time : 6/7/2016 9:39:12 PM Event Keyboard input.
+Row 62 Time : 6/7/2016 9:39:23 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_160").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_157").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_158").Cell(1, 1).Button(0)
+Row 63 Time : 6/7/2016 9:39:23 PM Event The window was clicked with the left mouse button.
+Row 64 Time : 6/7/2016 9:39:24 PM Message Successfully configured WebEx.
+Row 65 Time : 6/7/2016 9:39:24 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 66 Time : 6/7/2016 9:39:24 PM Message UID: 'SLIS' found in records row ID: 1
+Row 67 Time : 6/7/2016 9:39:24 PM Message Return ServerIP: 10.23.197.204
+Row 68 Time : 6/7/2016 9:39:24 PM Message  User Already logged in...
+Row 69 Time : 6/7/2016 9:39:28 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 70 Time : 6/7/2016 9:39:28 PM Message iexplore process has been terminated successfully!
+Row 71 Time : 6/7/2016 9:39:32 PM Message Microsoft Internet Explorer was launched.
+Row 72 Time : 6/7/2016 9:39:36 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 73 Time : 6/7/2016 9:39:39 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 74 Time : 6/7/2016 9:39:39 PM Message .ext-el-mask-msg exists: false
+Row 75 Time : 6/7/2016 9:39:39 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 76 Time : 6/7/2016 9:39:41 PM Message Now come to the Login page ...
+Row 77 Time : 6/7/2016 9:39:41 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 78 Time : 6/7/2016 9:39:43 PM Event The window was clicked with the left mouse button.
+Row 79 Time : 6/7/2016 9:39:49 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 80 Time : 6/7/2016 9:39:49 PM Message .ext-el-mask-msg exists: false
+Row 81 Time : 6/7/2016 9:39:50 PM Message No Alert window in login page.
+Row 82 Time : 6/7/2016 9:39:50 PM Message Login Virtuoso/SLIS home page
+Row 83 Time : 6/7/2016 9:39:51 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1)
+Row 84 Time : 6/7/2016 9:39:51 PM Message Element: *Logout* Found.
+Row 85 Time : 6/7/2016 9:39:51 PM Event The mouse pointer hovered over the window.
+Row 86 Time : 6/7/2016 9:39:52 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2042_Collaboration_Invalid_Third_Party_Credentials\UID2042_Step1.jpeg has been saved
+Row 87 Time : 6/7/2016 9:40:07 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_15").Panel("x_auto_16").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_21")
+Row 88 Time : 6/7/2016 9:40:08 PM Event The window was clicked with the left mouse button.
+Row 89 Time : 6/7/2016 9:40:25 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(0).Panel(0).Panel(0).Panel("x_auto_381").TextNode("x_auto_381_label")
+Row 90 Time : 6/7/2016 9:40:25 PM Message Element: User Preferences Found.
+Row 91 Time : 6/7/2016 9:40:26 PM Event The mouse pointer hovered over the window.
+Row 92 Time : 6/7/2016 9:40:27 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2042_Collaboration_Invalid_Third_Party_Credentials\UID2042_Step2.jpeg has been saved
+Row 93 Time : 6/7/2016 9:40:42 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_389").Panel(0).Panel(0).Form(0).Panel("x_auto_390").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 94 Time : 6/7/2016 9:40:42 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 95 Time : 6/7/2016 9:40:42 PM Event The mouse pointer hovered over the window.
+Row 96 Time : 6/7/2016 9:40:44 PM Message Textbox found,id:2136
+Row 97 Time : 6/7/2016 9:40:44 PM Event Keyboard input.
+Row 98 Time : 6/7/2016 9:40:45 PM Event Keyboard input.
+Row 99 Time : 6/7/2016 9:41:00 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_386").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_382").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_383").Cell(1, 1).Button(0)
+Row 100 Time : 6/7/2016 9:41:00 PM Event The window was clicked with the left mouse button.
+Row 101 Time : 6/7/2016 9:41:19 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel(1).Panel(1).Panel("x_auto_453").Panel("x_auto_454").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_459")
+Row 102 Time : 6/7/2016 9:41:20 PM Event The window was clicked with the left mouse button.
+Row 103 Time : 6/7/2016 9:41:36 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_823").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_826").Panel(0).Panel(0).Form(0).Panel("x_auto_827").Table(0).Cell(8, 0).Panel("x_auto_447").TextNode(0)
+Row 104 Time : 6/7/2016 9:41:36 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 105 Time : 6/7/2016 9:41:36 PM Event The mouse pointer hovered over the window.
+Row 106 Time : 6/7/2016 9:41:38 PM Message Textbox found,id:2137
+Row 107 Time : 6/7/2016 9:41:40 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2042_Collaboration_Invalid_Third_Party_Credentials\UID2042_Step3.jpeg has been saved
+Row 108 Time : 6/7/2016 9:41:56 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_823").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_819").Table(0).Cell(0, 0).Table(0).Cell(0, 2).Table("x_auto_822").Cell(1, 1).Button(0)
+Row 109 Time : 6/7/2016 9:41:57 PM Event The window was clicked with the left mouse button.
+Row 110 Time : 6/7/2016 9:42:11 PM Event The mouse pointer hovered over the window.
+Row 111 Time : 6/7/2016 9:42:12 PM Event The window was clicked with the left mouse button.
+Row 112 Time : 6/7/2016 9:42:23 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_874").Panel(0).Panel("x_menu_el_x_auto_875").Link("x_auto_875")
+Row 113 Time : 6/7/2016 9:42:23 PM Message Link Start Meeting Found.
+Row 114 Time : 6/7/2016 9:42:23 PM Event The mouse pointer hovered over the window.
+Row 115 Time : 6/7/2016 9:42:32 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_874").Panel(0).Panel("x_menu_el_x_auto_876").Link("x_auto_876")
+Row 116 Time : 6/7/2016 9:42:32 PM Message Link Join Meeting Found.
+Row 117 Time : 6/7/2016 9:42:32 PM Event The mouse pointer hovered over the window.
+Row 118 Time : 6/7/2016 9:42:33 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2042_Collaboration_Invalid_Third_Party_Credentials\UID2042_Step4.jpeg has been saved
+Row 119 Time : 6/7/2016 9:42:47 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_874").Panel(0).Panel("x_menu_el_x_auto_875").Link("x_auto_875")
+Row 120 Time : 6/7/2016 9:42:47 PM Message Link Start Meeting Found.
+Row 121 Time : 6/7/2016 9:42:47 PM Event The mouse pointer hovered over the window.
+Row 122 Time : 6/7/2016 9:42:47 PM Event The window was clicked with the left mouse button.
+Row 123 Time : 6/7/2016 9:42:58 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_885").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_888").Panel(0).Panel(0).Form(0).Panel("x_auto_889").Table(0).Cell(0, 0).Panel("x_auto_898").TextNode(0)
+Row 124 Time : 6/7/2016 9:42:58 PM Message TextNode element: 'Meeting Name*:' Found.
+Row 125 Time : 6/7/2016 9:42:58 PM Event The mouse pointer hovered over the window.
+Row 126 Time : 6/7/2016 9:42:59 PM Message Textbox found,id:2017
+Row 127 Time : 6/7/2016 9:43:00 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2042_Collaboration_Invalid_Third_Party_Credentials\UID2042_Step5.jpeg has been saved
+Row 128 Time : 6/7/2016 9:43:00 PM Event Keyboard input.
+Row 129 Time : 6/7/2016 9:43:01 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2042_Collaboration_Invalid_Third_Party_Credentials\UID2042_Step6.jpeg has been saved
+Row 130 Time : 6/7/2016 9:43:02 PM Event Keyboard input.
+Row 131 Time : 6/7/2016 9:43:03 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2042_Collaboration_Invalid_Third_Party_Credentials\UID2042_Step7.jpeg has been saved
+Row 132 Time : 6/7/2016 9:43:03 PM Message Clicking button *Launch Meeting ...
+Row 133 Time : 6/7/2016 9:43:05 PM Message found 1 elements.
+Row 134 Time : 6/7/2016 9:43:05 PM Event The mouse pointer hovered over the window.
+Row 135 Time : 6/7/2016 9:43:08 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 136 Time : 6/7/2016 9:43:08 PM Message .ext-el-mask-msg exists: false
+Row 137 Time : 6/7/2016 9:43:09 PM Image ScreenShot for click button:*Launch Meeting
+Row 138 Time : 6/7/2016 9:43:09 PM Event The window was clicked with the left mouse button.
+Row 139 Time : 6/7/2016 9:43:09 PM Message Meeting is starting...
+Row 140 Time : 6/7/2016 9:43:12 PM Message Clicking button No ...
+Row 141 Time : 6/7/2016 9:43:15 PM Message found 1 elements.
+Row 142 Time : 6/7/2016 9:43:15 PM Event The mouse pointer hovered over the window.
+Row 143 Time : 6/7/2016 9:43:18 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 144 Time : 6/7/2016 9:43:18 PM Message .ext-el-mask-msg exists: false
+Row 145 Time : 6/7/2016 9:43:19 PM Image ScreenShot for click button:No
+Row 146 Time : 6/7/2016 9:43:19 PM Event The window was clicked with the left mouse button.
+Row 147 Time : 6/7/2016 9:43:50 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToPathView?goToPathView").Panel("x_auto_912").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(1).TextNode("x_auto_912_content")
+Row 148 Time : 6/7/2016 9:43:50 PM Message TextNode element: 'Unable to login to Webex. Your Webex user ID, password or system-level settings may not be valid. Please check your User Preferences Settings or contact your system administrator.' Found.
+Row 149 Time : 6/7/2016 9:43:50 PM Event The mouse pointer hovered over the window.
+Row 150 Time : 6/7/2016 9:43:50 PM Message Error message is found.
+Row 151 Time : 6/7/2016 9:43:51 PM Image Correct error message
+Row 152 Time : 6/7/2016 9:43:51 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2042_Collaboration_Invalid_Third_Party_Credentials\UID2042_Step8.jpeg has been saved
+Row 153 Time : 6/7/2016 9:43:52 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:06:02
+Row 154 Time : 6/7/2016 9:43:53 PM Message 2042:PASS
+Row 155 Time : 6/7/2016 9:43:53 PM Message ---------------- Automation TC# : UID2042_Collaboration_Invalid_Third_Party_Credentials PASS! ---------------- 
+Row 156 Time : 6/7/2016 9:43:53 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID2043_Collaboration_Mandatory_Meeting_NameUID2043 : Tue Jun 7 22:11:53 PDT 2016------------------
+Row 1 Time : 6/7/2016 9:43:53 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 9:43:54 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 9:43:54 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 9:43:54 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 9:43:54 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 9:43:54 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 9:43:54 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 9:43:54 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 9:43:54 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 9:43:54 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 9:43:55 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 9:43:55 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 9:43:55 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 9:43:55 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 9:43:55 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 9:43:55 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 9:43:55 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 9:43:55 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 9:43:56 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 9:43:56 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2043_Collaboration_Mandatory_Meeting_Name
+Row 21 Time : 6/7/2016 9:43:56 PM Message WebEx is alreay configured.
+Row 22 Time : 6/7/2016 9:43:56 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 23 Time : 6/7/2016 9:43:56 PM Message UID: 'SLIS' found in records row ID: 1
+Row 24 Time : 6/7/2016 9:43:56 PM Message Return ServerIP: 10.23.197.204
+Row 25 Time : 6/7/2016 9:43:56 PM Message  User Already logged in...
+Row 26 Time : 6/7/2016 9:44:01 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 27 Time : 6/7/2016 9:44:02 PM Message iexplore process has been terminated successfully!
+Row 28 Time : 6/7/2016 9:44:04 PM Message Microsoft Internet Explorer was launched.
+Row 29 Time : 6/7/2016 9:44:10 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 30 Time : 6/7/2016 9:44:13 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 31 Time : 6/7/2016 9:44:13 PM Message .ext-el-mask-msg exists: false
+Row 32 Time : 6/7/2016 9:44:13 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 33 Time : 6/7/2016 9:44:15 PM Message Now come to the Login page ...
+Row 34 Time : 6/7/2016 9:44:16 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 35 Time : 6/7/2016 9:44:17 PM Event The window was clicked with the left mouse button.
+Row 36 Time : 6/7/2016 9:44:24 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 37 Time : 6/7/2016 9:44:24 PM Message .ext-el-mask-msg exists: false
+Row 38 Time : 6/7/2016 9:44:25 PM Message No Alert window in login page.
+Row 39 Time : 6/7/2016 9:44:25 PM Message Login Virtuoso adminstrator's home page
+Row 40 Time : 6/7/2016 9:44:27 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_52").Panel(0).Panel(0).Panel("x_auto_58").Panel(0).Panel(1).Panel("x_auto_68").Panel(0).Panel(0).Panel("x_auto_77").Panel(1).Panel("x_auto_78").Panel("x_auto_87").Panel(0).Panel(0).Panel("x_auto_82").Table(0).Cell(0, 0).Table(0).Cell(0, 3).Panel("x_auto_86")
+Row 41 Time : 6/7/2016 9:44:27 PM Message Element: Permission Found.
+Row 42 Time : 6/7/2016 9:44:27 PM Event The mouse pointer hovered over the window.
+Row 43 Time : 6/7/2016 9:44:28 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2043_Collaboration_Mandatory_Meeting_Name\UID2043_Step1.jpeg has been saved
+Row 44 Time : 6/7/2016 9:44:36 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_25").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_30")
+Row 45 Time : 6/7/2016 9:44:36 PM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/7/2016 9:44:46 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_133").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_136").Panel(0).Panel(0).Form(0).Panel("x_auto_137").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 47 Time : 6/7/2016 9:44:46 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 48 Time : 6/7/2016 9:44:46 PM Event The mouse pointer hovered over the window.
+Row 49 Time : 6/7/2016 9:44:48 PM Message Textbox found,id:1290
+Row 50 Time : 6/7/2016 9:44:49 PM Event Keyboard input.
+Row 51 Time : 6/7/2016 9:44:50 PM Event Keyboard input.
+Row 52 Time : 6/7/2016 9:45:00 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_133").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_129").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_130").Cell(1, 1).Button(0)
+Row 53 Time : 6/7/2016 9:45:00 PM Event The window was clicked with the left mouse button.
+Row 54 Time : 6/7/2016 9:45:10 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 9:45:10 PM Event The window was clicked with the left mouse button.
+Row 56 Time : 6/7/2016 9:45:18 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_186").Link("x_auto_186")
+Row 57 Time : 6/7/2016 9:45:18 PM Message Link Start Meeting Found.
+Row 58 Time : 6/7/2016 9:45:18 PM Event The mouse pointer hovered over the window.
+Row 59 Time : 6/7/2016 9:45:23 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_187").Link("x_auto_187")
+Row 60 Time : 6/7/2016 9:45:23 PM Message Link Join Meeting Found.
+Row 61 Time : 6/7/2016 9:45:23 PM Event The mouse pointer hovered over the window.
+Row 62 Time : 6/7/2016 9:45:24 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2043_Collaboration_Mandatory_Meeting_Name\UID2043_Step2.jpeg has been saved
+Row 63 Time : 6/7/2016 9:45:29 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_186").Link("x_auto_186")
+Row 64 Time : 6/7/2016 9:45:29 PM Message Link Start Meeting Found.
+Row 65 Time : 6/7/2016 9:45:29 PM Event The mouse pointer hovered over the window.
+Row 66 Time : 6/7/2016 9:45:29 PM Event The window was clicked with the left mouse button.
+Row 67 Time : 6/7/2016 9:45:35 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_196").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_199").Panel(0).Panel(0).Form(0).Panel("x_auto_200").Table(0).Cell(0, 0).Panel("x_auto_209").TextNode(0)
+Row 68 Time : 6/7/2016 9:45:35 PM Message TextNode element: 'Meeting Name*:' Found.
+Row 69 Time : 6/7/2016 9:45:35 PM Event The mouse pointer hovered over the window.
+Row 70 Time : 6/7/2016 9:45:37 PM Message Textbox found,id:1170
+Row 71 Time : 6/7/2016 9:45:38 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2043_Collaboration_Mandatory_Meeting_Name\UID2043_Step3.jpeg has been saved
+Row 72 Time : 6/7/2016 9:45:38 PM Event Keyboard input.
+Row 73 Time : 6/7/2016 9:45:38 PM Message Verify that meeting name is set by user | PASS
+Row 74 Time : 6/7/2016 9:45:39 PM Event Keyboard input.
+Row 75 Time : 6/7/2016 9:45:39 PM Message Verify that meeting password is set by user | PASS
+Row 76 Time : 6/7/2016 9:45:39 PM Message Clicking button *Launch Meeting ...
+Row 77 Time : 6/7/2016 9:45:41 PM Message found 1 elements.
+Row 78 Time : 6/7/2016 9:45:41 PM Event The mouse pointer hovered over the window.
+Row 79 Time : 6/7/2016 9:45:44 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 80 Time : 6/7/2016 9:45:44 PM Message .ext-el-mask-msg exists: false
+Row 81 Time : 6/7/2016 9:45:45 PM Image ScreenShot for click button:*Launch Meeting
+Row 82 Time : 6/7/2016 9:45:45 PM Event The window was clicked with the left mouse button.
+Row 83 Time : 6/7/2016 9:45:45 PM Message Meeting is starting...
+Row 84 Time : 6/7/2016 9:45:48 PM Message Clicking button No ...
+Row 85 Time : 6/7/2016 9:45:50 PM Message found 1 elements.
+Row 86 Time : 6/7/2016 9:45:50 PM Event The mouse pointer hovered over the window.
+Row 87 Time : 6/7/2016 9:45:53 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 88 Time : 6/7/2016 9:45:53 PM Message .ext-el-mask-msg exists: false
+Row 89 Time : 6/7/2016 9:45:54 PM Image ScreenShot for click button:No
+Row 90 Time : 6/7/2016 9:45:54 PM Event The window was clicked with the left mouse button.
+Row 91 Time : 6/7/2016 9:46:21 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_225").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel(1).TextNode("x_auto_225_content")
+Row 92 Time : 6/7/2016 9:46:21 PM Message TextNode element: 'The highlighted fields are invalid, please make sure you enter in a value that is valid.' Found.
+Row 93 Time : 6/7/2016 9:46:21 PM Event The mouse pointer hovered over the window.
+Row 94 Time : 6/7/2016 9:46:21 PM Message Error message is found.
+Row 95 Time : 6/7/2016 9:46:21 PM Image Correct error message
+Row 96 Time : 6/7/2016 9:46:22 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2043_Collaboration_Mandatory_Meeting_Name\UID2043_Step4.jpeg has been saved
+Row 97 Time : 6/7/2016 9:46:22 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:02:29
+Row 98 Time : 6/7/2016 9:46:23 PM Message 2043:PASS
+Row 99 Time : 6/7/2016 9:46:24 PM Message ---------------- Automation TC# : UID2043_Collaboration_Mandatory_Meeting_Name PASS! ---------------- 
+Row 100 Time : 6/7/2016 9:46:24 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID2044_Collaboration_Set_Password_New_SessionUID2044 : Tue Jun 7 22:11:53 PDT 2016------------------
+Row 1 Time : 6/7/2016 9:46:24 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 9:46:24 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 9:46:24 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 9:46:24 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 9:46:24 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 9:46:24 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 9:46:24 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 9:46:25 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 9:46:25 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 9:46:25 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 9:46:25 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 9:46:25 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 9:46:25 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 9:46:25 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 9:46:25 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 9:46:25 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 9:46:26 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 9:46:26 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 9:46:26 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 9:46:26 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2044_Collaboration_Set_Password_New_Session
+Row 21 Time : 6/7/2016 9:46:26 PM Message WebEx is alreay configured.
+Row 22 Time : 6/7/2016 9:46:26 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 23 Time : 6/7/2016 9:46:26 PM Message UID: 'SLIS' found in records row ID: 1
+Row 24 Time : 6/7/2016 9:46:26 PM Message Return ServerIP: 10.23.197.204
+Row 25 Time : 6/7/2016 9:46:26 PM Message  User Already logged in...
+Row 26 Time : 6/7/2016 9:46:31 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 27 Time : 6/7/2016 9:46:31 PM Message iexplore process has been terminated successfully!
+Row 28 Time : 6/7/2016 9:46:33 PM Message Microsoft Internet Explorer was launched.
+Row 29 Time : 6/7/2016 9:46:37 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 30 Time : 6/7/2016 9:46:41 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 31 Time : 6/7/2016 9:46:41 PM Message .ext-el-mask-msg exists: false
+Row 32 Time : 6/7/2016 9:46:41 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 33 Time : 6/7/2016 9:46:42 PM Message Now come to the Login page ...
+Row 34 Time : 6/7/2016 9:46:43 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 35 Time : 6/7/2016 9:46:45 PM Event The window was clicked with the left mouse button.
+Row 36 Time : 6/7/2016 9:46:51 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 37 Time : 6/7/2016 9:46:51 PM Message .ext-el-mask-msg exists: false
+Row 38 Time : 6/7/2016 9:46:52 PM Message No Alert window in login page.
+Row 39 Time : 6/7/2016 9:46:52 PM Message Login Virtuoso adminstrator's home page
+Row 40 Time : 6/7/2016 9:46:54 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_52").Panel(0).Panel(0).Panel("x_auto_58").Panel(0).Panel(1).Panel("x_auto_68").Panel(0).Panel(0).Panel("x_auto_77").Panel(1).Panel("x_auto_78").Panel("x_auto_87").Panel(0).Panel(0).Panel("x_auto_82").Table(0).Cell(0, 0).Table(0).Cell(0, 3).Panel("x_auto_86")
+Row 41 Time : 6/7/2016 9:46:54 PM Message Element: Permission Found.
+Row 42 Time : 6/7/2016 9:46:54 PM Event The mouse pointer hovered over the window.
+Row 43 Time : 6/7/2016 9:46:56 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2044_Collaboration_Set_Password_New_Session\UID2044_Step1.jpeg has been saved
+Row 44 Time : 6/7/2016 9:47:02 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_25").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_30")
+Row 45 Time : 6/7/2016 9:47:03 PM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/7/2016 9:47:12 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_133").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_136").Panel(0).Panel(0).Form(0).Panel("x_auto_137").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 47 Time : 6/7/2016 9:47:12 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 48 Time : 6/7/2016 9:47:12 PM Event The mouse pointer hovered over the window.
+Row 49 Time : 6/7/2016 9:47:14 PM Message Textbox found,id:1290
+Row 50 Time : 6/7/2016 9:47:15 PM Event Keyboard input.
+Row 51 Time : 6/7/2016 9:47:16 PM Event Keyboard input.
+Row 52 Time : 6/7/2016 9:47:26 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_133").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_129").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_130").Cell(1, 1).Button(0)
+Row 53 Time : 6/7/2016 9:47:26 PM Event The window was clicked with the left mouse button.
+Row 54 Time : 6/7/2016 9:47:37 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 9:47:37 PM Event The window was clicked with the left mouse button.
+Row 56 Time : 6/7/2016 9:47:44 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_186").Link("x_auto_186")
+Row 57 Time : 6/7/2016 9:47:44 PM Message Link Start Meeting Found.
+Row 58 Time : 6/7/2016 9:47:44 PM Event The mouse pointer hovered over the window.
+Row 59 Time : 6/7/2016 9:47:49 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_187").Link("x_auto_187")
+Row 60 Time : 6/7/2016 9:47:49 PM Message Link Join Meeting Found.
+Row 61 Time : 6/7/2016 9:47:49 PM Event The mouse pointer hovered over the window.
+Row 62 Time : 6/7/2016 9:47:51 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2044_Collaboration_Set_Password_New_Session\UID2044_Step2.jpeg has been saved
+Row 63 Time : 6/7/2016 9:47:55 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_186").Link("x_auto_186")
+Row 64 Time : 6/7/2016 9:47:55 PM Message Link Start Meeting Found.
+Row 65 Time : 6/7/2016 9:47:55 PM Event The mouse pointer hovered over the window.
+Row 66 Time : 6/7/2016 9:47:55 PM Event The window was clicked with the left mouse button.
+Row 67 Time : 6/7/2016 9:48:04 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_196").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_199").Panel(0).Panel(0).Form(0).Panel("x_auto_200").Table(0).Cell(0, 0).Panel("x_auto_209").TextNode(0)
+Row 68 Time : 6/7/2016 9:48:04 PM Message TextNode element: 'Meeting Name*:' Found.
+Row 69 Time : 6/7/2016 9:48:04 PM Event The mouse pointer hovered over the window.
+Row 70 Time : 6/7/2016 9:48:06 PM Message Textbox found,id:1170
+Row 71 Time : 6/7/2016 9:48:07 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2044_Collaboration_Set_Password_New_Session\UID2044_Step3.jpeg has been saved
+Row 72 Time : 6/7/2016 9:48:13 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_196").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_199").Panel(0).Panel(0).Form(0).Panel("x_auto_200").Table(0).Cell(0, 0).Panel("x_auto_209").TextNode(0)
+Row 73 Time : 6/7/2016 9:48:13 PM Message TextNode element: 'Meeting Name*:' Found.
+Row 74 Time : 6/7/2016 9:48:13 PM Event The mouse pointer hovered over the window.
+Row 75 Time : 6/7/2016 9:48:15 PM Message Textbox found,id:1170
+Row 76 Time : 6/7/2016 9:48:16 PM Event Keyboard input.
+Row 77 Time : 6/7/2016 9:48:17 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2044_Collaboration_Set_Password_New_Session\UID2044_Step4.jpeg has been saved
+Row 78 Time : 6/7/2016 9:48:17 PM Event Keyboard input.
+Row 79 Time : 6/7/2016 9:48:18 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2044_Collaboration_Set_Password_New_Session\UID2044_Step5.jpeg has been saved
+Row 80 Time : 6/7/2016 9:48:18 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:01:54
+Row 81 Time : 6/7/2016 9:48:19 PM Message 2044:PASS
+Row 82 Time : 6/7/2016 9:48:20 PM Message ---------------- Automation TC# : UID2044_Collaboration_Set_Password_New_Session PASS! ---------------- 
+Row 83 Time : 6/7/2016 9:48:20 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID2045_Collaboration_Third_Party_WindowUID2045 : Tue Jun 7 22:11:54 PDT 2016------------------
+Row 1 Time : 6/7/2016 9:48:20 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 9:48:20 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 9:48:20 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 9:48:20 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 9:48:20 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 9:48:20 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 9:48:20 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 9:48:21 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 9:48:21 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 9:48:21 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 9:48:21 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 9:48:21 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 9:48:21 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 9:48:21 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 9:48:21 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 9:48:21 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 9:48:21 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 9:48:21 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 9:48:22 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 9:48:22 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2045_Collaboration_Third_Party_Window
+Row 21 Time : 6/7/2016 9:48:22 PM Message WebEx is alreay configured.
+Row 22 Time : 6/7/2016 9:48:22 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 23 Time : 6/7/2016 9:48:22 PM Message UID: 'SLIS' found in records row ID: 1
+Row 24 Time : 6/7/2016 9:48:22 PM Message Return ServerIP: 10.23.197.204
+Row 25 Time : 6/7/2016 9:48:22 PM Message  User Already logged in...
+Row 26 Time : 6/7/2016 9:48:27 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 27 Time : 6/7/2016 9:48:27 PM Message iexplore process has been terminated successfully!
+Row 28 Time : 6/7/2016 9:48:31 PM Message Microsoft Internet Explorer was launched.
+Row 29 Time : 6/7/2016 9:48:35 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 30 Time : 6/7/2016 9:48:39 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 31 Time : 6/7/2016 9:48:39 PM Message .ext-el-mask-msg exists: false
+Row 32 Time : 6/7/2016 9:48:39 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 33 Time : 6/7/2016 9:48:40 PM Message Now come to the Login page ...
+Row 34 Time : 6/7/2016 9:48:41 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 35 Time : 6/7/2016 9:48:43 PM Event The window was clicked with the left mouse button.
+Row 36 Time : 6/7/2016 9:48:49 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 37 Time : 6/7/2016 9:48:49 PM Message .ext-el-mask-msg exists: false
+Row 38 Time : 6/7/2016 9:48:50 PM Message No Alert window in login page.
+Row 39 Time : 6/7/2016 9:48:50 PM Message Login Virtuoso adminstrator's home page
+Row 40 Time : 6/7/2016 9:48:52 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_52").Panel(0).Panel(0).Panel("x_auto_58").Panel(0).Panel(1).Panel("x_auto_68").Panel(0).Panel(0).Panel("x_auto_77").Panel(1).Panel("x_auto_78").Panel("x_auto_87").Panel(0).Panel(0).Panel("x_auto_82").Table(0).Cell(0, 0).Table(0).Cell(0, 3).Panel("x_auto_86")
+Row 41 Time : 6/7/2016 9:48:52 PM Message Element: Permission Found.
+Row 42 Time : 6/7/2016 9:48:52 PM Event The mouse pointer hovered over the window.
+Row 43 Time : 6/7/2016 9:48:54 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2045_Collaboration_Third_Party_Window\UID2045_Step1.jpeg has been saved
+Row 44 Time : 6/7/2016 9:49:02 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_25").Table(0).Cell(0, 1).Table(0).Cell(0, 0).Table(0).Cell(0, 0).Panel("x_auto_30")
+Row 45 Time : 6/7/2016 9:49:02 PM Event The window was clicked with the left mouse button.
+Row 46 Time : 6/7/2016 9:49:11 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_133").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_136").Panel(0).Panel(0).Form(0).Panel("x_auto_137").Table(0).Cell(8, 0).Panel("x_auto_9").TextNode(0)
+Row 47 Time : 6/7/2016 9:49:11 PM Message TextNode element: 'WebEx User ID:' Found.
+Row 48 Time : 6/7/2016 9:49:11 PM Event The mouse pointer hovered over the window.
+Row 49 Time : 6/7/2016 9:49:13 PM Message Textbox found,id:1290
+Row 50 Time : 6/7/2016 9:49:15 PM Event Keyboard input.
+Row 51 Time : 6/7/2016 9:49:15 PM Event Keyboard input.
+Row 52 Time : 6/7/2016 9:49:26 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_133").Panel(1).Panel(0).Panel(0).Panel(0).Panel(0).Panel("x_auto_129").Table(0).Cell(0, 0).Table(0).Cell(0, 0).Table("x_auto_130").Cell(1, 1).Button(0)
+Row 53 Time : 6/7/2016 9:49:26 PM Event The window was clicked with the left mouse button.
+Row 54 Time : 6/7/2016 9:49:36 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 9:49:36 PM Event The window was clicked with the left mouse button.
+Row 56 Time : 6/7/2016 9:49:44 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_186").Link("x_auto_186")
+Row 57 Time : 6/7/2016 9:49:44 PM Message Link Start Meeting Found.
+Row 58 Time : 6/7/2016 9:49:44 PM Event The mouse pointer hovered over the window.
+Row 59 Time : 6/7/2016 9:49:49 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_187").Link("x_auto_187")
+Row 60 Time : 6/7/2016 9:49:49 PM Message Link Join Meeting Found.
+Row 61 Time : 6/7/2016 9:49:49 PM Event The mouse pointer hovered over the window.
+Row 62 Time : 6/7/2016 9:49:50 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2045_Collaboration_Third_Party_Window\UID2045_Step2.jpeg has been saved
+Row 63 Time : 6/7/2016 9:49:55 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_185").Panel(0).Panel("x_menu_el_x_auto_186").Link("x_auto_186")
+Row 64 Time : 6/7/2016 9:49:55 PM Message Link Start Meeting Found.
+Row 65 Time : 6/7/2016 9:49:55 PM Event The mouse pointer hovered over the window.
+Row 66 Time : 6/7/2016 9:49:55 PM Event The window was clicked with the left mouse button.
+Row 67 Time : 6/7/2016 9:50:01 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel("x_auto_196").Panel(1).Panel(0).Panel(0).Panel(0).Panel(1).Panel("x_auto_199").Panel(0).Panel(0).Form(0).Panel("x_auto_200").Table(0).Cell(0, 0).Panel("x_auto_209").TextNode(0)
+Row 68 Time : 6/7/2016 9:50:01 PM Message TextNode element: 'Meeting Name*:' Found.
+Row 69 Time : 6/7/2016 9:50:02 PM Event The mouse pointer hovered over the window.
+Row 70 Time : 6/7/2016 9:50:03 PM Message Textbox found,id:1170
+Row 71 Time : 6/7/2016 9:50:04 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2045_Collaboration_Third_Party_Window\UID2045_Step3.jpeg has been saved
+Row 72 Time : 6/7/2016 9:50:05 PM Event Keyboard input.
+Row 73 Time : 6/7/2016 9:50:06 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2045_Collaboration_Third_Party_Window\UID2045_Step4.jpeg has been saved
+Row 74 Time : 6/7/2016 9:50:06 PM Event Keyboard input.
+Row 75 Time : 6/7/2016 9:50:07 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2045_Collaboration_Third_Party_Window\UID2045_Step5.jpeg has been saved
+Row 76 Time : 6/7/2016 9:50:07 PM Message Clicking button *Launch Meeting ...
+Row 77 Time : 6/7/2016 9:50:09 PM Message found 1 elements.
+Row 78 Time : 6/7/2016 9:50:09 PM Event The mouse pointer hovered over the window.
+Row 79 Time : 6/7/2016 9:50:12 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 80 Time : 6/7/2016 9:50:12 PM Message .ext-el-mask-msg exists: false
+Row 81 Time : 6/7/2016 9:50:13 PM Image ScreenShot for click button:*Launch Meeting
+Row 82 Time : 6/7/2016 9:50:13 PM Event The window was clicked with the left mouse button.
+Row 83 Time : 6/7/2016 9:50:13 PM Message Meeting is starting...
+Row 84 Time : 6/7/2016 9:50:16 PM Message Clicking button No ...
+Row 85 Time : 6/7/2016 9:50:18 PM Message found 1 elements.
+Row 86 Time : 6/7/2016 9:50:18 PM Event The mouse pointer hovered over the window.
+Row 87 Time : 6/7/2016 9:50:21 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 88 Time : 6/7/2016 9:50:21 PM Message .ext-el-mask-msg exists: false
+Row 89 Time : 6/7/2016 9:50:22 PM Image ScreenShot for click button:No
+Row 90 Time : 6/7/2016 9:50:22 PM Event The window was clicked with the left mouse button.
+Row 91 Time : 6/7/2016 9:50:43 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Collaboration\Screenshots\UID2045_Collaboration_Third_Party_Window\UID2045_Step6.jpeg has been saved
+Row 92 Time : 6/7/2016 9:50:44 PM Message 'Screen1.jpeg' has been saved
+Row 93 Time : 6/7/2016 9:50:54 PM Error The process "atmgr" was not found.
+Row 94 Time : 6/7/2016 9:50:54 PM Error The object does not exist. See Additional Information for details.
+Row 95 Time : 6/7/2016 9:50:54 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:02:34
+Row 96 Time : 6/7/2016 9:50:55 PM Message 2045:FAIL
+Row 97 Time : 6/7/2016 9:50:56 PM Error ---------------- Automation TC# : UID2045_Collaboration_Third_Party_Window FAIL! ---------------- 
+Row 98 Time : 6/7/2016 9:50:56 PM Message Test Step Result posted in to HTML Report!

@@ -1,0 +1,197 @@
+------------------TempExprtFoldr : ScriptTestLog_begin_begin : Tue Jun 7 22:22:06 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:14:41 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 10:14:41 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 10:14:41 PM Message Return TestReporting: HTML
+Row 4 Time : 6/7/2016 10:14:41 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 10:14:42 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 10:14:42 PM Message Return Browser: iexplore
+Row 7 Time : 6/7/2016 10:14:42 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 10:14:42 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 10:14:42 PM Message Return LanVersion: EN
+Row 10 Time : 6/7/2016 10:14:42 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 10:14:42 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 10:14:42 PM Message Return ServerIP: 10.23.197.204
+Row 13 Time : 6/7/2016 10:14:42 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 10:14:43 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 15 Time : 6/7/2016 10:14:43 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 16 Time : 6/7/2016 10:14:43 PM Message Microsoft Internet Explorer was launched.
+Row 17 Time : 6/7/2016 10:14:44 PM Event The 'Blank Page - Windows Internet Explorer' window was minimized.
+Row 18 Time : 6/7/2016 10:14:44 PM Message report file message
+------------------TempExprtFoldr : ScriptTestLog_end_end : Tue Jun 7 22:22:07 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:22:06 PM Message Project End time updated in XML Test Suite Summary Tue Jun 7 22:22:06 PDT 2016
+------------------TempExprtFoldr : ScriptTestLogUID3064_VersionCopyrightinfo_Virtuoso_SmokeUID3064_VersionCopyrightinfo_Virtuoso_Smoke : Tue Jun 7 22:22:06 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:14:44 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 10:14:44 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 10:14:44 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 10:14:44 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 10:14:45 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 10:14:45 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 10:14:45 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 10:14:45 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 10:14:45 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 10:14:45 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 10:14:45 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 10:14:45 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 10:14:45 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 10:14:45 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 10:14:45 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 10:14:46 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 10:14:46 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 10:14:46 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 10:14:47 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 10:14:47 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Miscellaneous\Screenshots\UID3064_VersionCopyrightinfo_Virtuoso_Smoke
+Row 21 Time : 6/7/2016 10:14:47 PM Event The 'Blank Page - Windows Internet Explorer' window was maximized.
+Row 22 Time : 6/7/2016 10:14:47 PM Message Reading data from driver excel file..
+Row 23 Time : 6/7/2016 10:14:48 PM Message Server IP:10.20.85.65
+Row 24 Time : 6/7/2016 10:14:51 PM Event Navigating to the http://10.20.85.65/virtuoso/ page.
+Row 25 Time : 6/7/2016 10:14:52 PM Message Login Page found...
+Row 26 Time : 6/7/2016 10:14:52 PM Checkpoint The property checkpoint passed (the innerText contains the substring "Virtuoso v. 5.7 Software").
+Row 27 Time : 6/7/2016 10:14:52 PM Checkpoint The property checkpoint passed (the innerText contains the substring "Copyright © 2012-2015. Ventana Medical Systems, Inc. All rights reserved.").
+Row 28 Time : 6/7/2016 10:14:52 PM Checkpoint The property checkpoint passed (the innerText contains the substring "VENTANA, the VENTANA logo, Virtuoso, and VANTAGE are trademarks of Roche. All other trademarks are the property of their respective owners.").
+Row 29 Time : 6/7/2016 10:14:52 PM Message Found Virtuoso version number and copyright information found on Splash screen
+Row 30 Time : 6/7/2016 10:14:52 PM Message True
+Row 31 Time : 6/7/2016 10:14:57 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 32 Time : 6/7/2016 10:14:57 PM Message iexplore process has been terminated successfully!
+Row 33 Time : 6/7/2016 10:14:58 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:00:14
+Row 34 Time : 6/7/2016 10:15:00 PM Message 3064:PASS
+Row 35 Time : 6/7/2016 10:15:01 PM Message ---------------- Automation TC# : UID3064_VersionCopyrightinfo_Virtuoso_Smoke PASS! ---------------- 
+Row 36 Time : 6/7/2016 10:15:01 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID3065_VersionCopyrightinfo_SLIS_SmokeUID3065_VersionCopyrightinfo_SLIS_Smoke : Tue Jun 7 22:22:06 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:15:01 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 10:15:02 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 10:15:02 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 10:15:02 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 10:15:02 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 10:15:02 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 10:15:02 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 10:15:02 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 10:15:02 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 10:15:02 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 10:15:03 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 10:15:03 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 10:15:03 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 10:15:03 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 10:15:03 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 10:15:03 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 10:15:03 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 10:15:03 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 10:15:03 PM Message Microsoft Internet Explorer was launched.
+Row 20 Time : 6/7/2016 10:15:05 PM Event The 'Blank Page - Windows Internet Explorer' window was minimized.
+Row 21 Time : 6/7/2016 10:15:05 PM Message Test Result posting in to HTML Report!
+Row 22 Time : 6/7/2016 10:15:06 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Miscellaneous\Screenshots\UID3065_VersionCopyrightinfo_SLIS
+Row 23 Time : 6/7/2016 10:15:06 PM Event The 'Blank Page - Windows Internet Explorer' window was maximized.
+Row 24 Time : 6/7/2016 10:15:06 PM Message Reading data from driver excel file..
+Row 25 Time : 6/7/2016 10:15:06 PM Message Server IP:10.20.85.65
+Row 26 Time : 6/7/2016 10:15:09 PM Event Navigating to the http://10.20.85.65/slis/ page.
+Row 27 Time : 6/7/2016 10:15:11 PM Message Login Page found...
+Row 28 Time : 6/7/2016 10:15:11 PM Checkpoint The property checkpoint passed (the innerText contains the substring "SLIS v. 5.7 Software").
+Row 29 Time : 6/7/2016 10:15:11 PM Checkpoint The property checkpoint passed (the innerText contains the substring "Copyright © 2012-2015. Ventana Medical Systems, Inc. All rights reserved.").
+Row 30 Time : 6/7/2016 10:15:11 PM Checkpoint The property checkpoint passed (the innerText contains the substring "VENTANA, the VENTANA logo, Virtuoso, and VANTAGE are trademarks of Roche. All other trademarks are the property of their respective owners.").
+Row 31 Time : 6/7/2016 10:15:11 PM Message Found Virtuoso version number and copyright information found on Splash screen
+Row 32 Time : 6/7/2016 10:15:16 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 33 Time : 6/7/2016 10:15:16 PM Message iexplore process has been terminated successfully!
+Row 34 Time : 6/7/2016 10:15:18 PM Message The interval in Days:Hours:Minutes:Seconds format: 0:00:00:17
+Row 35 Time : 6/7/2016 10:15:20 PM Message 3065:PASS
+Row 36 Time : 6/7/2016 10:15:21 PM Message ---------------- Automation TC# : UID3065_VersionCopyrightinfo_SLIS PASS! ---------------- 
+Row 37 Time : 6/7/2016 10:15:21 PM Message Test Step Result posted in to HTML Report!
+------------------TempExprtFoldr : ScriptTestLogUID3066_Internationalization_helplink_VirtuosoUID3066_Internationalization_helplink_Virtuoso : Tue Jun 7 22:22:07 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:22:03 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 10:22:03 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 10:22:03 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 10:22:03 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 10:22:03 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 10:22:03 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 10:22:03 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 10:22:04 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 10:22:04 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 10:22:04 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 10:22:04 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 10:22:04 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 10:22:04 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 10:22:04 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 10:22:04 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 10:22:04 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 10:22:05 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 10:22:05 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 10:22:05 PM Message Test Result posting in to HTML Report!
+Row 20 Time : 6/7/2016 10:22:05 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Miscellaneous\Screenshots\UID3066_international.logo
+Row 21 Time : 6/7/2016 10:22:06 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 22 Time : 6/7/2016 10:22:06 PM Error Microsoft JScript runtime error.
+Row 23 Time : 6/7/2016 10:22:06 PM Error Script execution was interrupted.
+------------------TempExprtFoldr : ScriptTestLogUID3065_VersionCopyrightinfo_Virtuoso_SmokeUID3065_VersionCopyrightinfo_Virtuoso_Smoke : Tue Jun 7 22:22:07 PDT 2016------------------
+Row 1 Time : 6/7/2016 10:15:21 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 2 Time : 6/7/2016 10:15:21 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 3 Time : 6/7/2016 10:15:21 PM Message Return Description: Virtuoso
+Row 4 Time : 6/7/2016 10:15:21 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 5 Time : 6/7/2016 10:15:22 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 6 Time : 6/7/2016 10:15:22 PM Message Return TestReporting: HTML
+Row 7 Time : 6/7/2016 10:15:22 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 8 Time : 6/7/2016 10:15:22 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 9 Time : 6/7/2016 10:15:22 PM Message Return Browser: iexplore
+Row 10 Time : 6/7/2016 10:15:22 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 11 Time : 6/7/2016 10:15:22 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 12 Time : 6/7/2016 10:15:22 PM Message Return LanVersion: EN
+Row 13 Time : 6/7/2016 10:15:22 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 14 Time : 6/7/2016 10:15:23 PM Message UID: 'VIRTUOSO' found in records row ID: 2
+Row 15 Time : 6/7/2016 10:15:23 PM Message Return ServerIP: 10.23.197.204
+Row 16 Time : 6/7/2016 10:15:23 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 17 Time : 6/7/2016 10:15:23 PM Message UID: 'VirtInstalledDirectory' found in records row ID: 3
+Row 18 Time : 6/7/2016 10:15:23 PM Message Return WorkstationURL: \\10.23.197.204\VirtuosoV57SP5F\
+Row 19 Time : 6/7/2016 10:15:23 PM Message Microsoft Internet Explorer was launched.
+Row 20 Time : 6/7/2016 10:15:24 PM Event The 'Blank Page - Windows Internet Explorer' window was minimized.
+Row 21 Time : 6/7/2016 10:15:25 PM Message Test Result posting in to HTML Report!
+Row 22 Time : 6/7/2016 10:15:25 PM Message Folder Created: C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Miscellaneous\Screenshots\UID3065_VersionCopyrightinfo_Virtuoso_Smoke
+Row 23 Time : 6/7/2016 10:15:25 PM Event The 'Blank Page - Windows Internet Explorer' window was maximized.
+Row 24 Time : 6/7/2016 10:15:28 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 25 Time : 6/7/2016 10:15:29 PM Message Login Page found...
+Row 26 Time : 6/7/2016 10:15:34 PM Checkpoint The property checkpoint passed (the innerText contains the substring "Virtuoso v. 5.7 Software").
+Row 27 Time : 6/7/2016 10:15:34 PM Checkpoint The property checkpoint passed (the innerText contains the substring "Copyright © 2012-2015. Ventana Medical Systems, Inc. All rights reserved.").
+Row 28 Time : 6/7/2016 10:15:34 PM Checkpoint The property checkpoint passed (the innerText contains the substring "VENTANA, the VENTANA logo, Virtuoso, and VANTAGE are trademarks of Roche. All other trademarks are the property of their respective owners.").
+Row 29 Time : 6/7/2016 10:15:34 PM Message Found Virtuoso version number and copyright information found on Splash screen
+Row 30 Time : 6/7/2016 10:15:35 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Miscellaneous\Screenshots\UID3065_VersionCopyrightinfo_Virtuoso_Smoke\UID3065_Step1.jpeg has been saved
+Row 31 Time : 6/7/2016 10:15:35 PM Message C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\WorkstationData\DDT\Config\AppConfig.csv
+Row 32 Time : 6/7/2016 10:15:36 PM Message UID: 'SLIS' found in records row ID: 1
+Row 33 Time : 6/7/2016 10:15:36 PM Message Return ServerIP: 10.23.197.204
+Row 34 Time : 6/7/2016 10:15:36 PM Message  User Already logged in...
+Row 35 Time : 6/7/2016 10:15:40 PM Message Process "iexplore" stayed in the system after the close command was used.
+Row 36 Time : 6/7/2016 10:15:40 PM Message iexplore process has been terminated successfully!
+Row 37 Time : 6/7/2016 10:15:42 PM Message Microsoft Internet Explorer was launched.
+Row 38 Time : 6/7/2016 10:15:45 PM Event Navigating to the http://10.23.197.204/virtuoso/ page.
+Row 39 Time : 6/7/2016 10:15:48 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 40 Time : 6/7/2016 10:15:48 PM Message .ext-el-mask-msg exists: false
+Row 41 Time : 6/7/2016 10:15:48 PM Event The 'http://10.23.197.204/virtuoso/ - Windows Internet Explorer' window was maximized.
+Row 42 Time : 6/7/2016 10:15:49 PM Message Now come to the Login page ...
+Row 43 Time : 6/7/2016 10:15:49 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToLoginView?goToLoginView").Panel(1).Panel(1).Panel(0).Panel(2).Panel(0).Panel(0).Textbox("gwt_debug_loginField")
+Row 44 Time : 6/7/2016 10:15:51 PM Event The window was clicked with the left mouse button.
+Row 45 Time : 6/7/2016 10:15:57 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 46 Time : 6/7/2016 10:15:57 PM Message .ext-el-mask-msg exists: false
+Row 47 Time : 6/7/2016 10:15:57 PM Message No Alert window in login page.
+Row 48 Time : 6/7/2016 10:15:57 PM Message Login Virtuoso adminstrator's home page
+Row 49 Time : 6/7/2016 10:15:59 PM Message obj:Sys.Browser("iexplore").Page("http://10.23.197.204/virtuoso/#goToRoleView?goToRoleView").Panel(1).Panel(1).Panel("x_auto_24").Panel("x_auto_46").Panel(0).Panel(0).Panel("x_auto_52").Panel(0).Panel(0).Panel("x_auto_58").Panel(0).Panel(1).Panel("x_auto_68").Panel(0).Panel(0).Panel("x_auto_77").Panel(1).Panel("x_auto_78").Panel("x_auto_87").Panel(0).Panel(0).Panel("x_auto_82").Table(0).Cell(0, 0).Table(0).Cell(0, 3).Panel("x_auto_86")
+Row 50 Time : 6/7/2016 10:15:59 PM Message Element: Permission Found.
+Row 51 Time : 6/7/2016 10:15:59 PM Event The mouse pointer hovered over the window.
+Row 52 Time : 6/7/2016 10:16:05 PM Message Clicking button *About Virtuoso* ...
+Row 53 Time : 6/7/2016 10:16:11 PM Message found 1 elements.
+Row 54 Time : 6/7/2016 10:16:11 PM Event The mouse pointer hovered over the window.
+Row 55 Time : 6/7/2016 10:16:13 PM Message Did not find any elements matching the CSS selector: .ext-el-mask-msg
+Row 56 Time : 6/7/2016 10:16:13 PM Message .ext-el-mask-msg exists: false
+Row 57 Time : 6/7/2016 10:16:14 PM Image ScreenShot for click button:*About Virtuoso*
+Row 58 Time : 6/7/2016 10:16:14 PM Event The window was clicked with the left mouse button.
+Row 59 Time : 6/7/2016 10:16:23 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Miscellaneous\Screenshots\UID3065_VersionCopyrightinfo_Virtuoso_Smoke\UID3065_Step2.jpeg has been saved
+Row 60 Time : 6/7/2016 10:16:32 PM Message Element: *x-nodrag x-tool-close x-tool x-component*,Panel,True Found.
+Row 61 Time : 6/7/2016 10:16:33 PM Event The mouse pointer hovered over the window.
+Row 62 Time : 6/7/2016 10:16:33 PM Event The window was clicked with the left mouse button.
+Row 63 Time : 6/7/2016 10:16:43 PM Message Element: Help,Panel,True Found.
+Row 64 Time : 6/7/2016 10:16:44 PM Event The mouse pointer hovered over the window.
+Row 65 Time : 6/7/2016 10:16:44 PM Event The window was clicked with the left mouse button.
+Row 66 Time : 6/7/2016 10:16:50 PM Event The mouse pointer hovered over the window.
+Row 67 Time : 6/7/2016 10:16:51 PM Message 'Screen1.jpeg' has been saved
+Row 68 Time : 6/7/2016 10:16:51 PM Event The window was clicked with the left mouse button.
+Row 69 Time : 6/7/2016 10:20:55 PM Event The mouse pointer hovered over the window.
+Row 70 Time : 6/7/2016 10:21:07 PM Error There was an attempt to perform an action at a point, which is beyond the screen.
+Row 71 Time : 6/7/2016 10:21:09 PM Message 'Screen2.jpeg' has been saved
+Row 72 Time : 6/7/2016 10:21:11 PM Event Keyboard input.
+Row 73 Time : 6/7/2016 10:22:01 PM Error String Not found -'Copyright © 2012-2015. Ventana Medical Systems, Inc. All rights reserved.' in PDF report
+Row 74 Time : 6/7/2016 10:22:03 PM Message Screen C:\Work\Automation\Dev\Virtuoso\v57\Smoke\Build\Miscellaneous\Screenshots\UID3065_VersionCopyrightinfo_Virtuoso_Smoke\UID3065_Step3.jpeg has been saved
+Row 75 Time : 6/7/2016 10:22:03 PM Error Microsoft JScript runtime error.
+Row 76 Time : 6/7/2016 10:22:03 PM Error Script execution was interrupted.

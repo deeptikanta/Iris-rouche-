@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <script src="http://ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js"></script>
+  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
+  <!--<script src="//code.jquery.com/jquery-1.12.4.js"></script>-->
+  <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+  <!-- Ignite UI Required Combined JavaScript Files -->
+  <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/infragistics.core.js"></script>
+  <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/infragistics.lob.js"></script>
+  <!-- Javascript Excel Library -->
+  <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/modules/infragistics.documents.core.js"></script>
+  <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/modules/infragistics.excel.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.3/require.min.js"></script>
+  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
+  <title>Selenium Tool</title>
+  <link rel="stylesheet" type="text/css" href="css/SeleniumToolstyle.css">
+  <!--<link rel="stylesheet" type="text/css" href="css/styleold.css">-->
+  <script type="text/javascript" src="js/canvasjs.min.js"></script>
+  <script src='js/style.js'></script>
+  <script src='js/functions.js'></script>
+
+  <script src='js/style1.js'></script>
+
+
+
+</head>
+
+<body>
+
+  <div class="header">
+    <img src="images/roche.png" alt="roche" />
+    <h1>TestComplete Automation Tool For IRIS </h1>
+    <div class="divider"></div>
+  </div>
+
+  <div class="tab">
+     <form class='uploader' action='/echo/json/'>
+  <fieldset>
+    <input type='file' multiple='multiple' style="display: none;" />
+  </fieldset>
+</form>
+    <!-- <button class="tablinks" onclick="openCity(event, 'Masterplan')">Master Plan</button> -->
+    <button class="tablinks" class="btn btn-info"><a href="result.html">Environment setup</a></button>
+    <!--<input id="file-input" type="file" name="name" style="display: none;" />-->
+   
+    <button class="tablinks" class="btn btn-info" id="id">Execute</button>   
+
+    <!-- onclick="openCity()"-->
+    <button class="tablinks" class="btn btn-info" onclick="getProfileItem()">Results</button>
+    <button class="tablinks" class="btn btn-info" id="html">html</html>
+  
+
+</button>
+    <!-- onclick="openCity(event, 'Results')" --------------------------------------->
+    <!-- <button class="tablinks" onclick="openCity(event, 'Defects')">Defects</button> -->
+  </div>
+  <div id="testData"></div>
+  <ol>
+    <li>Download this <a href="https://www.igniteui.com/HtmlSamples/javascript-excel-library/report.xlsx" download>sample  Excel file</a></li>
+    <li>Click Choose File/Browse button below and pick the sample Excel file or another excel file.</li>
+  </ol>
+  <table id="grid1" ></table>
+  <p id="datahtml"></p><br>
+  <input type="file" id="input" accept="application/vnd.ms-excel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  />
+
+  <div id="result"></div>
+ 
+
+  <div id="Masterplan" class="tabcontent">
+    <p>Open and update Masterplan</p>
+    <a href='E:/testfiles/Testcase.xlsx' target="_blank">Master Plan</a>
+  </div>
+
+  <div id="Runplan" class="tabcontent">
+    <p>Create Runplan</p>
+    <input type="button" id="saveresult" name="cr" value="Create" onclick="createRunPlan();" &nbps;>
+    <a href='' id="openfile" target="_blank" disabled>Open last Created Runplan</a>
+
+
+    <p>Modify/Update Runplan</p>
+    <input type="file" id="file1" style="display:none">
+    <div id='link'><a href='' target="_blank" id="filelink" onclick="openFileOption();return;">Select and Open Runplan</a></div>
+
+  </div>
+
+
+
+  <div id="Execute" class="tabcontent">
+    <input type="file" id="file2" style="display:none">
+    <div id='link'><a href="#" id="filelink2" onclick="openFileOption2();return;">Select and Open Runplan</a></div>
+    <p> </p>
+    <input type="button" id="file2" value="Start Execution" onclick="deleteandexeute();">
+
+  </div>
+
+  <!-----<div id="Results" class="tabcontent" ">
+	 <p>Open Latest Result file</p> 
+   <a href='E:/testfiles/CurrentRun/Results.xlsx' target="_blank">Open Results of latest run</a>
+   <div id='link'><a href="#" id="filelink3" onclick ="ReadData1();">Select and Open Runplan</a></div>  -->
+  <div id="chartContainer" style="height: 800px; width: 100%;">
+  </div>
+
+  <div id="Defects" class="tabcontent">
+    <h3> </h3>
+    <p> </p>
+  </div>
+<div id="check"></div>
+<div id="fileData"></div>
+  <script>
+    var path;
+
+    // $("#id").click(function () {
+    //   // $('#file-input').trigger('click');
+    //   // $("#file-input").on("change", function (e) {
+
+
+    //   //   path = $(this).val();
+    //   //   console.log(path);
+    //   // });
+
+
+
+    //   // $.get("/app/test12", function (data, status) {
+    //   //   // alert("Data: " + data + "\nStatus: " + status);
+    //   //   $('#check').html(data);
+    //   // });
+    //   //  $.ajax({
+    //   //     type: 'POST',
+    //   //     url: 'http://localhost:8007/app'
+    //   // });
+
+    // });
+
+
+
+$('#id').on('click', function() {
+    $('.uploader input:file').click();
+});
+
+$('.uploader input:file').on('change', function() {
+    $this = $(this);
+
+    $('.alert').remove();
+
+    $.each($this[0].files, function(key, file) {
+        $('.files').append('<li>' + file.name + '</li>');
+
+        var data = new FormData();
+        data.append(file.name, file);
+        console.log(file)
+        
+        $.ajax({
+            url: "/app/test12",
+            type: "POST",
+            processData: false,
+            data: data
+        });
+    });
+});
+
+
+
+
+  </script>
+
+ 
+</body>
+
+</html>
