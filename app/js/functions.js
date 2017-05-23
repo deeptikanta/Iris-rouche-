@@ -6,6 +6,7 @@ var data = [];
 $(document).ready(function () {
 
     $("#thead").hide();
+     $('#test').hide();
 
 });
 // var noofAdmin = [];
@@ -250,7 +251,7 @@ function ReadData1() {
     var n = 0;
     var p = 0
     var data = [];
-    //var excel_file = excel.Workbooks.Open("C:\Users\Dpanda\Desktop\MainSuit\TestSuite-Summary.xml");
+
     var excel_file = excel.Workbooks.Open("C:\Users\Dpanda\Desktop\MainSuit\TestSuite-Summary.xlsm");
     console.log(excel_file);
     var excel_sheet = excel.Worksheets("Main");
@@ -273,13 +274,7 @@ function ReadData1() {
 
         }
     }
-    // var data = excel_sheet.Cells(row,cell).Value;
 
-    //	    excel_sheet2.Cells(2,2).Value = arr;
-    //	    excel_file.SaveAs("E:\\Website.xlsx");
-    //	    alert(data);
-    //            var WshShell = new ActiveXObject("WScript.Shell");
-    //			var oExec = WshShell.Exec("taskkill /f /im excel.exe");
     passNumber = m;
     failNumber = n;
     noRunNumber = p
@@ -390,7 +385,7 @@ $(function () {
                     passNumber = noofcountforpass;
                     failNumber = noofcountforfail;
                     noRunNumber = noofNo;
-                    // getProfileItem();
+
                     // console.log("Pass" + "-----------------" + noofcountforpass);
                     // console.log("fail" + "-----------------" + noofcountforfail);
                     //  console.log("NO" + "-----------------" + noofNo);
@@ -425,6 +420,7 @@ $(function () {
 
 });
 var varName;
+var dataname;
 
 function createGrid(data, gridColumns) {
     if ($("#grid1").data("igGrid") !== undefined) {
@@ -439,87 +435,123 @@ function createGrid(data, gridColumns) {
     });
     piechart();
 }
+var htmldata1 = [];
+var pathfile;
+
 function getProfileItem() {
+    pathfile = undefined;
     console.log(profile);
-    $(document).ready(function () {
-        $('#grid1').DataTable({
-            initComplete: function () {
-                this.api().columns().every(function () {
-                    var column = this;
-                    var select = $('<select><option value=""></option></select>')
+     $('#test').hide();
+     //  $('#datahtml').hide();
+    if (profile.length > 1) {
+
+        $(document).ready(function () {
+            $('#grid1').DataTable({
+                initComplete: function () {
+                    this.api().columns().every(function () {
+                        var column = this;
+                        var select = $('<select><option value=""></option></select>')
 
 
-                    column.data().unique().sort().each(function (d, j) {
-                        select.append('<option value="' + d + '">' + d + '</option>')
+                        column.data().unique().sort().each(function (d, j) {
+                            select.append('<option value="' + d + '">' + d + '</option>')
+                        });
                     });
-                });
-            }
+                }
+            });
         });
-    });
+    }
+    else {
 
 
 
-    // for (x in profile) {
-    //     for (var j = 0; j < data.length; j++) {
-    //         if (data[j].Module == profile[x]) {
-    //             varName = profile[x];
-    //             console.log(varName);
-    //         }
-    //     }
+        $.get("Automation_Log/", function (data, status) {
 
-    // if (newRow.Module == x) {
+            htmldata1 = data;
+            console.log(htmldata1);
+            $("#resultsfolder").empty();
+            for (var i = 0; i < htmldata1.length; i++) {
+                $("#resultsfolder").append('<li><a onclick="getFileDetails1(' + "'" + htmldata1[i] + "'" + ')" href="javascript:void(0)">' + htmldata1[i] + '</a></li>');
+            }
 
-    //     var varName = profile[x];
-    //     console.log("var " + varName);
 
-    //     // profile[x].push(newRow);
-    //     console.log(profile[x]);
+        });
 
-    // }
+
+
+
+    }
 }
+
+
+
+
+var getFileDetails1 = function (data) {
+
+    if (pathfile == undefined) {
+        pathfile = data;
+    }
+    else {
+        pathfile = pathfile + "/" + data;
+        // console.log(pathfile);
+    }
+    $("#resultsfolder").empty();
+    console.log(data)
+    if (data.search(".JPG") == -1) {
+        $.post("/app/folder", { pathfile }, function (data, status) {
+            // alert("Data: " + data + "\nStatus: " + status);
+
+            htmldata1 = data;
+
+
+            if (htmldata1) {
+                console.log(htmldata1);
+                for (var i = 0; i < htmldata1.length; i++) {
+
+                    $("#resultsfolder").append('<li><a onclick="getFileDetails1(' + "'" + htmldata1[i] + "'" + ')" href="javascript:void(0)">' + htmldata1[i] + '</a></li>');
+                }
+            }
+            else {
+                pathfile = undefined;
+
+                $("#resultsfolder").append('<p>no files in that directory</p>');
+            }
+            // $('#resultsfolder').html(data);
+        });
+    }
+    else{
+        $.post("/app/folderimage", { pathfile }, function (data, status) {
+            $('#test').show();
+            $('#test').attr('src', 'data:png/jpg;base64,' + data);
+        });
+    }
+}
+
+
 var htmldata;
 
-$(document).ready(function(){
-    $("#html").click(function(){
-        $.get("MainSuit/", function(data, status){
-        
-           
-            htmldata=data;
-for(var i=0;i<htmldata.length;i++){
-$("#datahtml").append('<li><a onclick="getFileDetails('+"'"+htmldata[i]+"'"+')" href="javascript:void(0)">'+htmldata[i]+'</a></li>');
-}
+$(document).ready(function () {
+    $("#html").click(function () {
+     
+        $.get("MainSuit/", function (data, status) {
 
-			
+
+            htmldata = data;
+            for (var i = 0; i < htmldata.length; i++) {
+                  
+                $("#datahtml").append('<li><a onclick="getFileDetails(' + "'" + htmldata[i] + "'" + ')" href="javascript:void(0)">' + htmldata[i] + '</a></li>');
+            }
+
+
         });
     });
 });
 
-var getFileDetails = function(data){
+var getFileDetails = function (data) {
     alert(data);
- $.post("/app/test123",{data}, function (data, status) {
+    $.post("/app/test123", { data }, function (data, status) {
         // alert("Data: " + data + "\nStatus: " + status);
-        console.log(data);
+        //console.log(data);
         $('#fileData').html(data);
-      });
+    });
 }
-// function gethtmlfile() {
-//     console.log("hiii");
-//     var dir = "./MainSuit";
-//     var fileextension = ".html";
-
-//     // $.ajax({
-//     //     //This will retrieve the contents of the folder if the folder is configured as 'browsable'
-//     //     url: dir,
-//     //     success: function (data) {
-//     //         //List all .png file names in the page
-//     //         // $(data).find("a:contains(" + fileextension + ")").each(function () {
-//     //         //     var filename = this.href.replace(window.location.host, "").replace("http://", "");
-//     //         //     $('#testData').append(data);
-//     //         //    // $("body").append("<p'" + dir + filename + "'>");
-//     //         //     console.log(data)
-//     //         // });
-
-//     //         $('#testData').append(data);
-//     //     }
-//     // });
-// }
