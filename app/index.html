@@ -52,10 +52,7 @@
 
     <!-- onclick="openCity()"-->
     <button class="tablinks" class="btn btn-info" onclick="getProfileItem()">Results</button>
-    <button class="tablinks" class="btn btn-info" id="html">html</html>
-  
-
-</button>
+    <button class="tablinks" class="btn btn-info" id="html">html</button>
     <!-- onclick="openCity(event, 'Results')" --------------------------------------->
     <!-- <button class="tablinks" onclick="openCity(event, 'Defects')">Defects</button> -->
   </div>
@@ -66,9 +63,10 @@
   </ol>
   <table id="grid1" ></table>
   <p id="datahtml"></p><br>
+   <p id="resultsfolder"></p><br>
   <input type="file" id="input" accept="application/vnd.ms-excel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
   />
-
+<img id="test" alt="test" src=""></img>
   <div id="result"></div>
  
 
@@ -114,31 +112,6 @@
 <div id="fileData"></div>
   <script>
     var path;
-
-    // $("#id").click(function () {
-    //   // $('#file-input').trigger('click');
-    //   // $("#file-input").on("change", function (e) {
-
-
-    //   //   path = $(this).val();
-    //   //   console.log(path);
-    //   // });
-
-
-
-    //   // $.get("/app/test12", function (data, status) {
-    //   //   // alert("Data: " + data + "\nStatus: " + status);
-    //   //   $('#check').html(data);
-    //   // });
-    //   //  $.ajax({
-    //   //     type: 'POST',
-    //   //     url: 'http://localhost:8007/app'
-    //   // });
-
-    // });
-
-
-
 $('#id').on('click', function() {
     $('.uploader input:file').click();
 });
