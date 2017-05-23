@@ -1,13 +1,16 @@
 {
-"devDependencies": {
-"http-server": "^0.6.1",
- "express": "^4.13.3"
-},
-"dependencies": {
-   "child_process": "^1.0.2"
-   },
-"scripts": {
-"prestart": "npm install",
-"start": "http-server -a 127.0.0.1 -p 8007 -c-1"
-}
+  "devDependencies": {
+    "http-server": "^0.6.1",
+    "express": "^4.13.3"
+  },
+  "dependencies": {
+    "base64-img": "^1.0.3",
+    "body-parser": "^1.17.2",
+    "child_process": "^1.0.2",
+    "express": "^4.15.3"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": "http-server -a 127.0.0.1 -p 8007 -c-1"
+  }
 }
