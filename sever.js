@@ -69,45 +69,45 @@ app.post('/app/folder', function (req, res) {
     var fs = require('fs');
     //console.log(req.body.data)
     console.log(req.body.pathfile);
-        fs.readdir(__dirname + '/Automation_Log/' + req.body.pathfile, function (err, files) {
-            console.log(files);
-            if (files.length == 0) {
-                var t = undefined;
+    fs.readdir(__dirname + '/Automation_Log/' + req.body.pathfile, function (err, files) {
+        console.log(files);
+        if (files.length == 0) {
+            var t = undefined;
 
-                res.send(t);
-            }
-            else {
-                files.forEach(function (f) {
+            res.send(t);
+        }
+        else {
+            files.forEach(function (f) {
 
 
-                });
-                res.send(files);
-            }
+            });
+            res.send(files);
+        }
 
-        });
-    
-  
+    });
+
+
 
 
 });
 app.post('/app/folderimage', function (req, res) {
     var fs = require('fs');
-     console.log(req.body.pathfile);
-     fs.readFile(__dirname + '/Automation_Log/' + req.body.pathfile, function (err, content) {
-            console.log("inside image directory");
-            if (err) {
-                res.send(400, { 'Content-type': 'text/html' })
-                console.log(err);
-                res.end("No such image");
-            } else {
-                var base64Image = content.toString('base64');
-                res.send(base64Image);
-                // res.writeHead(200,{ "Content-type": "application/pdf" });
-                // res.write(content, "binary");
-                // res.end();
-              
-            }
-        });
+    console.log(req.body.pathfile);
+    fs.readFile(__dirname + '/Automation_Log/' + req.body.pathfile, function (err, content) {
+        console.log("inside image directory");
+        if (err) {
+            res.status(400, { 'Content-type': 'text/html' })
+            console.log(err);
+            res.end("No such image");
+        } else {
+            var base64Image = content.toString('base64');
+            res.send(base64Image);
+            // res.writeHead(200,{ "Content-type": "application/pdf" });
+            // res.write(content, "binary");
+            // res.end();
+
+        }
+    });
 
 });
 app.listen(3000, function () {
@@ -126,6 +126,7 @@ function test() {
 
 
     // Handle normal output
+
     bat.stdout.on('data', (data) => {
         // As said before, convert the Uint8Array to a readable string.
         var str = String.fromCharCode.apply(null, data);
@@ -133,6 +134,7 @@ function test() {
     });
 
     // Handle error output
+
     bat.stderr.on('data', (data) => {
         // As said before, convert the Uint8Array to a readable string.
         var str = String.fromCharCode.apply(null, data);
@@ -140,6 +142,7 @@ function test() {
     });
 
     // Handle on exit event
+
     bat.on('exit', (code) => {
         var preText = `Child exited with code ${code} : `;
 
@@ -163,3 +166,26 @@ function test() {
         }
     });
 }
+
+
+
+//pdf reader
+
+app.post('/app/folderpdf', function (req, res) {
+    var fs = require('fs');
+    console.log(req.body.pathfile);
+    fs.readFile(__dirname + '/Automation_Log/' + req.body.pathfile, function (err, content) {
+        console.log("inside pdf directory");
+        if (err) {
+            res.send(400, { 'Content-type': 'text/html' })
+            console.log(err);
+            res.end("No such image");
+        } else {
+            var base64Image = content.toString('base64');
+
+            res.setHeader("Content-Disposition", "inline");
+            res.send(base64Image);
+
+        }
+    });
+});

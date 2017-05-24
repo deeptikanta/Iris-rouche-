@@ -7,12 +7,9 @@
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
     <link href="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
-
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
     <script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.10.0.js"></script>
-    <!--<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.min.js"></script>
     <script src="https://cdn.jsdelivr.net/alasql/0.3/alasql.min.js"></script>
 
@@ -25,11 +22,14 @@
             var variables;
             var k;
 
-
+            $scope.path11 = "C://Users//Dpanda//Desktop//New folder//AppConfig.csv";
+            $scope.downloadedpath = "C://Users//Dpanda//Downloads//AppConfig.csv";
+            var path = $scope.path11;
+            var downloadedpath = $scope.downloadedpath;
             $("#idgetdata").click(function () {
                 $('#file-input1').trigger('click');
                 $("#file-input1").on("change", function (e) {
-                    $rootScope.path = $(this).val();
+                    // $rootScope.path = $(this).val();
                     // console.log($rootScope.path);
                     $("input[type=file]").parse({
                         config: {
@@ -44,8 +44,8 @@
                         complete: function () {
                             $scope.heading = variables;
                             $scope.table($scope.heading);
-                            console.log($scope.heading);
-                            console.log("All files done!");
+                            //console.log($scope.heading);
+                            //console.log("All files done!");
                             $scope.$apply();
                         }
 
@@ -58,15 +58,16 @@
                 $rootScope.values = a;
 
                 $scope.t = $scope.values[0][0];
-                console.log($scope.values[0]);
+                //console.log($scope.values[0]);
                 for (var i = 0; i < $scope.values[0].length; i++) {
                     if ($scope.values[0][i] == 0 && $scope.values[0][i + 1] == 1 && $scope.values[0][i + 2] == 2) {
                         $scope.values.splice(0, 1);
                     }
-                    else{
-                        console.log("great");
-                        break;}                
-}
+                    else {
+                        //console.log("great");
+                        break;
+                    }
+                }
 
             }
 
@@ -81,7 +82,7 @@
                         $scope.user = x;
 
                         $scope.submit = function (y, x) {
-                            console.log(y + "----" + x);
+                            //console.log(y + "----" + x);
                             $scope.user[x] = y;
 
 
@@ -89,12 +90,14 @@
 
                         }
                         $scope.close = function () {
-                            var path = $rootScope.path;
+
+                           // console.log(path);
+
                             alasql("SELECT * INTO CSV('AppConfig.csv') FROM ?", [$rootScope.values]);
                             $timeout(function () {
-                                $.post("/app/delete", { path }, function (data, status) {
+                                $.post("/app/delete", { path, downloadedpath }, function (data, status) {
                                     // alert("Data: " + data + "\nStatus: " + status);
-                                    console.log(path);
+                                   // console.log(path);
 
                                 })
                             }, 5000);
@@ -115,9 +118,11 @@
 
 </head>
 
-<body ng-controller="myCtrl">
+<body ng-controller="myCtrl" style="margin:10px ">
     click here to check the data..
     <button id="idgetdata" class="btn btn-info">click</button>
+    <p>path of Your .csv file</p><input type="text" class="form-control" ng-model="path11" style="width: 420px;"><br>
+    <p>path of Your download directory</p><input type="text" class="form-control" ng-model="downloadedpath" style="width: 420px;">
     <input id="file-input1" type="file" name="name" style="display: none;" accept=".csv" /><br>
     <table>
         <tr ng-repeat="x in values track by $index" ng-if='x[0]!=""'>

@@ -6,7 +6,7 @@ var data = [];
 $(document).ready(function () {
 
     $("#thead").hide();
-     $('#test').hide();
+    $('#test').hide();
 
 });
 // var noofAdmin = [];
@@ -20,51 +20,51 @@ $(document).ready(function () {
 // var noofLIS = [];
 // var noofQCModule = [];
 
-function enableedit(editName, buttoname) {
-    if (document.getElementById(buttoname).value == "Edit") {
-        document.getElementById(editName).disabled = false;
-        document.getElementById(buttoname).value = "Save";
-    } else {
-        document.getElementById(buttoname).value = "Edit";
-        document.getElementById(editName).disabled = true;
-    }
+// function enableedit(editName, buttoname) {
+//     if (document.getElementById(buttoname).value == "Edit") {
+//         document.getElementById(editName).disabled = false;
+//         document.getElementById(buttoname).value = "Save";
+//     } else {
+//         document.getElementById(buttoname).value = "Edit";
+//         document.getElementById(editName).disabled = true;
+//     }
 
 
-}
+// }
 
-function createRunPlan() {
+// function createRunPlan() {
 
-    var currentdate = new Date();
-    var datetime = "" + currentdate.getDate() + "-" + (currentdate.getMonth() + 1) + "-" + currentdate.getFullYear() + "-" + currentdate.getHours() + "_" + currentdate.getMinutes() + "_" + currentdate.getSeconds();
-    //alert(datetime);
-    var myObject, newpath;
-    myObject = new ActiveXObject("Scripting.FileSystemObject");
+//     var currentdate = new Date();
+//     var datetime = "" + currentdate.getDate() + "-" + (currentdate.getMonth() + 1) + "-" + currentdate.getFullYear() + "-" + currentdate.getHours() + "_" + currentdate.getMinutes() + "_" + currentdate.getSeconds();
+//     //alert(datetime);
+//     var myObject, newpath;
+//     myObject = new ActiveXObject("Scripting.FileSystemObject");
 
-    myObject.CopyFile("E:\\testfiles\\Testcase.xlsx", "E:\\testfiles\\Runplans\\Testcase.xlsx");
-    f = new ActiveXObject("Scripting.FileSystemObject");
-    f = myObject.GetFile("E:\\testfiles\\Runplans\\Testcase.xlsx");
-    newpath = "Runplan" + datetime + ".xlsx";
-    f.name = newpath;
-    var filepath = "E:\\testfiles\\Runplans\\" + newpath;
-    var res = replaceAll(filepath, "\\", "/");
-    alert(res);
+//     myObject.CopyFile("E:\\testfiles\\Testcase.xlsx", "E:\\testfiles\\Runplans\\Testcase.xlsx");
+//     f = new ActiveXObject("Scripting.FileSystemObject");
+//     f = myObject.GetFile("E:\\testfiles\\Runplans\\Testcase.xlsx");
+//     newpath = "Runplan" + datetime + ".xlsx";
+//     f.name = newpath;
+//     var filepath = "E:\\testfiles\\Runplans\\" + newpath;
+//     var res = replaceAll(filepath, "\\", "/");
+//     alert(res);
 
-    //added for sheet hide
-    var excel = new ActiveXObject("Excel.Application");
-    excel.visible = false;
-    var excel_file = excel.Workbooks.Open(res);
-    excel_sheet = excel.Worksheets("Results").Visible = 0;
-    //excel_sheet.Visible = 0;
-    excel.ActiveWorkbook.Save();
-    //excel_file.save;
-    excel.quit;
+//     //added for sheet hide
+//     var excel = new ActiveXObject("Excel.Application");
+//     excel.visible = false;
+//     var excel_file = excel.Workbooks.Open(res);
+//     excel_sheet = excel.Worksheets("Results").Visible = 0;
+//     //excel_sheet.Visible = 0;
+//     excel.ActiveWorkbook.Save();
+//     //excel_file.save;
+//     excel.quit;
 
 
-    //sheet hide ends
-    document.getElementById("openfile").href = res;
-    document.getElementById("openfile").removeAttribute("disabled");
-    document.getElementById("saveresult").disabled = "disabled";
-}
+//     //sheet hide ends
+//     document.getElementById("openfile").href = res;
+//     document.getElementById("openfile").removeAttribute("disabled");
+//     document.getElementById("saveresult").disabled = "disabled";
+// }
 
 function getdatetime() {
     var currentdate = new Date();
@@ -85,97 +85,97 @@ function replaceAll(str, find, replace) {
     return str.replace(new RegExp(escapeRegExp(find), 'g'), replace);
 }
 
-function escapeRegExp(str) {
-    return str.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
-}
+// function escapeRegExp(str) {
+//     return str.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
+// }
 
 
-function openFileOption() {
-    document.getElementById("file1").click();
-    var fullPath = document.getElementById('file1').value;
-    //alert(fullPath);
-    document.getElementById("filelink").href = fullPath;
+// function openFileOption() {
+//     document.getElementById("file1").click();
+//     var fullPath = document.getElementById('file1').value;
+//     //alert(fullPath);
+//     document.getElementById("filelink").href = fullPath;
 
-}
+// }
 
-function openFileOption2() {
-    document.getElementById("file2").click();
-    var fullPath2 = document.getElementById('file2').value;
-    //alert(fullPath);
-    document.getElementById("filelink2").href = fullPath2;
-    document.getElementById("filelink2").disabled = "disabled";
-}
+// function openFileOption2() {
+//     document.getElementById("file2").click();
+//     var fullPath2 = document.getElementById('file2').value;
+//     //alert(fullPath);
+//     document.getElementById("filelink2").href = fullPath2;
+//     document.getElementById("filelink2").disabled = "disabled";
+// }
 
-function deleteandexeute() {
-    var shell = new ActiveXObject("WScript.Shell");
-    shell.Run("cmd /c e: & cd E:\\testfiles\\CurrentRun & del /q /f *.*");
-    shell = null;
-    var filepathtocopy = document.getElementById("filelink2").href;
-    alert(filepathtocopy);
-    var filepath = filepathtocopy.slice(8, filepathtocopy.length);
-    alert(filepath);
-    var filetocopy = replaceAll(filepath, "/", "\\\\");
-    alert(filetocopy);
+// function deleteandexeute() {
+//     var shell = new ActiveXObject("WScript.Shell");
+//     shell.Run("cmd /c e: & cd E:\\testfiles\\CurrentRun & del /q /f *.*");
+//     shell = null;
+//     var filepathtocopy = document.getElementById("filelink2").href;
+//     alert(filepathtocopy);
+//     var filepath = filepathtocopy.slice(8, filepathtocopy.length);
+//     alert(filepath);
+//     var filetocopy = replaceAll(filepath, "/", "\\\\");
+//     alert(filetocopy);
 
-    copyfile(filetocopy, "E:\\testfiles\\CurrentRun\\Testfile.xlsx");
-    logentry(filetocopy);
-    logentryexcel(filetocopy);
-}
-
-
-function deleteNorows(filetocopy) {
-    var excel2 = new ActiveXObject("Excel.Application");
-    excel2.visible = false;
-    var excel_file = excel.Workbooks.Open(filetocopy);
-    var excel_sheet = excel.Worksheets("Configuration");
-
-}
+//     copyfile(filetocopy, "E:\\testfiles\\CurrentRun\\Testfile.xlsx");
+//     logentry(filetocopy);
+//     logentryexcel(filetocopy);
+// }
 
 
+// function deleteNorows(filetocopy) {
+//     var excel2 = new ActiveXObject("Excel.Application");
+//     excel2.visible = false;
+//     var excel_file = excel.Workbooks.Open(filetocopy);
+//     var excel_sheet = excel.Worksheets("Configuration");
 
-function logentry(filename) {
-    var myObject;
-    myObject = new ActiveXObject("Scripting.FileSystemObject");
-    var f = myObject.OpenTextFile("E:\\testfiles\\Runlog\\AllRuns.txt", 8, true);
-    //f = myObject.GetFile("E:\\testfiles\\Runlog\\AllRuns.txt");
-    var datetime = getdatetime();
-    f.WriteLine(datetime + "	" + filename);
-    //f.WriteLine(filename);
-
-}
-
-function logentryexcel(filename) {
-    myObject = new ActiveXObject("Scripting.FileSystemObject");
-    var val = myObject.FileExists("E:\\testfiles\\Runlog\\AllRuns.xlsx");
-    alert(val);
-    if (val == "true") {
-        var excel = new ActiveXObject("Excel.Application");
-        excel.visible = false;
-        var excel_file = excel.Workbooks.Open("E:\\testfiles\\Runlog\\AllRuns.xlsx");
-        var excel_sheet = excel.Worksheets("Sheet1");
-        var datetime = getdatetime();
-        var row = excel_sheet.UsedRange.Rows.Count;
-        alert(row);
-        excel_sheet.Cells(row + 1, 1).Value = datetime;
-        excel_sheet.Cells(row + 1, 2).Value = filename;
-        excel.ActiveWorkbook.Save();
-        //excel_file.save;
-        excel.quit;
-    } else {
-        var excel = new ActiveXObject("Excel.Application");
-        excel.visible = false;
-        var excel_file = excel.Workbooks.add;
-        var excel_sheet = excel.Worksheets("Sheet1");
-        var datetime = getdatetime();
-        excel_sheet.Cells(1, 1).Value = datetime;
-        excel_sheet.Cells(1, 2).Value = filename;
-        excel.ActiveWorkbook.SaveAs("E:\\testfiles\\Runlog\\AllRuns.xlsx");
-        //excel_file.save;
-        excel.quit;
-    }
+// }
 
 
-}
+
+// function logentry(filename) {
+//     var myObject;
+//     myObject = new ActiveXObject("Scripting.FileSystemObject");
+//     var f = myObject.OpenTextFile("E:\\testfiles\\Runlog\\AllRuns.txt", 8, true);
+//     //f = myObject.GetFile("E:\\testfiles\\Runlog\\AllRuns.txt");
+//     var datetime = getdatetime();
+//     f.WriteLine(datetime + "	" + filename);
+//     //f.WriteLine(filename);
+
+// }
+
+// function logentryexcel(filename) {
+//     myObject = new ActiveXObject("Scripting.FileSystemObject");
+//     var val = myObject.FileExists("E:\\testfiles\\Runlog\\AllRuns.xlsx");
+//     alert(val);
+//     if (val == "true") {
+//         var excel = new ActiveXObject("Excel.Application");
+//         excel.visible = false;
+//         var excel_file = excel.Workbooks.Open("E:\\testfiles\\Runlog\\AllRuns.xlsx");
+//         var excel_sheet = excel.Worksheets("Sheet1");
+//         var datetime = getdatetime();
+//         var row = excel_sheet.UsedRange.Rows.Count;
+//         alert(row);
+//         excel_sheet.Cells(row + 1, 1).Value = datetime;
+//         excel_sheet.Cells(row + 1, 2).Value = filename;
+//         excel.ActiveWorkbook.Save();
+//         //excel_file.save;
+//         excel.quit;
+//     } else {
+//         var excel = new ActiveXObject("Excel.Application");
+//         excel.visible = false;
+//         var excel_file = excel.Workbooks.add;
+//         var excel_sheet = excel.Worksheets("Sheet1");
+//         var datetime = getdatetime();
+//         excel_sheet.Cells(1, 1).Value = datetime;
+//         excel_sheet.Cells(1, 2).Value = filename;
+//         excel.ActiveWorkbook.SaveAs("E:\\testfiles\\Runlog\\AllRuns.xlsx");
+//         //excel_file.save;
+//         excel.quit;
+//     }
+
+
+// }
 
 
 function copyfile(src, dest) {
@@ -184,27 +184,27 @@ function copyfile(src, dest) {
     myObject2.CopyFile(src, dest);
 }
 
-function ReadData() {
-    var excel = new ActiveXObject("Excel.Application");
-    excel.visible = false;
-    excel.DisplayAlerts = false;
-    var data = data[m, n];
-    var excel_file = excel.Workbooks.Open("C:\Users\Dpanda\Desktop\MainSuit\TestSuite-Summary.xml");
-    //var excel_file = excel.Workbooks.Open("C:\\WorkVconnect\\TestSuite-Summary.xlxm");
-    var excel_sheet = excel.Worksheets("Main");
-    for (i = 0; i <= excel_sheet.Rows.Count; i++) {
-        for (j = 0; j <= excel_sheet.Columns.Count; j++) {
-            excel_sheet2.Cells(i, j).Value = data;
-        }
-    }
-    var data = excel_sheet.Cells(row, cell).Value;
+// function ReadData() {
+//     var excel = new ActiveXObject("Excel.Application");
+//     excel.visible = false;
+//     excel.DisplayAlerts = false;
+//     var data = data[m, n];
+//     var excel_file = excel.Workbooks.Open("C:\Users\Dpanda\Desktop\MainSuit\TestSuite-Summary.xml");
+//     //var excel_file = excel.Workbooks.Open("C:\\WorkVconnect\\TestSuite-Summary.xlxm");
+//     var excel_sheet = excel.Worksheets("Main");
+//     for (i = 0; i <= excel_sheet.Rows.Count; i++) {
+//         for (j = 0; j <= excel_sheet.Columns.Count; j++) {
+//             excel_sheet2.Cells(i, j).Value = data;
+//         }
+//     }
+//     var data = excel_sheet.Cells(row, cell).Value;
 
-    excel_sheet2.Cells(2, 2).Value = arr;
-    excel_file.SaveAs("E:\\Website.xlsx");
-    alert(data);
-    var WshShell = new ActiveXObject("WScript.Shell");
-    var oExec = WshShell.Exec("taskkill /f /im excel.exe");
-}
+//     excel_sheet2.Cells(2, 2).Value = arr;
+//     excel_file.SaveAs("E:\\Website.xlsx");
+//     alert(data);
+//     var WshShell = new ActiveXObject("WScript.Shell");
+//     var oExec = WshShell.Exec("taskkill /f /im excel.exe");
+// }
 
 function piechart() {
 
@@ -441,8 +441,8 @@ var pathfile;
 function getProfileItem() {
     pathfile = undefined;
     console.log(profile);
-     $('#test').hide();
-     //  $('#datahtml').hide();
+    $('#test').hide();
+    //  $('#datahtml').hide();
     if (profile.length > 1) {
 
         $(document).ready(function () {
@@ -496,8 +496,8 @@ var getFileDetails1 = function (data) {
         // console.log(pathfile);
     }
     $("#resultsfolder").empty();
-    console.log(data)
-    if (data.search(".JPG") == -1) {
+    console.log(data);
+    if (data.search(".JPG") == -1 && data.search(".pdf") == -1 && data.search(".png") == -1) {
         $.post("/app/folder", { pathfile }, function (data, status) {
             // alert("Data: " + data + "\nStatus: " + status);
 
@@ -519,7 +519,21 @@ var getFileDetails1 = function (data) {
             // $('#resultsfolder').html(data);
         });
     }
-    else{
+    else if (data.search(".pdf") > -1) {
+
+        $.post("/app/folderpdf", { pathfile }, function (data, status) {
+            // var file= new Blob([data],{type:'application/pdf'});
+            //var fileurl=URL.createObjectURL(file);
+            // alert("hiiii")
+            //  console.log(fileurl);
+             window.open("data:application/pdf;base64, "+data);
+
+            // $('#test').show();
+            //$('#test').attr('src', 'data:png/jpg;base64,' + data);
+            $('#pdfdata').attr('src', 'data:application/pdf;base64,' + data);
+        });
+    }
+    else {
         $.post("/app/folderimage", { pathfile }, function (data, status) {
             $('#test').show();
             $('#test').attr('src', 'data:png/jpg;base64,' + data);
@@ -532,13 +546,13 @@ var htmldata;
 
 $(document).ready(function () {
     $("#html").click(function () {
-     
+
         $.get("MainSuit/", function (data, status) {
 
 
             htmldata = data;
             for (var i = 0; i < htmldata.length; i++) {
-                  
+
                 $("#datahtml").append('<li><a onclick="getFileDetails(' + "'" + htmldata[i] + "'" + ')" href="javascript:void(0)">' + htmldata[i] + '</a></li>');
             }
 
@@ -555,3 +569,12 @@ var getFileDetails = function (data) {
         $('#fileData').html(data);
     });
 }
+
+
+
+
+//file read for pdf
+// $.post('/app/folderimage', { pathfile })
+//     .success(function (data) {
+//         $('#pdfdata').attr('src', 'data:application/pdf;base64,' + data);
+//     });
