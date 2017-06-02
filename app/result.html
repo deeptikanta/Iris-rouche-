@@ -25,50 +25,47 @@
             $scope.path11 = "C://Users//Dpanda//Desktop//New folder//AppConfig.csv";
             $scope.downloadedpath = "C://Users//Dpanda//Downloads//AppConfig.csv";
             var path = $scope.path11;
+
             var downloadedpath = $scope.downloadedpath;
-            $("#idgetdata").click(function () {
-                $('#file-input1').trigger('click');
-                $("#file-input1").on("change", function (e) {
-                    // $rootScope.path = $(this).val();
-                    // console.log($rootScope.path);
-                    $("input[type=file]").parse({
-                        config: {
-                            complete: function (results, file) {
+            $scope.callcsv = function () {
 
-                                k = results.data;
-                                variables = k;
+                $.post("/app/csvcovert", { path }, function (data, status) {
+                    //console.log(data);
+
+                    var data111 = data;
+                    $scope.$apply();
+                    $scope.table(data111);
+
+                })
+            }
 
 
-                            }
-                        },
-                        complete: function () {
-                            $scope.heading = variables;
-                            $scope.table($scope.heading);
-                            //console.log($scope.heading);
-                            //console.log("All files done!");
-                            $scope.$apply();
-                        }
-
-                    });
-                });
-            });
+           
             $scope.table = function (a) {
 
 
                 $rootScope.values = a;
 
-                $scope.t = $scope.values[0][0];
-                //console.log($scope.values[0]);
-                for (var i = 0; i < $scope.values[0].length; i++) {
-                    if ($scope.values[0][i] == 0 && $scope.values[0][i + 1] == 1 && $scope.values[0][i + 2] == 2) {
-                        $scope.values.splice(0, 1);
+                $scope.t = $rootScope.values;
+                $scope.$apply();
+                //console.log($scope.t);
+               
+                    console.log($rootScope.values);
+
+                    for (var i = 0; i <  $scope.t[0].length; i++) {
+                        console.log($scope.t[i]);
+                    if ( $scope.t[0][i] == "0" &&  $scope.t[0][i + 1] == "1" &&  $scope.t[0][i + 2] == "2") {
+                        console.log("hiii");
+                        $scope.t.splice(0, 1);
+                        $scope.$apply();
+                        console.log($scope.t)
                     }
                     else {
                         //console.log("great");
                         break;
                     }
                 }
-
+                
             }
 
             $scope.update = function (x) {
@@ -91,13 +88,13 @@
                         }
                         $scope.close = function () {
 
-                           // console.log(path);
+                            // console.log(path);
 
                             alasql("SELECT * INTO CSV('AppConfig.csv') FROM ?", [$rootScope.values]);
                             $timeout(function () {
                                 $.post("/app/delete", { path, downloadedpath }, function (data, status) {
                                     // alert("Data: " + data + "\nStatus: " + status);
-                                   // console.log(path);
+                                    // console.log(path);
 
                                 })
                             }, 5000);
@@ -120,12 +117,15 @@
 
 <body ng-controller="myCtrl" style="margin:10px ">
     click here to check the data..
-    <button id="idgetdata" class="btn btn-info">click</button>
-    <p>path of Your .csv file</p><input type="text" class="form-control" ng-model="path11" style="width: 420px;"><br>
+
+    <p>path of Your .csv file</p><input type="text" class="form-control" ng-model="path11" style="width: 420px;">
+    <button class="btn btn-info" ng-click="callcsv()">submit</button>
     <p>path of Your download directory</p><input type="text" class="form-control" ng-model="downloadedpath" style="width: 420px;">
-    <input id="file-input1" type="file" name="name" style="display: none;" accept=".csv" /><br>
+
+    
     <table>
-        <tr ng-repeat="x in values track by $index" ng-if='x[0]!=""'>
+        <tr ng-repeat="x in t track by $index">
+            <!--ng-if='x[0]!=""'-->
             <td ng-repeat="y in x track by $index" style="padding:5px">
                 <p><b>{{y}}</b></p>
                 <td>

@@ -7,7 +7,11 @@
     "base64-img": "^1.0.3",
     "body-parser": "^1.17.2",
     "child_process": "^1.0.2",
-    "express": "^4.15.3"
+    "csv-to-array": "^1.0.2",
+    "csvtojson": "^1.1.5",
+    "express": "^4.15.3",
+    "textract": "^2.1.2",
+    "word-extractor": "^0.1.4"
   },
   "scripts": {
     "prestart": "npm install",

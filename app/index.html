@@ -2,146 +2,175 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-  <script src="http://ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js"></script>
-  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
-  <!--<script src="//code.jquery.com/jquery-1.12.4.js"></script>-->
-  <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
-  <!-- Ignite UI Required Combined JavaScript Files -->
-  <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/infragistics.core.js"></script>
-  <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/infragistics.lob.js"></script>
-  <!-- Javascript Excel Library -->
-  <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/modules/infragistics.documents.core.js"></script>
-  <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/modules/infragistics.excel.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.3/require.min.js"></script>
-  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
   <title>Selenium Tool</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/SeleniumToolstyle.css">
   <!--<link rel="stylesheet" type="text/css" href="css/styleold.css">-->
-  <script type="text/javascript" src="js/canvasjs.min.js"></script>
-  <script src='js/style.js'></script>
-  <script src='js/functions.js'></script>
-
-  <script src='js/style1.js'></script>
-
-
-
 </head>
 
-<body>
+<body class="scrollbar" id="style-14">
+  <div class="force-overflow">
+    <div class="header">
+      <img src="images/Roche_Logo.svg.png" alt="roche" style="width: 109px;margin-top: 6px;" />
+      <h1>TestComplete Automation Tool For IRIS </h1>
+      <div class="dropdown">
+        <button class="btn btn-default dropdown-toggle" id="help" data-toggle="dropdown">Help
+    <span class="caret"></span></button>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="menu1" style="margin-left: 1190px;">
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="aa.docx" target='_blank' title="Click here to open a Word document">Excelfile</a></li>
+          <li role="presentation"><a role="menuitem" tabindex="-1" href="NomineeDetails_4330894521.pdf" target='_blank' title="Click here to open a Word document">pdffile</a></li>
 
-  <div class="header">
-    <img src="images/roche.png" alt="roche" />
-    <h1>TestComplete Automation Tool For IRIS </h1>
-    <div class="divider"></div>
-  </div>
+        </ul>
+      </div>
+    </div>
 
-  <div class="tab">
-     <form class='uploader' action='/echo/json/'>
-  <fieldset>
-    <input type='file' multiple='multiple' style="display: none;" />
-  </fieldset>
-</form>
-    <!-- <button class="tablinks" onclick="openCity(event, 'Masterplan')">Master Plan</button> -->
-    <button class="tablinks" class="btn btn-info"><a href="result.html">Environment setup</a></button>
-    <!--<input id="file-input" type="file" name="name" style="display: none;" />-->
+    <div class="tab btn-group btn-group-lg" style="margin-left: 30%;margin-top: 5%;">
+      <form class='uploader' action='/echo/json/'>
+        <fieldset>
+          <input type='file' multiple='multiple' style="display: none;" />
+        </fieldset>
+      </form>
+
+      <button type="button" class="btn btn-info" style="border-top-left-radius: 8px;border-bottom-left-radius: 8px;">
+          <a href="result.html"style="height:10px;width:10px;">Environment setup</a></button>
+      <button type="button" class="  btn btn-info " id="id">Execute</button>
+      <button type="button" class="  btn btn-info" onclick="getProfileItem()">Results</button>
+      <button type="button" class="  btn  btn-info" id="html"> html	</button>
+
+
+
+    </div>
+
+    <div id="testData"></div>
+
+
+
+    <ol>
+      <li>Download this <a href="https://www.igniteui.com/HtmlSamples/javascript-excel-library/report.xlsx" download>sample  Excel file</a></li>
+      <li>Click Choose File/Browse button below and pick the sample Excel file or another excel file.</li>
+    </ol>
+     <button type="button" class="  btn  btn-info" id="Automation_logfolder" onclick="getAutomation_log()">Automation_log</button>
+    <button type="button" class="  btn  btn-info" id="Project-Reports" onclick="ProjectReports()"> Project Reports	</button><br>
+    <button id="back" onclick="back()" class="  btn  btn-info">Back</button><br><br>
+    <p id="resultsfolder"></p><br>
+    <table id="grid1"></table>
+    <p id="datahtml"></p><br>
+
+    <div id="chartContainer" style="width: 100%;">
+    </div>
+    <!--<button id="back">Back</button><br><br>-->
    
-    <button class="tablinks" class="btn btn-info" id="id">Execute</button>   
 
-    <!-- onclick="openCity()"-->
-    <button class="tablinks" class="btn btn-info" onclick="getProfileItem()">Results</button>
-    <button class="tablinks" class="btn btn-info" id="html">html</button>
-    <!-- onclick="openCity(event, 'Results')" --------------------------------------->
-    <!-- <button class="tablinks" onclick="openCity(event, 'Defects')">Defects</button> -->
-  </div>
-  <div id="testData"></div>
-  <ol>
-    <li>Download this <a href="https://www.igniteui.com/HtmlSamples/javascript-excel-library/report.xlsx" download>sample  Excel file</a></li>
-    <li>Click Choose File/Browse button below and pick the sample Excel file or another excel file.</li>
-  </ol>
-  <table id="grid1" ></table>
-  <p id="datahtml"></p><br>
-   <p id="resultsfolder"></p><br>
-  <input type="file" id="input" accept="application/vnd.ms-excel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-  />
-<img id="test" alt="test" src=""></img>
-  <div id="result"></div>
- 
+    <table id="grid1" style="width:98%;margin-left: 1%;"></table>
 
-  <div id="Masterplan" class="tabcontent">
-    <p>Open and update Masterplan</p>
-    <a href='E:/testfiles/Testcase.xlsx' target="_blank">Master Plan</a>
-  </div>
-
-  <div id="Runplan" class="tabcontent">
-    <p>Create Runplan</p>
-    <input type="button" id="saveresult" name="cr" value="Create" onclick="createRunPlan();" &nbps;>
-    <a href='' id="openfile" target="_blank" disabled>Open last Created Runplan</a>
+    <!--<input type="file" id="input" accept="application/vnd.ms-excel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>-->
 
 
-    <p>Modify/Update Runplan</p>
-    <input type="file" id="file1" style="display:none">
-    <div id='link'><a href='' target="_blank" id="filelink" onclick="openFileOption();return;">Select and Open Runplan</a></div>
+    <img id="test" alt="test" src=""></img>
 
-  </div>
-  
-<!--<embed id="pdfdata" src="" height="400"></embed>-->
-  <div id="Execute" class="tabcontent">
-    <input type="file" id="file2" style="display:none">
-    <div id='link'><a href="#" id="filelink2" onclick="openFileOption2();return;">Select and Open Runplan</a></div>
-    <p> </p>
-    <input type="button" id="file2" value="Start Execution" onclick="deleteandexeute();">
 
-  </div>
+    <div id="result"></div>
 
-  <!-----<div id="Results" class="tabcontent" ">
-	 <p>Open Latest Result file</p> 
-   <a href='E:/testfiles/CurrentRun/Results.xlsx' target="_blank">Open Results of latest run</a>
-   <div id='link'><a href="#" id="filelink3" onclick ="ReadData1();">Select and Open Runplan</a></div>  -->
-  <div id="chartContainer" style="height: 800px; width: 100%;">
-  </div>
 
-  <div id="Defects" class="tabcontent">
-    <h3> </h3>
-    <p> </p>
-  </div>
-<div id="check"></div>
-<div id="fileData"></div>
-  <script>
-    var path;
-$('#id').on('click', function() {
-    $('.uploader input:file').click();
-});
+    <div id="Masterplan" class="tabcontent">
+      <p>Open and update Masterplan</p>
+      <a href='E:/testfiles/Testcase.xlsx' target="_blank">Master Plan</a>
+    </div>
 
-$('.uploader input:file').on('change', function() {
-    $this = $(this);
+    <div id="Runplan" class="tabcontent">
+      <p>Create Runplan</p>
+      <input type="button" id="saveresult" name="cr" value="Create" onclick="createRunPlan();" &nbps;>
+      <a href='' id="openfile" target="_blank" disabled>Open last Created Runplan</a>
 
-    $('.alert').remove();
 
-    $.each($this[0].files, function(key, file) {
-        $('.files').append('<li>' + file.name + '</li>');
+      <p>Modify/Update Runplan</p>
+      <input type="file" id="file1" style="display:none">
+      <div id='link'><a href='' target="_blank" id="filelink" onclick="openFileOption();return;">Select and Open Runplan</a></div>
 
-        var data = new FormData();
-        data.append(file.name, file);
-        console.log(file)
-        
-        $.ajax({
+    </div>
+
+    <div id="docdata"  href=""></div>
+    <!--<iframe class="docdata" src=""></iframe>-->
+
+    <div id="Execute" class="tabcontent">
+      <input type="file" id="file2" style="display:none">
+      <div id='link'><a href="#" id="filelink2" onclick="openFileOption2();return;">Select and Open Runplan</a></div>
+      <p> </p>
+      <input type="button" id="file2" value="Start Execution" onclick="deleteandexeute();">
+
+    </div>
+
+
+
+    <div id="Defects" class="tabcontent">
+      <h3> </h3>
+      <p> </p>
+    </div>
+    <!--  
+<div id="check"></div>-->
+    <div id="fileData"></div>
+
+    <script src="http://ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
+    <!--<script src="//code.jquery.com/jquery-1.12.4.js"></script>-->
+    <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <!-- Ignite UI Required Combined JavaScript Files -->
+    <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/infragistics.core.js"></script>
+    <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/infragistics.lob.js"></script>
+    <!-- Javascript Excel Library -->
+    <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/modules/infragistics.documents.core.js"></script>
+    <script src="http://cdn-na.infragistics.com/igniteui/2016.2/latest/js/modules/infragistics.excel.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.3/require.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+
+    <script type="text/javascript" src="js/canvasjs.min.js"></script>
+    <script src='js/style.js'></script>
+    <script src='js/functions.js'></script>
+    <script src='js/style1.js'></script>
+    <script>
+      var path;
+
+      $('#Automation_logfolder').hide();
+      $('#Project-Reports').hide();
+      $('#back').hide();
+
+
+
+      $('#id').on('click', function () {
+        $('.uploader input:file').click();
+      });
+
+      $('.uploader input:file').on('change', function () {
+        $this = $(this);
+
+        $('.alert').remove();
+
+        $.each($this[0].files, function (key, file) {
+          $('.files').append('<li>' + file.name + '</li>');
+
+          var data = new FormData();
+          data.append(file.name, file);
+          console.log(file)
+
+          $.ajax({
             url: "/app/test12",
             type: "POST",
             processData: false,
             data: data
+          });
         });
-    });
-});
+      });
+    </script>
 
-
-
-
-  </script>
-
- 
+    <!--<div class="scrollbar" id="style-14">
+      <div class="force-overflow"></div>
+    </div>-->
+  </div>
 </body>
 
 </html>
